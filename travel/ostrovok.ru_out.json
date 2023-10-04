@@ -1,0 +1,80 @@
+{
+  "str": "roger",
+  "url": "https://ostrovok.ru/api/v3/site/accounts/v2/registration/",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://ostrovok.ru/api/v3/site/accounts/v2/registration/",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://ostrovok.ru/api/v3/site/accounts/v2/registration/",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://ostrovok.ru/api/v3/site/accounts/v2/registration/",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://ostrovok.ru/api/v3/site/accounts/v2/registration/",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://ostrovok.ru/api/v3/site/accounts/v2/registration/",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://ostrovok.ru/api/v3/site/accounts/v2/registration/",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://ostrovok.ru/api/v3/site/accounts/v2/registration/",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "b47b636ac3fcb606572fe960f38b703f",
+  "url": "https://sdk.adara.com/api",
+  "GET": "",
+  "POST": "{\"event\":{\"user_id\":\"b47b636ac3fcb606572fe960f38b703f\",\"referrer\":\"https://ostrovok.ru/?sid=5c1f2810-d8eb-47c2-b6ba-4e7ec2dd843d\",\"currency\":\"USD\",\"product_currency\":\"USD\",\"country_code\":\"US\",\"publisher_id\":831,\"partner_id\":4521,\"api_key\":\"NDZmNDg3MmItMzQ3Ny00MGMzLTk1YTEtMjM2MTAxMjZlZGM3\",\"state\":\"success\"},\"context\":{\"title\":\"Ostrovok.ru — online hotel booking\",\"path\":{\"ancestorOrigins\":{},\"href\":\"https://ostrovok.ru/?sid=5c1f2810-d8eb-47c2-b6ba-4e7ec2dd843d\",\"origin\":\"https://ostrovok.ru\",\"protocol\":\"https:\",\"host\":\"ostrovok.ru\",\"hostname\":\"ostrovok.ru\",\"port\":\"\",\"pathname\":\"/\",\"search\":\"?sid=5c1f2810-d8eb-47c2-b6ba-4e7ec2dd843d\",\"hash\":\"\"},\"clientDefined\":null,\"i\":{\"email_sha256\":\"eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039\"},\"sid\":\"\",\"cookie\":\"_yoid=90e15bf7-649d-4e87-8367-b76ff3aefb72; _yosid=fd4c0af3-67f3-40b9-b179-d3d1792b1104\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://sdk.adara.com/api",
+  "GET": "",
+  "POST": "{\"event\":{\"user_id\":\"b47b636ac3fcb606572fe960f38b703f\",\"referrer\":\"https://ostrovok.ru/?sid=5c1f2810-d8eb-47c2-b6ba-4e7ec2dd843d\",\"currency\":\"USD\",\"product_currency\":\"USD\",\"country_code\":\"US\",\"publisher_id\":831,\"partner_id\":4521,\"api_key\":\"NDZmNDg3MmItMzQ3Ny00MGMzLTk1YTEtMjM2MTAxMjZlZGM3\",\"state\":\"success\"},\"context\":{\"title\":\"Ostrovok.ru — online hotel booking\",\"path\":{\"ancestorOrigins\":{},\"href\":\"https://ostrovok.ru/?sid=5c1f2810-d8eb-47c2-b6ba-4e7ec2dd843d\",\"origin\":\"https://ostrovok.ru\",\"protocol\":\"https:\",\"host\":\"ostrovok.ru\",\"hostname\":\"ostrovok.ru\",\"port\":\"\",\"pathname\":\"/\",\"search\":\"?sid=5c1f2810-d8eb-47c2-b6ba-4e7ec2dd843d\",\"hash\":\"\"},\"clientDefined\":null,\"i\":{\"email_sha256\":\"eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039\"},\"sid\":\"\",\"cookie\":\"_yoid=90e15bf7-649d-4e87-8367-b76ff3aefb72; _yosid=fd4c0af3-67f3-40b9-b179-d3d1792b1104\"}}",
+  "referer": "",
+  "cookie": ""
+}

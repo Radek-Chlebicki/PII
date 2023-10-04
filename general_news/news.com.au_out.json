@@ -1,0 +1,592 @@
+{
+  "str": "roger",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZX",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "GET": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZX",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "GET": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZX",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "GET": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "b47b636ac3fcb606572fe960f38b703f",
+  "url": "https://s.gravatar.com/avatar/b47b636ac3fcb606572fe960f38b703f?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fro.png",
+  "GET": "https://s.gravatar.com/avatar/b47b636ac3fcb606572fe960f38b703f?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fro.png",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://api.rlcdn.com/api/identity/envelope?pid=13726&it=4&iv=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&it=4&iv=b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "GET": "https://api.rlcdn.com/api/identity/envelope?pid=13726&it=4&iv=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&it=4&iv=b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://api.rlcdn.com/api/identity/envelope?pid=13726&it=4&iv=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&it=4&iv=b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "GET": "https://api.rlcdn.com/api/identity/envelope?pid=13726&it=4&iv=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&it=4&iv=b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "url": "https://api.rlcdn.com/api/identity/envelope?pid=13726&it=4&iv=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&it=4&iv=b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "GET": "https://api.rlcdn.com/api/identity/envelope?pid=13726&it=4&iv=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&it=4&iv=b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "url": "https://api.rlcdn.com/api/identity/envelope?pid=13726&it=4&iv=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&it=4&iv=b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "GET": "https://api.rlcdn.com/api/identity/envelope?pid=13726&it=4&iv=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&it=4&iv=b4607c2cd5ad9662de56c4605e5c1d165e949332",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZXJuYWRhbDMyMkBnbWFpbC5jb2",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "GET": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZXJuYWRhbDMyMkBnbWFpbC5jb2",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "GET": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZXJuYWRhbDMyMkBnbWFpbC5jb2",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "GET": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/email",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://login.newscorpaustralia.com/co/authenticate",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"realm\":\"NewsCorp-Australia\",\"credential_type\":\"http://auth0.com/oauth/grant-type/password-realm\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://commerceapi.news.com.au/identity/customers/cm9nZXJuYWRhbDMyMkBnbWFpbC5jb20=/token",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"masthead\":\"newscomau\",\"identityToken\":\"03AFY_a8X4yql87U1mw8vcyAVAmm3UQs0q9kIrWHTsAUOhaBaXfaEh6fj0xwef5-hvSWVknA0zbJURNcFOqkBKhNiwkPpKAeTdbOtZ9-8FR9ppmvSbXO2aDmn90Px0zdzIFO0PPoJds84OPXrz1UTjPqcjQiH7uDW4U-ybjF6O4Aw_sbGZLTNHvLDY37zOxqV-ED9TePMaoTjTVPmxgLdYZ_Qfq_79yDWXHTpNghG5zRDGXQsybmhK29hY4WxzscsYZG0TG20GNSZH2f-CoJSvnbvB8J4_L5Y56eIQdMYvcL2LX2JnE1bJf_QQ-jVAgijudlmBN1AiF--uoBUoaqp9fN91difVXEw7duKFPvB3Dvz4U6P2OU6zPA6cwTRnnIM-bIsxNkoo4bWSRQ0ygLw5T4BkdFE7XhY-zVaYwm0huSyX5AO9tL67LfHTvEA6Cjd2D5XA-z2foOTQSmcN6ICjS96KN7xstmuB9nd8MD8cA7YYQNkLZqru--xfSVwkteWZGTAcs_oU_gNqLxFAXLi2E2AMCU2yZ3rpKg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://login.newscorpaustralia.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"4kpLW1s8YHsjoFv70uRwHdOjIg3sE85A\",\"redirect_uri\":\"https://www.news.com.au/remote/identity/auth/latest/login/callback.html?redirectUri=https%3A%2F%2Fwww.news.com.au%2Fsubscribe%2Fnews%2F1%2F%3Fint_medium%3Ddisplay%26int_source%3Dsite-link%26int_campaign%3Dacq_onsite_login%26int_content%3Dlink%26sourceCode%3DNWWEB_ONS_100_H%26mode%3Dregister\",\"tenant\":\"newsprod\",\"response_type\":\"token id_token\",\"scope\":\"openid profile\",\"state\":\"hKFo2SBqOS0xOWkwWWMwNlBHcUlwOVVTZnJrTnlWSWZWdmRCcaFupWxvZ2luo3RpZNkgbjh3Yng0RzdES1ZXMkQ5Tk9hdEo2NmlNWTJ0N2lvMWSjY2lk2SA0a3BMVzFzOFlIc2pvRnY3MHVSd0hkT2pJZzNzRTg1QQ\",\"nonce\":\".OZjakffqoDNrwT9n5cPX9tAHH~tw421\",\"connection\":\"NewsCorp-Australia\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"N8ebtKfm-u91Cy5Au1-XjOpVhGoxUxb4CyTM\",\"audience\":\"newscorpaustralia\",\"site\":\"newscomau\",\"auth0Client\":\"eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4yMC4wIn0=\",\"prevent_sign_up\":\"true\",\"protocol\":\"oauth2\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "MTIzQW5keSMhMD",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://commerceapi.news.com.au/commonapi/common/postcode_lookup?postalcode_startsWith=60201",
+  "GET": "https://commerceapi.news.com.au/commonapi/common/postcode_lookup?postalcode_startsWith=60201",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://commerceapi.news.com.au/commonapi/common/postcode_lookup?postalcode_startsWith=60201",
+  "GET": "https://commerceapi.news.com.au/commonapi/common/postcode_lookup?postalcode_startsWith=60201",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://commerceapi.news.com.au/customersapi/customers",
+  "GET": "",
+  "POST": "{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"username\":\"rogernadal322@gmail.com\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"MTIzQW5keSMhMDAw\",\"phoneNumbers\":[\"\"],\"site\":\"news\",\"birthYear\":\"\",\"acceptedTermsAndCondition\":true,\"optIn\":true,\"organizationName\":\"\",\"industrySector\":\"\",\"abn\":\"\",\"token\":\"03AFY_a8W-asah2HZDOQzPLrF0JYZiOaLNBTPzQ3wcEtO-3_9bzIyS3rqQ1IiEIJiBzl47CknPagn6BnfR27IEpAe4SanSxn4q1Oy2QxyvZa_xeKRZNl74LwYctydqFldPKZLRV67GfaExsgk32wrvRjUGCVYQSigHpBgaEBGdtB2M8m7qPwKOh98O53_16jgc6b6pQYbqOHaLbXH6g24ta0Cc-UGB2vW3FUdeUCwFEmjhhj9VD-1ieCEwSvvEb6XgxN7GHI7oYa3aMztUG8kUv9yxhie-JFNsbmD6tKtnp991bpczVECfYhNuUUX_Dm0TxQElQW3VhqBno7bAl4TUo5QFVzCm1vGLaJ6SrNcNbvwC7LJbjJkwHhrQmDh-QzO9cD7iW18YpderBS5qWOccLQQZw3rnyDij2OFjg7YVZOPCbIhrXokdkb9nepVu-oZDa0rf2Xumib9__0RWkVxJ1Y7b1hPhyKoOAs4-wUuOzw0el16QXJle0HTgbtJd9UD88yMKjxoKlHj7e4ySxZrGNc5GKth2U9Ytjg\",\"intendedOrders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"streetAddress1\":\"\",\"streetAddress2\":\"\",\"city\":\"\",\"state\":\"\",\"postCode\":\"60201\",\"country\":\"AUSTRALIA\",\"formattedAddress\":\"\",\"dpid\":\"\",\"formattedPostCode\":\"60201\",\"id\":\"\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://commerceapi.news.com.au/ordersapi/orders/63298555",
+  "GET": "",
+  "POST": "{\"customer\":{\"customerId\":\"63298555\",\"email\":\"rogernadal322@gmail.com\",\"phoneNumbers\":[\"\"],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}},\"token\":\"03AFY_a8Wcq-S9P8lcx2TMYl7nsAKOzJ0lP_IGfbhixiCKlSdgYodKB86b2HcLP4dK-R5u9M6Wg08dCR-aVrqgxcKMy0UVFY1GnRKh_J-sAIYM8-ILqvOfdOFz2TQMHRQlU4tO8pfrLqGecBa4ocPhR-TIuWvi82REzbOWBNkZWpYCcFPArse9Mo2BgQII9AwjEjoNqijRGZOzATfrFpJE1ome3hiLjXq9Rw97DzuROCA7jEUbsPmEg75_oX_f_NCoPUUw9zc0WKfCDRDW0glSkOYg4bnW5SU2AbI84UBAqjmnXi8DsI8F5S1O5JFJhYz1htV3q_x18hmkRk2gksHLqlBBgX6LY0jlnxXmjka4M4VhkqECjER6Od_gT1bpZ203J3hElQRT8mGCkrWsK6OJCfmnrpV3fFhxsgCwXMFZyWPChm40rrZahcPgcdHzPnYwAHZQNw4h4FHkusJIY83yov21WrUfros0b8JwUYcTgE7nxxcsbLCTuNKaafqC8C2xHPE0SURJUBNQX0cIDp7jawdFoKqI8zEyHg\",\"orders\":[{\"pkgDef\":\"NL_OFF_RGPEP\",\"siteId\":\"newscomau\",\"sourceCode\":\"NWWEB_ONS_100_H\",\"v21\":\"nw-user-driven-registration-spc\"}],\"deliveryAddress\":{},\"billingAddress\":{\"id\":\"1\",\"state\":\"OTH\",\"city\":\"NOT PROVIDED\",\"country\":\"NOT PROVIDED\",\"postCode\":\"60201\",\"addressType\":\"PRIMARY\",\"formattedAddress\":\"NOT PROVIDED OTH\",\"sameAsBilling\":false}}",
+  "referer": "",
+  "cookie": ""
+}

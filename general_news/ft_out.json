@@ -1,0 +1,416 @@
+{
+  "str": "roger",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=IuL5i60i-5-i0KquV_22O3NCabvr23b6OeKQ&formType=enter-password&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&password=123Andy%23%21000&rememberMe=true&h-captcha-response=P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.hKdwYXNza2V5xQPMF99FKNsJHqfjSldfT0go3kbHGKXpTI9nfnxYfiqd6eKFG0PMlbRqzjzWY51E4syxFxk0X3pThRftZeVS0UrfoZr7HvzvktK72SkQyB_mIYmJGRtW-dVpRO_COm-0aI5-J_kxHaDPUvBukefRsZMK2foZUXWaOsD8VtuZECNOwzYWjlszmZJAvXKu8nqxNmukzVuH9bdJlJ6eY_dSuRgb1UAplYKuwgsF3O3lfqijzaZwNX94o1ZYQ-2w18gl1OFswQJVQ6V9UShzTMXywAGxzQG3VS31-_0drdm_TTlsQRtHI9_PNyjztt7jACCZ2Dj4H4HWY6WF8FStKAbuMt_vz1kZE3b2aT6htff3a_Xxa2yiPf9dXe4yGMnzJmvirr6JRuz0uFNYXZThub9fCqAzJmdgEJF351tXKaI7TLrF-XcwttRjSaYSooMntetnguARWGDSwLXoA4aYrbG8_gQMPoeTYMaZ0zRLWUXtbx5HHEHqBHQzou3kwRgnFP3Yay97gmlcdU-X9QzTW_YukmJfjLO_VKqUjrRQme0MgC8NoCXiCwvfqCDhUKhw8y75X08tW5kKMtKPOGHNUJdx6GrXdaFFC4WCtkpnIkpYxh-C4saOxfx4ueOEniga5cg7eoI4FPAxAk0nP5F4HlOAq3M99Qmaf8LlTYDpwJU7xz2uI3jNbR2Za1e6TRkGWuXaKX6b509fqrKoBZJTxUdNu4UB_SSHyoZ5xnZHOITXr-XLxcWR-bIRlFPfSgjqZBBEGQ6tRFn3qu_4x_6pyeLRfv1YnKk1gRCD95BtfblblurhHlYLTpoM8_pjPOVt0sFESyvLsTgbP4VGS9lMjgj6phaKjro9-n9oro3jkPdyK0syl9WMuZJjQ_HALAd5Yv0iQTMAKBvJl4pA_L0I4WNfBGYRWjsIkX1BE3Qni3JVaww9qHQIJ99jEF5EbEzMiqgWlalcv6C4_51xzbIClqqmn6TqqkM_VkuAeOYGmy3B-5lngkOoqMSbyJ7cEQmTRkJrmy5FJMJegCcNUJHG_M0dm-0VpmY1pv44Dz4KectAlzypV8md0i__s8F4ekPWxTVtpJsjslWiAMXw3xBjMNAYiqZCL3s5bF8PZyjVQgrSkHZu-e80cBdlpFdU4A-fV-vJqIY-x9oXn8GA0RrH1xMAGLd7x-1Cxx5NbNyCDZQ4cGKmPe5yYhQ9mhYTg4MJ4WekSSsk1ZElNwvvO78xsaP2ekW_wW_C2KvGmxyBTs9Eh9nCuCiDSuyILgj1m49HbGWK7w5oIEJ3dUqa5OaSkg2So2V4cM5j8GnnqHNoYXJkX2lkzjGtTIGicGQA.cqq20mv4MTztNbUieDAopEmguikvLtL39f4K1Z4O7XA&siteKey=ba092a79-b9b0-485d-bf26-306161465c49",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.ft.com/register/account?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg&email=rogernadal322%40gmail.com&password=123Andy%23%21000&formOfWordsId=consentB2CSignup%2Fyhp4sBL6EFNcxdidx.GG6czpVJT8sEJZ&formOfWordsScope=FTPINK&consentSource=next-consent-proxy&termsAcceptance=true",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.ft.com/register/preferences?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=B7ccrxxu-bjwT__m954FlaaNEcnVLh0fUhek&firstName=roger&lastName=nadal&country=USA&industry=RTL&responsibility=ADL&position=AS",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=IuL5i60i-5-i0KquV_22O3NCabvr23b6OeKQ&formType=enter-password&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&password=123Andy%23%21000&rememberMe=true&h-captcha-response=P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.hKdwYXNza2V5xQPMF99FKNsJHqfjSldfT0go3kbHGKXpTI9nfnxYfiqd6eKFG0PMlbRqzjzWY51E4syxFxk0X3pThRftZeVS0UrfoZr7HvzvktK72SkQyB_mIYmJGRtW-dVpRO_COm-0aI5-J_kxHaDPUvBukefRsZMK2foZUXWaOsD8VtuZECNOwzYWjlszmZJAvXKu8nqxNmukzVuH9bdJlJ6eY_dSuRgb1UAplYKuwgsF3O3lfqijzaZwNX94o1ZYQ-2w18gl1OFswQJVQ6V9UShzTMXywAGxzQG3VS31-_0drdm_TTlsQRtHI9_PNyjztt7jACCZ2Dj4H4HWY6WF8FStKAbuMt_vz1kZE3b2aT6htff3a_Xxa2yiPf9dXe4yGMnzJmvirr6JRuz0uFNYXZThub9fCqAzJmdgEJF351tXKaI7TLrF-XcwttRjSaYSooMntetnguARWGDSwLXoA4aYrbG8_gQMPoeTYMaZ0zRLWUXtbx5HHEHqBHQzou3kwRgnFP3Yay97gmlcdU-X9QzTW_YukmJfjLO_VKqUjrRQme0MgC8NoCXiCwvfqCDhUKhw8y75X08tW5kKMtKPOGHNUJdx6GrXdaFFC4WCtkpnIkpYxh-C4saOxfx4ueOEniga5cg7eoI4FPAxAk0nP5F4HlOAq3M99Qmaf8LlTYDpwJU7xz2uI3jNbR2Za1e6TRkGWuXaKX6b509fqrKoBZJTxUdNu4UB_SSHyoZ5xnZHOITXr-XLxcWR-bIRlFPfSgjqZBBEGQ6tRFn3qu_4x_6pyeLRfv1YnKk1gRCD95BtfblblurhHlYLTpoM8_pjPOVt0sFESyvLsTgbP4VGS9lMjgj6phaKjro9-n9oro3jkPdyK0syl9WMuZJjQ_HALAd5Yv0iQTMAKBvJl4pA_L0I4WNfBGYRWjsIkX1BE3Qni3JVaww9qHQIJ99jEF5EbEzMiqgWlalcv6C4_51xzbIClqqmn6TqqkM_VkuAeOYGmy3B-5lngkOoqMSbyJ7cEQmTRkJrmy5FJMJegCcNUJHG_M0dm-0VpmY1pv44Dz4KectAlzypV8md0i__s8F4ekPWxTVtpJsjslWiAMXw3xBjMNAYiqZCL3s5bF8PZyjVQgrSkHZu-e80cBdlpFdU4A-fV-vJqIY-x9oXn8GA0RrH1xMAGLd7x-1Cxx5NbNyCDZQ4cGKmPe5yYhQ9mhYTg4MJ4WekSSsk1ZElNwvvO78xsaP2ekW_wW_C2KvGmxyBTs9Eh9nCuCiDSuyILgj1m49HbGWK7w5oIEJ3dUqa5OaSkg2So2V4cM5j8GnnqHNoYXJkX2lkzjGtTIGicGQA.cqq20mv4MTztNbUieDAopEmguikvLtL39f4K1Z4O7XA&siteKey=ba092a79-b9b0-485d-bf26-306161465c49",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.ft.com/register/account?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg&email=rogernadal322%40gmail.com&password=123Andy%23%21000&formOfWordsId=consentB2CSignup%2Fyhp4sBL6EFNcxdidx.GG6czpVJT8sEJZ&formOfWordsScope=FTPINK&consentSource=next-consent-proxy&termsAcceptance=true",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.ft.com/register/preferences?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=B7ccrxxu-bjwT__m954FlaaNEcnVLh0fUhek&firstName=roger&lastName=nadal&country=USA&industry=RTL&responsibility=ADL&position=AS",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=IuL5i60i-5-i0KquV_22O3NCabvr23b6OeKQ&formType=enter-password&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&password=123Andy%23%21000&rememberMe=true&h-captcha-response=P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.hKdwYXNza2V5xQPMF99FKNsJHqfjSldfT0go3kbHGKXpTI9nfnxYfiqd6eKFG0PMlbRqzjzWY51E4syxFxk0X3pThRftZeVS0UrfoZr7HvzvktK72SkQyB_mIYmJGRtW-dVpRO_COm-0aI5-J_kxHaDPUvBukefRsZMK2foZUXWaOsD8VtuZECNOwzYWjlszmZJAvXKu8nqxNmukzVuH9bdJlJ6eY_dSuRgb1UAplYKuwgsF3O3lfqijzaZwNX94o1ZYQ-2w18gl1OFswQJVQ6V9UShzTMXywAGxzQG3VS31-_0drdm_TTlsQRtHI9_PNyjztt7jACCZ2Dj4H4HWY6WF8FStKAbuMt_vz1kZE3b2aT6htff3a_Xxa2yiPf9dXe4yGMnzJmvirr6JRuz0uFNYXZThub9fCqAzJmdgEJF351tXKaI7TLrF-XcwttRjSaYSooMntetnguARWGDSwLXoA4aYrbG8_gQMPoeTYMaZ0zRLWUXtbx5HHEHqBHQzou3kwRgnFP3Yay97gmlcdU-X9QzTW_YukmJfjLO_VKqUjrRQme0MgC8NoCXiCwvfqCDhUKhw8y75X08tW5kKMtKPOGHNUJdx6GrXdaFFC4WCtkpnIkpYxh-C4saOxfx4ueOEniga5cg7eoI4FPAxAk0nP5F4HlOAq3M99Qmaf8LlTYDpwJU7xz2uI3jNbR2Za1e6TRkGWuXaKX6b509fqrKoBZJTxUdNu4UB_SSHyoZ5xnZHOITXr-XLxcWR-bIRlFPfSgjqZBBEGQ6tRFn3qu_4x_6pyeLRfv1YnKk1gRCD95BtfblblurhHlYLTpoM8_pjPOVt0sFESyvLsTgbP4VGS9lMjgj6phaKjro9-n9oro3jkPdyK0syl9WMuZJjQ_HALAd5Yv0iQTMAKBvJl4pA_L0I4WNfBGYRWjsIkX1BE3Qni3JVaww9qHQIJ99jEF5EbEzMiqgWlalcv6C4_51xzbIClqqmn6TqqkM_VkuAeOYGmy3B-5lngkOoqMSbyJ7cEQmTRkJrmy5FJMJegCcNUJHG_M0dm-0VpmY1pv44Dz4KectAlzypV8md0i__s8F4ekPWxTVtpJsjslWiAMXw3xBjMNAYiqZCL3s5bF8PZyjVQgrSkHZu-e80cBdlpFdU4A-fV-vJqIY-x9oXn8GA0RrH1xMAGLd7x-1Cxx5NbNyCDZQ4cGKmPe5yYhQ9mhYTg4MJ4WekSSsk1ZElNwvvO78xsaP2ekW_wW_C2KvGmxyBTs9Eh9nCuCiDSuyILgj1m49HbGWK7w5oIEJ3dUqa5OaSkg2So2V4cM5j8GnnqHNoYXJkX2lkzjGtTIGicGQA.cqq20mv4MTztNbUieDAopEmguikvLtL39f4K1Z4O7XA&siteKey=ba092a79-b9b0-485d-bf26-306161465c49",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.ft.com/register/account?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg&email=rogernadal322%40gmail.com&password=123Andy%23%21000&formOfWordsId=consentB2CSignup%2Fyhp4sBL6EFNcxdidx.GG6czpVJT8sEJZ&formOfWordsScope=FTPINK&consentSource=next-consent-proxy&termsAcceptance=true",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.ft.com/register/preferences?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=B7ccrxxu-bjwT__m954FlaaNEcnVLh0fUhek&firstName=roger&lastName=nadal&country=USA&industry=RTL&responsibility=ADL&position=AS",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=IuL5i60i-5-i0KquV_22O3NCabvr23b6OeKQ&formType=enter-password&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&password=123Andy%23%21000&rememberMe=true&h-captcha-response=P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.hKdwYXNza2V5xQPMF99FKNsJHqfjSldfT0go3kbHGKXpTI9nfnxYfiqd6eKFG0PMlbRqzjzWY51E4syxFxk0X3pThRftZeVS0UrfoZr7HvzvktK72SkQyB_mIYmJGRtW-dVpRO_COm-0aI5-J_kxHaDPUvBukefRsZMK2foZUXWaOsD8VtuZECNOwzYWjlszmZJAvXKu8nqxNmukzVuH9bdJlJ6eY_dSuRgb1UAplYKuwgsF3O3lfqijzaZwNX94o1ZYQ-2w18gl1OFswQJVQ6V9UShzTMXywAGxzQG3VS31-_0drdm_TTlsQRtHI9_PNyjztt7jACCZ2Dj4H4HWY6WF8FStKAbuMt_vz1kZE3b2aT6htff3a_Xxa2yiPf9dXe4yGMnzJmvirr6JRuz0uFNYXZThub9fCqAzJmdgEJF351tXKaI7TLrF-XcwttRjSaYSooMntetnguARWGDSwLXoA4aYrbG8_gQMPoeTYMaZ0zRLWUXtbx5HHEHqBHQzou3kwRgnFP3Yay97gmlcdU-X9QzTW_YukmJfjLO_VKqUjrRQme0MgC8NoCXiCwvfqCDhUKhw8y75X08tW5kKMtKPOGHNUJdx6GrXdaFFC4WCtkpnIkpYxh-C4saOxfx4ueOEniga5cg7eoI4FPAxAk0nP5F4HlOAq3M99Qmaf8LlTYDpwJU7xz2uI3jNbR2Za1e6TRkGWuXaKX6b509fqrKoBZJTxUdNu4UB_SSHyoZ5xnZHOITXr-XLxcWR-bIRlFPfSgjqZBBEGQ6tRFn3qu_4x_6pyeLRfv1YnKk1gRCD95BtfblblurhHlYLTpoM8_pjPOVt0sFESyvLsTgbP4VGS9lMjgj6phaKjro9-n9oro3jkPdyK0syl9WMuZJjQ_HALAd5Yv0iQTMAKBvJl4pA_L0I4WNfBGYRWjsIkX1BE3Qni3JVaww9qHQIJ99jEF5EbEzMiqgWlalcv6C4_51xzbIClqqmn6TqqkM_VkuAeOYGmy3B-5lngkOoqMSbyJ7cEQmTRkJrmy5FJMJegCcNUJHG_M0dm-0VpmY1pv44Dz4KectAlzypV8md0i__s8F4ekPWxTVtpJsjslWiAMXw3xBjMNAYiqZCL3s5bF8PZyjVQgrSkHZu-e80cBdlpFdU4A-fV-vJqIY-x9oXn8GA0RrH1xMAGLd7x-1Cxx5NbNyCDZQ4cGKmPe5yYhQ9mhYTg4MJ4WekSSsk1ZElNwvvO78xsaP2ekW_wW_C2KvGmxyBTs9Eh9nCuCiDSuyILgj1m49HbGWK7w5oIEJ3dUqa5OaSkg2So2V4cM5j8GnnqHNoYXJkX2lkzjGtTIGicGQA.cqq20mv4MTztNbUieDAopEmguikvLtL39f4K1Z4O7XA&siteKey=ba092a79-b9b0-485d-bf26-306161465c49",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.ft.com/register/account?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg&email=rogernadal322%40gmail.com&password=123Andy%23%21000&formOfWordsId=consentB2CSignup%2Fyhp4sBL6EFNcxdidx.GG6czpVJT8sEJZ&formOfWordsScope=FTPINK&consentSource=next-consent-proxy&termsAcceptance=true",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.ft.com/register/preferences?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=B7ccrxxu-bjwT__m954FlaaNEcnVLh0fUhek&firstName=roger&lastName=nadal&country=USA&industry=RTL&responsibility=ADL&position=AS",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=IuL5i60i-5-i0KquV_22O3NCabvr23b6OeKQ&formType=enter-password&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&password=123Andy%23%21000&rememberMe=true&h-captcha-response=P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.hKdwYXNza2V5xQPMF99FKNsJHqfjSldfT0go3kbHGKXpTI9nfnxYfiqd6eKFG0PMlbRqzjzWY51E4syxFxk0X3pThRftZeVS0UrfoZr7HvzvktK72SkQyB_mIYmJGRtW-dVpRO_COm-0aI5-J_kxHaDPUvBukefRsZMK2foZUXWaOsD8VtuZECNOwzYWjlszmZJAvXKu8nqxNmukzVuH9bdJlJ6eY_dSuRgb1UAplYKuwgsF3O3lfqijzaZwNX94o1ZYQ-2w18gl1OFswQJVQ6V9UShzTMXywAGxzQG3VS31-_0drdm_TTlsQRtHI9_PNyjztt7jACCZ2Dj4H4HWY6WF8FStKAbuMt_vz1kZE3b2aT6htff3a_Xxa2yiPf9dXe4yGMnzJmvirr6JRuz0uFNYXZThub9fCqAzJmdgEJF351tXKaI7TLrF-XcwttRjSaYSooMntetnguARWGDSwLXoA4aYrbG8_gQMPoeTYMaZ0zRLWUXtbx5HHEHqBHQzou3kwRgnFP3Yay97gmlcdU-X9QzTW_YukmJfjLO_VKqUjrRQme0MgC8NoCXiCwvfqCDhUKhw8y75X08tW5kKMtKPOGHNUJdx6GrXdaFFC4WCtkpnIkpYxh-C4saOxfx4ueOEniga5cg7eoI4FPAxAk0nP5F4HlOAq3M99Qmaf8LlTYDpwJU7xz2uI3jNbR2Za1e6TRkGWuXaKX6b509fqrKoBZJTxUdNu4UB_SSHyoZ5xnZHOITXr-XLxcWR-bIRlFPfSgjqZBBEGQ6tRFn3qu_4x_6pyeLRfv1YnKk1gRCD95BtfblblurhHlYLTpoM8_pjPOVt0sFESyvLsTgbP4VGS9lMjgj6phaKjro9-n9oro3jkPdyK0syl9WMuZJjQ_HALAd5Yv0iQTMAKBvJl4pA_L0I4WNfBGYRWjsIkX1BE3Qni3JVaww9qHQIJ99jEF5EbEzMiqgWlalcv6C4_51xzbIClqqmn6TqqkM_VkuAeOYGmy3B-5lngkOoqMSbyJ7cEQmTRkJrmy5FJMJegCcNUJHG_M0dm-0VpmY1pv44Dz4KectAlzypV8md0i__s8F4ekPWxTVtpJsjslWiAMXw3xBjMNAYiqZCL3s5bF8PZyjVQgrSkHZu-e80cBdlpFdU4A-fV-vJqIY-x9oXn8GA0RrH1xMAGLd7x-1Cxx5NbNyCDZQ4cGKmPe5yYhQ9mhYTg4MJ4WekSSsk1ZElNwvvO78xsaP2ekW_wW_C2KvGmxyBTs9Eh9nCuCiDSuyILgj1m49HbGWK7w5oIEJ3dUqa5OaSkg2So2V4cM5j8GnnqHNoYXJkX2lkzjGtTIGicGQA.cqq20mv4MTztNbUieDAopEmguikvLtL39f4K1Z4O7XA&siteKey=ba092a79-b9b0-485d-bf26-306161465c49",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.ft.com/register/account?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg&email=rogernadal322%40gmail.com&password=123Andy%23%21000&formOfWordsId=consentB2CSignup%2Fyhp4sBL6EFNcxdidx.GG6czpVJT8sEJZ&formOfWordsScope=FTPINK&consentSource=next-consent-proxy&termsAcceptance=true",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=IuL5i60i-5-i0KquV_22O3NCabvr23b6OeKQ&formType=enter-password&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&password=123Andy%23%21000&rememberMe=true&h-captcha-response=P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.hKdwYXNza2V5xQPMF99FKNsJHqfjSldfT0go3kbHGKXpTI9nfnxYfiqd6eKFG0PMlbRqzjzWY51E4syxFxk0X3pThRftZeVS0UrfoZr7HvzvktK72SkQyB_mIYmJGRtW-dVpRO_COm-0aI5-J_kxHaDPUvBukefRsZMK2foZUXWaOsD8VtuZECNOwzYWjlszmZJAvXKu8nqxNmukzVuH9bdJlJ6eY_dSuRgb1UAplYKuwgsF3O3lfqijzaZwNX94o1ZYQ-2w18gl1OFswQJVQ6V9UShzTMXywAGxzQG3VS31-_0drdm_TTlsQRtHI9_PNyjztt7jACCZ2Dj4H4HWY6WF8FStKAbuMt_vz1kZE3b2aT6htff3a_Xxa2yiPf9dXe4yGMnzJmvirr6JRuz0uFNYXZThub9fCqAzJmdgEJF351tXKaI7TLrF-XcwttRjSaYSooMntetnguARWGDSwLXoA4aYrbG8_gQMPoeTYMaZ0zRLWUXtbx5HHEHqBHQzou3kwRgnFP3Yay97gmlcdU-X9QzTW_YukmJfjLO_VKqUjrRQme0MgC8NoCXiCwvfqCDhUKhw8y75X08tW5kKMtKPOGHNUJdx6GrXdaFFC4WCtkpnIkpYxh-C4saOxfx4ueOEniga5cg7eoI4FPAxAk0nP5F4HlOAq3M99Qmaf8LlTYDpwJU7xz2uI3jNbR2Za1e6TRkGWuXaKX6b509fqrKoBZJTxUdNu4UB_SSHyoZ5xnZHOITXr-XLxcWR-bIRlFPfSgjqZBBEGQ6tRFn3qu_4x_6pyeLRfv1YnKk1gRCD95BtfblblurhHlYLTpoM8_pjPOVt0sFESyvLsTgbP4VGS9lMjgj6phaKjro9-n9oro3jkPdyK0syl9WMuZJjQ_HALAd5Yv0iQTMAKBvJl4pA_L0I4WNfBGYRWjsIkX1BE3Qni3JVaww9qHQIJ99jEF5EbEzMiqgWlalcv6C4_51xzbIClqqmn6TqqkM_VkuAeOYGmy3B-5lngkOoqMSbyJ7cEQmTRkJrmy5FJMJegCcNUJHG_M0dm-0VpmY1pv44Dz4KectAlzypV8md0i__s8F4ekPWxTVtpJsjslWiAMXw3xBjMNAYiqZCL3s5bF8PZyjVQgrSkHZu-e80cBdlpFdU4A-fV-vJqIY-x9oXn8GA0RrH1xMAGLd7x-1Cxx5NbNyCDZQ4cGKmPe5yYhQ9mhYTg4MJ4WekSSsk1ZElNwvvO78xsaP2ekW_wW_C2KvGmxyBTs9Eh9nCuCiDSuyILgj1m49HbGWK7w5oIEJ3dUqa5OaSkg2So2V4cM5j8GnnqHNoYXJkX2lkzjGtTIGicGQA.cqq20mv4MTztNbUieDAopEmguikvLtL39f4K1Z4O7XA&siteKey=ba092a79-b9b0-485d-bf26-306161465c49",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.ft.com/register/account?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg&email=rogernadal322%40gmail.com&password=123Andy%23%21000&formOfWordsId=consentB2CSignup%2Fyhp4sBL6EFNcxdidx.GG6czpVJT8sEJZ&formOfWordsScope=FTPINK&consentSource=next-consent-proxy&termsAcceptance=true",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=IuL5i60i-5-i0KquV_22O3NCabvr23b6OeKQ&formType=enter-password&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&password=123Andy%23%21000&rememberMe=true&h-captcha-response=P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.hKdwYXNza2V5xQPMF99FKNsJHqfjSldfT0go3kbHGKXpTI9nfnxYfiqd6eKFG0PMlbRqzjzWY51E4syxFxk0X3pThRftZeVS0UrfoZr7HvzvktK72SkQyB_mIYmJGRtW-dVpRO_COm-0aI5-J_kxHaDPUvBukefRsZMK2foZUXWaOsD8VtuZECNOwzYWjlszmZJAvXKu8nqxNmukzVuH9bdJlJ6eY_dSuRgb1UAplYKuwgsF3O3lfqijzaZwNX94o1ZYQ-2w18gl1OFswQJVQ6V9UShzTMXywAGxzQG3VS31-_0drdm_TTlsQRtHI9_PNyjztt7jACCZ2Dj4H4HWY6WF8FStKAbuMt_vz1kZE3b2aT6htff3a_Xxa2yiPf9dXe4yGMnzJmvirr6JRuz0uFNYXZThub9fCqAzJmdgEJF351tXKaI7TLrF-XcwttRjSaYSooMntetnguARWGDSwLXoA4aYrbG8_gQMPoeTYMaZ0zRLWUXtbx5HHEHqBHQzou3kwRgnFP3Yay97gmlcdU-X9QzTW_YukmJfjLO_VKqUjrRQme0MgC8NoCXiCwvfqCDhUKhw8y75X08tW5kKMtKPOGHNUJdx6GrXdaFFC4WCtkpnIkpYxh-C4saOxfx4ueOEniga5cg7eoI4FPAxAk0nP5F4HlOAq3M99Qmaf8LlTYDpwJU7xz2uI3jNbR2Za1e6TRkGWuXaKX6b509fqrKoBZJTxUdNu4UB_SSHyoZ5xnZHOITXr-XLxcWR-bIRlFPfSgjqZBBEGQ6tRFn3qu_4x_6pyeLRfv1YnKk1gRCD95BtfblblurhHlYLTpoM8_pjPOVt0sFESyvLsTgbP4VGS9lMjgj6phaKjro9-n9oro3jkPdyK0syl9WMuZJjQ_HALAd5Yv0iQTMAKBvJl4pA_L0I4WNfBGYRWjsIkX1BE3Qni3JVaww9qHQIJ99jEF5EbEzMiqgWlalcv6C4_51xzbIClqqmn6TqqkM_VkuAeOYGmy3B-5lngkOoqMSbyJ7cEQmTRkJrmy5FJMJegCcNUJHG_M0dm-0VpmY1pv44Dz4KectAlzypV8md0i__s8F4ekPWxTVtpJsjslWiAMXw3xBjMNAYiqZCL3s5bF8PZyjVQgrSkHZu-e80cBdlpFdU4A-fV-vJqIY-x9oXn8GA0RrH1xMAGLd7x-1Cxx5NbNyCDZQ4cGKmPe5yYhQ9mhYTg4MJ4WekSSsk1ZElNwvvO78xsaP2ekW_wW_C2KvGmxyBTs9Eh9nCuCiDSuyILgj1m49HbGWK7w5oIEJ3dUqa5OaSkg2So2V4cM5j8GnnqHNoYXJkX2lkzjGtTIGicGQA.cqq20mv4MTztNbUieDAopEmguikvLtL39f4K1Z4O7XA&siteKey=ba092a79-b9b0-485d-bf26-306161465c49",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.ft.com/register/account?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg&email=rogernadal322%40gmail.com&password=123Andy%23%21000&formOfWordsId=consentB2CSignup%2Fyhp4sBL6EFNcxdidx.GG6czpVJT8sEJZ&formOfWordsScope=FTPINK&consentSource=next-consent-proxy&termsAcceptance=true",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=IuL5i60i-5-i0KquV_22O3NCabvr23b6OeKQ&formType=enter-password&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&password=123Andy%23%21000&rememberMe=true&h-captcha-response=P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.hKdwYXNza2V5xQPMF99FKNsJHqfjSldfT0go3kbHGKXpTI9nfnxYfiqd6eKFG0PMlbRqzjzWY51E4syxFxk0X3pThRftZeVS0UrfoZr7HvzvktK72SkQyB_mIYmJGRtW-dVpRO_COm-0aI5-J_kxHaDPUvBukefRsZMK2foZUXWaOsD8VtuZECNOwzYWjlszmZJAvXKu8nqxNmukzVuH9bdJlJ6eY_dSuRgb1UAplYKuwgsF3O3lfqijzaZwNX94o1ZYQ-2w18gl1OFswQJVQ6V9UShzTMXywAGxzQG3VS31-_0drdm_TTlsQRtHI9_PNyjztt7jACCZ2Dj4H4HWY6WF8FStKAbuMt_vz1kZE3b2aT6htff3a_Xxa2yiPf9dXe4yGMnzJmvirr6JRuz0uFNYXZThub9fCqAzJmdgEJF351tXKaI7TLrF-XcwttRjSaYSooMntetnguARWGDSwLXoA4aYrbG8_gQMPoeTYMaZ0zRLWUXtbx5HHEHqBHQzou3kwRgnFP3Yay97gmlcdU-X9QzTW_YukmJfjLO_VKqUjrRQme0MgC8NoCXiCwvfqCDhUKhw8y75X08tW5kKMtKPOGHNUJdx6GrXdaFFC4WCtkpnIkpYxh-C4saOxfx4ueOEniga5cg7eoI4FPAxAk0nP5F4HlOAq3M99Qmaf8LlTYDpwJU7xz2uI3jNbR2Za1e6TRkGWuXaKX6b509fqrKoBZJTxUdNu4UB_SSHyoZ5xnZHOITXr-XLxcWR-bIRlFPfSgjqZBBEGQ6tRFn3qu_4x_6pyeLRfv1YnKk1gRCD95BtfblblurhHlYLTpoM8_pjPOVt0sFESyvLsTgbP4VGS9lMjgj6phaKjro9-n9oro3jkPdyK0syl9WMuZJjQ_HALAd5Yv0iQTMAKBvJl4pA_L0I4WNfBGYRWjsIkX1BE3Qni3JVaww9qHQIJ99jEF5EbEzMiqgWlalcv6C4_51xzbIClqqmn6TqqkM_VkuAeOYGmy3B-5lngkOoqMSbyJ7cEQmTRkJrmy5FJMJegCcNUJHG_M0dm-0VpmY1pv44Dz4KectAlzypV8md0i__s8F4ekPWxTVtpJsjslWiAMXw3xBjMNAYiqZCL3s5bF8PZyjVQgrSkHZu-e80cBdlpFdU4A-fV-vJqIY-x9oXn8GA0RrH1xMAGLd7x-1Cxx5NbNyCDZQ4cGKmPe5yYhQ9mhYTg4MJ4WekSSsk1ZElNwvvO78xsaP2ekW_wW_C2KvGmxyBTs9Eh9nCuCiDSuyILgj1m49HbGWK7w5oIEJ3dUqa5OaSkg2So2V4cM5j8GnnqHNoYXJkX2lkzjGtTIGicGQA.cqq20mv4MTztNbUieDAopEmguikvLtL39f4K1Z4O7XA&siteKey=ba092a79-b9b0-485d-bf26-306161465c49",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com",
+  "GET": "",
+  "POST": "_csrf=nzqT3nbq-ozOkmL20g5APhuzdry_c5DcYhj8&formType=enter-email&location=https%3A%2F%2Fwww.ft.com&email=rogernadal322%40gmail.com&_notUsed=",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.ft.com/register/account?location=https%3A%2F%2Fwww.ft.com&multistepRegForm=multistep&source=login_form",
+  "GET": "",
+  "POST": "_csrf=YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg&email=rogernadal322%40gmail.com&password=123Andy%23%21000&formOfWordsId=consentB2CSignup%2Fyhp4sBL6EFNcxdidx.GG6czpVJT8sEJZ&formOfWordsScope=FTPINK&consentSource=next-consent-proxy&termsAcceptance=true",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.ft.com/buy/api/email-check",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"csrfToken\":\"YehX8xKT-Br-ntnsmmLbFNqrQXcB31-ClZHg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=b2b3b748-e1f6-4bd5-b2f2-26debc8075a3",
+  "GET": "",
+  "POST": "[{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"Pageview\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"rootId\":\"cle9jyzb00001336i0q2qmj3b\",\"type\":\"stream-page\",\"user\":{\"industry\":\"rtl\",\"position\":\"as\",\"responsibility\":\"adl\",\"subscriptionLevel\":\"reg\",\"loggedIn\":\"true\"},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"},{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"SlotRendered\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"advertiser_id\":5067414652,\"campaign_id\":3121589410,\"line_item_id\":6227956490,\"creative_id\":138420176449,\"is_empty\":false,\"service_name\":\"publisher_ads\",\"slot\":{\"ad_unit_path\":\"/5887/ft.com/climate.change\",\"slot_element_id\":\"leaderboard-gpt\"},\"width\":728,\"height\":90,\"rendered_timestamp\":1676700140166,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=b2b3b748-e1f6-4bd5-b2f2-26debc8075a3",
+  "GET": "",
+  "POST": "[{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"Pageview\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"rootId\":\"cle9jyzb00001336i0q2qmj3b\",\"type\":\"stream-page\",\"user\":{\"industry\":\"rtl\",\"position\":\"as\",\"responsibility\":\"adl\",\"subscriptionLevel\":\"reg\",\"loggedIn\":\"true\"},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"},{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"SlotRendered\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"advertiser_id\":5067414652,\"campaign_id\":3121589410,\"line_item_id\":6227956490,\"creative_id\":138420176449,\"is_empty\":false,\"service_name\":\"publisher_ads\",\"slot\":{\"ad_unit_path\":\"/5887/ft.com/climate.change\",\"slot_element_id\":\"leaderboard-gpt\"},\"width\":728,\"height\":90,\"rendered_timestamp\":1676700140166,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=b2b3b748-e1f6-4bd5-b2f2-26debc8075a3",
+  "GET": "",
+  "POST": "[{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"Pageview\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"rootId\":\"cle9jyzb00001336i0q2qmj3b\",\"type\":\"stream-page\",\"user\":{\"industry\":\"rtl\",\"position\":\"as\",\"responsibility\":\"adl\",\"subscriptionLevel\":\"reg\",\"loggedIn\":\"true\"},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"},{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"SlotRendered\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"advertiser_id\":5067414652,\"campaign_id\":3121589410,\"line_item_id\":6227956490,\"creative_id\":138420176449,\"is_empty\":false,\"service_name\":\"publisher_ads\",\"slot\":{\"ad_unit_path\":\"/5887/ft.com/climate.change\",\"slot_element_id\":\"leaderboard-gpt\"},\"width\":728,\"height\":90,\"rendered_timestamp\":1676700140166,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=b2b3b748-e1f6-4bd5-b2f2-26debc8075a3",
+  "GET": "",
+  "POST": "[{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"Pageview\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"rootId\":\"cle9jyzb00001336i0q2qmj3b\",\"type\":\"stream-page\",\"user\":{\"industry\":\"rtl\",\"position\":\"as\",\"responsibility\":\"adl\",\"subscriptionLevel\":\"reg\",\"loggedIn\":\"true\"},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"},{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"SlotRendered\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"advertiser_id\":5067414652,\"campaign_id\":3121589410,\"line_item_id\":6227956490,\"creative_id\":138420176449,\"is_empty\":false,\"service_name\":\"publisher_ads\",\"slot\":{\"ad_unit_path\":\"/5887/ft.com/climate.change\",\"slot_element_id\":\"leaderboard-gpt\"},\"width\":728,\"height\":90,\"rendered_timestamp\":1676700140166,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=b2b3b748-e1f6-4bd5-b2f2-26debc8075a3",
+  "GET": "",
+  "POST": "[{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"Pageview\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"rootId\":\"cle9jyzb00001336i0q2qmj3b\",\"type\":\"stream-page\",\"user\":{\"industry\":\"rtl\",\"position\":\"as\",\"responsibility\":\"adl\",\"subscriptionLevel\":\"reg\",\"loggedIn\":\"true\"},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"},{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"SlotRendered\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"advertiser_id\":5067414652,\"campaign_id\":3121589410,\"line_item_id\":6227956490,\"creative_id\":138420176449,\"is_empty\":false,\"service_name\":\"publisher_ads\",\"slot\":{\"ad_unit_path\":\"/5887/ft.com/climate.change\",\"slot_element_id\":\"leaderboard-gpt\"},\"width\":728,\"height\":90,\"rendered_timestamp\":1676700140166,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=b2b3b748-e1f6-4bd5-b2f2-26debc8075a3",
+  "GET": "",
+  "POST": "[{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"Pageview\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"rootId\":\"cle9jyzb00001336i0q2qmj3b\",\"type\":\"stream-page\",\"user\":{\"industry\":\"rtl\",\"position\":\"as\",\"responsibility\":\"adl\",\"subscriptionLevel\":\"reg\",\"loggedIn\":\"true\"},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"},{\"user_id\":\"116ce40f-ebb4-4a48-a0a9-0bd3573f5e40\",\"name\":\"SlotRendered\",\"cohorts\":[\"16780\",\"16782\",\"16842\",\"18294\",\"19597\",\"20431\",\"24978\",\"27346\",\"27352\",\"27379\",\"30367\",\"38340\",\"38352\",\"38354\",\"117171\",\"122051\"],\"segments\":[16780,16782,16842,18294,19597,20431,24978,27346,27352,27379,30367,38340,38352,38354,117171,122051],\"properties\":{\"advertiser_id\":5067414652,\"campaign_id\":3121589410,\"line_item_id\":6227956490,\"creative_id\":138420176449,\"is_empty\":false,\"service_name\":\"publisher_ads\",\"slot\":{\"ad_unit_path\":\"/5887/ft.com/climate.change\",\"slot_element_id\":\"leaderboard-gpt\"},\"width\":728,\"height\":90,\"rendered_timestamp\":1676700140166,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://www.ft.com/climate-capital\",\"domain\":\"www.ft.com\",\"title\":\"Climate Capital | Financial Times\",\"referrer\":\"https://errors-next.ft.com\"}},\"session_id\":\"4c2dca94-b828-4862-8b00-02ca93ff88aa\",\"view_id\":\"027ec0ee-ed0d-4b39-be8f-f161bfeda710\"}]",
+  "referer": "",
+  "cookie": ""
+}

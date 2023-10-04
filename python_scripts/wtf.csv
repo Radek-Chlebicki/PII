@@ -1,0 +1,102 @@
+,third_party,plain_pii,first_party
+0,amazon-adsystem.com,rogernadal322@gmail.com,"{'usnews.com', 'usatoday.com'}"
+1,amazonaws.com,123Andy#!000,{'mirror.co.uk'}
+2,amazonaws.com,rogernadal322@gmail.com,{'mirror.co.uk'}
+3,arcpublishing.com,123Andy#!000,{'infobae.com'}
+4,arcpublishing.com,rogernadal322@gmail.com,"{'reuters.com', 'infobae.com'}"
+5,auth0.com,123Andy#!000,{'nymag.com'}
+6,auth0.com,rogernadal322@gmail.com,{'nymag.com'}
+7,condenast.com,rogernadal322@gmail.com,{'wired.com'}
+8,curbed.com,roger,{'nymag.com'}
+9,curbed.com,rogernadal322@gmail.com,{'nymag.com'}
+10,facebook.com,nadal,"{'theatlantic.com', 'indianexpress.com', 'lefigaro.fr', 'infobae.com'}"
+11,facebook.com,roger,"{'theatlantic.com', 'indianexpress.com', 'lefigaro.fr', 'infobae.com'}"
+12,facebook.com,rogernadal,"{'indiatimes.com', 'flipboard.com'}"
+13,facebook.com,rogernadal322@gmail.com,"{'thesun.co.uk', 'lefigaro.fr', 'flipboard.com', 'bizjournals.com', 'spiegel.de', 'infobae.com', 'latimes.com', 'cnbc.com', 'udn.com', 'indianexpress.com', 'theatlantic.com', 'hindustantimes.com', 'indiatimes.com', 'chicagotribune.com'}"
+14,gedi.it,123Andy#!000,{'repubblica.it'}
+15,gedi.it,nadal,{'repubblica.it'}
+16,gedi.it,roger,{'repubblica.it'}
+17,gedi.it,rogernadal322,{'repubblica.it'}
+18,gedi.it,rogernadal322@gmail.com,{'repubblica.it'}
+19,google-analytics.com,nadal,{'usatoday.com'}
+20,google-analytics.com,roger,{'usatoday.com'}
+21,google-analytics.com,rogernadal322@gmail.com,"{'rbc.ru', 'usnews.com'}"
+22,google.com,rogernadal322,{'wsj.com'}
+23,gravatar.com,rogernadal322@gmail.com,"{'huffpost.com', 'news.com.au', 'nymag.com'}"
+24,grubstreet.com,roger,{'nymag.com'}
+25,grubstreet.com,rogernadal322@gmail.com,{'nymag.com'}
+26,healthshots.com,rogernadal322,{'hindustantimes.com'}
+27,hsforms.com,rogernadal322@gmail.com,{'businesswire.com'}
+28,htreaders.com,rogernadal322,{'hindustantimes.com'}
+29,htsmartcast.com,rogernadal322,{'hindustantimes.com'}
+30,kataweb.it,nadal,{'repubblica.it'}
+31,livehindustan.com,rogernadal322,{'hindustantimes.com'}
+32,livemint.com,rogernadal322,{'hindustantimes.com'}
+33,livemint.com,rogernadal322@gmail.com,{'hindustantimes.com'}
+34,loginradius.com,123Andy#!000,"{'mirror.co.uk', 'cbc.ca', 'express.co.uk'}"
+35,loginradius.com,nadal,{'cbc.ca'}
+36,loginradius.com,roger,{'cbc.ca'}
+37,loginradius.com,rogernadal322@gmail.com,"{'mirror.co.uk', 'cbc.ca', 'express.co.uk'}"
+38,mixpanel.com,roger,{'scmp.com'}
+39,mixpanel.com,rogernadal322@gmail.com,{'scmp.com'}
+40,moengage.com,rogernadal322@gmail.com,{'indianexpress.com'}
+41,mparticle.com,rogernadal322@gmail.com,"{'cnbc.com', 'nbcnews.com'}"
+42,myfairfax.com.au,123Andy#!000,{'smh.com.au'}
+43,myfairfax.com.au,rogernadal322@gmail.com,{'smh.com.au'}
+44,mypass.de,123Andy#!000,{'bild.de'}
+45,mypass.de,rogernadal322@gmail.com,{'bild.de'}
+46,nbc.com,rogernadal322@gmail.com,{'nbcnews.com'}
+47,newscorpaustralia.com,123Andy#!000,{'news.com.au'}
+48,newscorpaustralia.com,rogernadal322@gmail.com,{'news.com.au'}
+49,nr-data.net,rogernadal322@gmail.com,{'cnbc.com'}
+50,nymetro.com,nadal,{'nymag.com'}
+51,nymetro.com,roger,{'nymag.com'}
+52,nymetro.com,rogernadal322@gmail.com,{'nymag.com'}
+53,ottplay.com,rogernadal322,{'hindustantimes.com'}
+54,permutive.com,rogernadal322,{'techspot.com'}
+55,permutive.com,rogernadal322@gmail.com,"{'independent.co.uk', 'reuters.com', 'newsweek.com', 'usnews.com', 'nypost.com'}"
+56,piano.io,nadal,"{'telegraph.co.uk', 'scmp.com'}"
+57,piano.io,roger,"{'independent.co.uk', 'telegraph.co.uk', 'scmp.com'}"
+58,pinterest.com,rogernadal322@gmail.com,{'booking.com'}
+59,pippio.com,rogernadal322@gmail.com,{'wired.com'}
+60,publicmediasignin.org,123Andy#!000,"{'pbs.org', 'npr.org'}"
+61,publicmediasignin.org,rogernadal322,{'npr.org'}
+62,publicmediasignin.org,rogernadal322@gmail.com,"{'pbs.org', 'npr.org'}"
+63,rambler.ru,rogernadal322,{'lenta.ru'}
+64,rambler.ru,rogernadal322@gmail.com,{'lenta.ru'}
+65,rcs.it,123Andy#!000,{'corriere.it'}
+66,rcs.it,nadal,{'corriere.it'}
+67,rcs.it,roger,{'corriere.it'}
+68,rcs.it,rogernadal322@gmail.com,{'corriere.it'}
+69,referralsaasquatch.com,roger,{'nypost.com'}
+70,rlcdn.com,rogernadal322@gmail.com,"{'newsweek.com', 'news.com.au', 'latimes.com', 'express.co.uk', 'usnews.com', 'mirror.co.uk', 'foxnews.com', 'wsj.com', 'wired.com', 'time.com'}"
+71,sail-track.com,rogernadal322@gmail.com,"{'usnews.com', 'nbcnews.com'}"
+72,scorecardresearch.com,nadal,{'usatoday.com'}
+73,scorecardresearch.com,roger,{'usatoday.com'}
+74,segment.io,rogernadal322@gmail.com,{'reuters.com'}
+75,sjv.io,rogernadal322@gmail.com,{'usatoday.com'}
+76,slurrp.com,rogernadal322,{'hindustantimes.com'}
+77,snapchat.com,rogernadal322@gmail.com,"{'latimes.com', 'usatoday.com', 'booking.com'}"
+78,spot.im,nadal,{'nypost.com'}
+79,spot.im,roger,{'nypost.com'}
+80,thecut.com,roger,{'nymag.com'}
+81,thecut.com,rogernadal322@gmail.com,{'nymag.com'}
+82,tiktok.com,rogernadal322@gmail.com,"{'latimes.com', 'economist.com'}"
+83,tinypass.com,roger,"{'independent.co.uk', 'telegraph.co.uk'}"
+84,trb.com,123Andy#!000,{'chicagotribune.com'}
+85,trb.com,rogernadal322@gmail.com,{'chicagotribune.com'}
+86,viafoura.co,nadal,"{'repubblica.it', 'cbc.ca'}"
+87,viafoura.co,roger,{'cbc.ca'}
+88,viafoura.co,rogernadal322,{'repubblica.it'}
+89,vnecdn.net,rogernadal322@gmail.com,{'vnexpress.net'}
+90,vulture.com,roger,{'nymag.com'}
+91,vulture.com,rogernadal322@gmail.com,{'nymag.com'}
+92,webengage.com,rogernadal322,{'hindustantimes.com'}
+93,weborama.com,rogernadal322@gmail.com,{'rbc.ru'}
+94,weborama.fr,rogernadal322@gmail.com,{'rbc.ru'}
+95,www.googleapis.com,123Andy#!000,{'time.com'}
+96,www.googleapis.com,roger,{'time.com'}
+97,www.googleapis.com,rogernadal322@gmail.com,{'time.com'}
+98,yahoo.com,rogernadal322@gmail.com,{'huffpost.com'}
+99,yandex.com,rogernadal322@gmail.com,{'rbc.ru'}
+100,zerobounce.net,rogernadal322@gmail.com,{'nbcnews.com'}

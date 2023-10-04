@@ -1,0 +1,2224 @@
+{
+  "str": "roger",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://loyalty.marvel.com/auth-login/6440c4929fb147b15bc4409847ab8587f4f3f11504bb700a-be22b534b194fb9750c55f1fc11504fda25e18e6?r=https%3A%2F%2Fwww.marvel.com%2Fcrowdtwist-redirect.html%3Femail_address%3D%26timestamp%3D1677401904%26user_id%3D374140385%26username%3D23690156%26verified%3D1%26sig%3D0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/insider-logo-w-nav-v3-2x_0.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/63f4ea07d070e/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/c0/63f4ea1fdd964/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/60/63f4ea133ee92/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/e0/63f4e9c2b5ef5/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/80/63f4e9c2969cf/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/301kng_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/317scl_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/267mdk_com_crd_01_0.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/041wjd_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/marvelsmidnightsuns_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/marvelsnap_lob_crd_01.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/marvelsguardiansofthegalaxy_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/futurerevolution_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/msmmm_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/marvelcontestofchampions_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://www.marvel.com/crowdtwist-redirect.html?email_address=&timestamp=1677401904&user_id=374140385&username=23690156&verified=1&sig=0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://loyalty.marvel.com/auth-login/6440c4929fb147b15bc4409847ab8587f4f3f11504bb700a-be22b534b194fb9750c55f1fc11504fda25e18e6?r=https%3A%2F%2Fwww.marvel.com%2Fcrowdtwist-redirect.html%3Femail_address%3D%26timestamp%3D1677401904%26user_id%3D374140385%26username%3D23690156%26verified%3D1%26sig%3D0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/insider-logo-w-nav-v3-2x_0.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/63f4ea07d070e/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/c0/63f4ea1fdd964/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/60/63f4ea133ee92/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/e0/63f4e9c2b5ef5/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/80/63f4e9c2969cf/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/301kng_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/317scl_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/267mdk_com_crd_01_0.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/041wjd_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/marvelsmidnightsuns_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/marvelsnap_lob_crd_01.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/marvelsguardiansofthegalaxy_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/futurerevolution_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/msmmm_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://cdn.marvel.com/content/1x/marvelcontestofchampions_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "roger",
+  "url": "https://www.marvel.com/crowdtwist-redirect.html?email_address=&timestamp=1677401904&user_id=374140385&username=23690156&verified=1&sig=0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://loyalty.marvel.com/auth-login/6440c4929fb147b15bc4409847ab8587f4f3f11504bb700a-be22b534b194fb9750c55f1fc11504fda25e18e6?r=https%3A%2F%2Fwww.marvel.com%2Fcrowdtwist-redirect.html%3Femail_address%3D%26timestamp%3D1677401904%26user_id%3D374140385%26username%3D23690156%26verified%3D1%26sig%3D0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/insider-logo-w-nav-v3-2x_0.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/63f4ea07d070e/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/c0/63f4ea1fdd964/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/60/63f4ea133ee92/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/e0/63f4e9c2b5ef5/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/80/63f4e9c2969cf/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/301kng_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/317scl_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/267mdk_com_crd_01_0.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/041wjd_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsmidnightsuns_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsnap_lob_crd_01.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsguardiansofthegalaxy_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/futurerevolution_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/msmmm_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelcontestofchampions_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://www.marvel.com/crowdtwist-redirect.html?email_address=&timestamp=1677401904&user_id=374140385&username=23690156&verified=1&sig=0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://loyalty.marvel.com/auth-login/6440c4929fb147b15bc4409847ab8587f4f3f11504bb700a-be22b534b194fb9750c55f1fc11504fda25e18e6?r=https%3A%2F%2Fwww.marvel.com%2Fcrowdtwist-redirect.html%3Femail_address%3D%26timestamp%3D1677401904%26user_id%3D374140385%26username%3D23690156%26verified%3D1%26sig%3D0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/insider-logo-w-nav-v3-2x_0.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/63f4ea07d070e/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/c0/63f4ea1fdd964/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/60/63f4ea133ee92/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/e0/63f4e9c2b5ef5/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/80/63f4e9c2969cf/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/301kng_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/317scl_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/267mdk_com_crd_01_0.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/041wjd_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsmidnightsuns_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsnap_lob_crd_01.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsguardiansofthegalaxy_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/futurerevolution_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/msmmm_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelcontestofchampions_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "nadal",
+  "url": "https://www.marvel.com/crowdtwist-redirect.html?email_address=&timestamp=1677401904&user_id=374140385&username=23690156&verified=1&sig=0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://loyalty.marvel.com/auth-login/6440c4929fb147b15bc4409847ab8587f4f3f11504bb700a-be22b534b194fb9750c55f1fc11504fda25e18e6?r=https%3A%2F%2Fwww.marvel.com%2Fcrowdtwist-redirect.html%3Femail_address%3D%26timestamp%3D1677401904%26user_id%3D374140385%26username%3D23690156%26verified%3D1%26sig%3D0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/insider-logo-w-nav-v3-2x_0.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/63f4ea07d070e/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/c0/63f4ea1fdd964/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/60/63f4ea133ee92/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/e0/63f4e9c2b5ef5/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/80/63f4e9c2969cf/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/301kng_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/317scl_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/267mdk_com_crd_01_0.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/041wjd_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsmidnightsuns_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsnap_lob_crd_01.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsguardiansofthegalaxy_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/futurerevolution_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/msmmm_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelcontestofchampions_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.marvel.com/crowdtwist-redirect.html?email_address=&timestamp=1677401904&user_id=374140385&username=23690156&verified=1&sig=0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://loyalty.marvel.com/auth-login/6440c4929fb147b15bc4409847ab8587f4f3f11504bb700a-be22b534b194fb9750c55f1fc11504fda25e18e6?r=https%3A%2F%2Fwww.marvel.com%2Fcrowdtwist-redirect.html%3Femail_address%3D%26timestamp%3D1677401904%26user_id%3D374140385%26username%3D23690156%26verified%3D1%26sig%3D0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/insider-logo-w-nav-v3-2x_0.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/63f4ea07d070e/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/c0/63f4ea1fdd964/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/60/63f4ea133ee92/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/e0/63f4e9c2b5ef5/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/80/63f4e9c2969cf/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/301kng_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/317scl_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/267mdk_com_crd_01_0.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/041wjd_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsmidnightsuns_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsnap_lob_crd_01.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelsguardiansofthegalaxy_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/futurerevolution_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/msmmm_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://cdn.marvel.com/content/1x/marvelcontestofchampions_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.marvel.com/crowdtwist-redirect.html?email_address=&timestamp=1677401904&user_id=374140385&username=23690156&verified=1&sig=0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://loyalty.marvel.com/auth-login/6440c4929fb147b15bc4409847ab8587f4f3f11504bb700a-be22b534b194fb9750c55f1fc11504fda25e18e6?r=https%3A%2F%2Fwww.marvel.com%2Fcrowdtwist-redirect.html%3Femail_address%3D%26timestamp%3D1677401904%26user_id%3D374140385%26username%3D23690156%26verified%3D1%26sig%3D0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/insider-logo-w-nav-v3-2x_0.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/63f4ea07d070e/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/c0/63f4ea1fdd964/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/60/63f4ea133ee92/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/e0/63f4e9c2b5ef5/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/80/63f4e9c2969cf/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/301kng_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/317scl_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/267mdk_com_crd_01_0.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/041wjd_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/marvelsmidnightsuns_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/marvelsnap_lob_crd_01.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/marvelsguardiansofthegalaxy_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/futurerevolution_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/msmmm_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/marvelcontestofchampions_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.marvel.com/crowdtwist-redirect.html?email_address=&timestamp=1677401904&user_id=374140385&username=23690156&verified=1&sig=0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://loyalty.marvel.com/auth-login/6440c4929fb147b15bc4409847ab8587f4f3f11504bb700a-be22b534b194fb9750c55f1fc11504fda25e18e6?r=https%3A%2F%2Fwww.marvel.com%2Fcrowdtwist-redirect.html%3Femail_address%3D%26timestamp%3D1677401904%26user_id%3D374140385%26username%3D23690156%26verified%3D1%26sig%3D0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/insider-logo-w-nav-v3-2x_0.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/63f4ea07d070e/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/c0/63f4ea1fdd964/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/60/63f4ea133ee92/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/e0/63f4e9c2b5ef5/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/80/63f4e9c2969cf/portrait_uncanny.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/301kng_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/317scl_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/267mdk_com_crd_01_0.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/041wjd_com_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/themarvels_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/thorloveandthunder_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/werewolfbynight_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/iamgroot_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/msmarvel_lob_crd_04.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/moonknight_lob_crd_05.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/marvelsmidnightsuns_lob_crd_03.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/marvelsnap_lob_crd_01.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/marvelsguardiansofthegalaxy_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/futurerevolution_lob_crd_01.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/msmmm_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://cdn.marvel.com/content/1x/marvelcontestofchampions_lob_crd_02.jpg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.marvel.com/crowdtwist-redirect.html?email_address=&timestamp=1677401904&user_id=374140385&username=23690156&verified=1&sig=0907b3f5f9305417e514bf0165d0bc7c",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!marvel_autologin%7B%22username%22%3A+%22rogernadal322%40gmail.com%22%2C+%22loginDate%22%3A+%222023-02-26+08%3A58%3A24%22%2C+%22signature%22%3A+%22ad1923419e0b9edbe3c7b416ca5f54026dc1eaa3f2c8e58e064f9b52f4b24ab45df7620c297386670f7c11798060cade372a494986d222dd3901110139f1db35%22%7D"
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/validate?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://registerdisney.go.com/jgc/v8/client/MARVEL-MARVEL.COM.WEB-PROD/guest/login?langPref=en-US&feature=no-password-reuse",
+  "GET": "",
+  "POST": "{\"loginValue\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}

@@ -1,0 +1,232 @@
+{
+  "str": "roger",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9",
+  "url": "https://www.facebook.com/tr/?id=1407501962855831&ev=InitiateCheckout&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372707&cd[currency]=USD&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=7&o=2078&cs_est=true&est_source=2595237143893815&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=1407501962855831&ev=InitiateCheckout&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372707&cd[currency]=USD&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=7&o=2078&cs_est=true&est_source=2595237143893815&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9",
+  "url": "https://www.facebook.com/tr/",
+  "GET": "",
+  "POST": "id=1407501962855831&ev=SubscribedButtonClick&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372699&cd%5BbuttonFeatures%5D=%7B%22classList%22%3A%22Button_root__AWncd+Button_primary__8%2BzX0+Button_full__WI6yE+Button_thick__x1wyT%22%2C%22destination%22%3A%22https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Create+Account%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd%5BbuttonText%5D=Create+Account&cd%5BformFeatures%5D=%5B%7B%22id%22%3A%22email%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22email%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22first_name%22%2C%22name%22%3A%22first_name%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22First+Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22last_name%22%2C%22name%22%3A%22last_name%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Last+Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22password%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22password%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22marketing_opt_in%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%5D&cd%5BpageFeatures%5D=%7B%22title%22%3A%22Sign+in+to+The+Atlantic%22%7D&sw=2048&sh=1152&udff%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff%5Bfn%5D=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff%5Bln%5D=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=formPOST",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161",
+  "url": "https://www.facebook.com/tr/?id=1407501962855831&ev=InitiateCheckout&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372707&cd[currency]=USD&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=7&o=2078&cs_est=true&est_source=2595237143893815&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=1407501962855831&ev=InitiateCheckout&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372707&cd[currency]=USD&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=7&o=2078&cs_est=true&est_source=2595237143893815&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161",
+  "url": "https://www.facebook.com/tr/",
+  "GET": "",
+  "POST": "id=1407501962855831&ev=SubscribedButtonClick&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372699&cd%5BbuttonFeatures%5D=%7B%22classList%22%3A%22Button_root__AWncd+Button_primary__8%2BzX0+Button_full__WI6yE+Button_thick__x1wyT%22%2C%22destination%22%3A%22https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Create+Account%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd%5BbuttonText%5D=Create+Account&cd%5BformFeatures%5D=%5B%7B%22id%22%3A%22email%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22email%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22first_name%22%2C%22name%22%3A%22first_name%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22First+Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22last_name%22%2C%22name%22%3A%22last_name%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Last+Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22password%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22password%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22marketing_opt_in%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%5D&cd%5BpageFeatures%5D=%7B%22title%22%3A%22Sign+in+to+The+Atlantic%22%7D&sw=2048&sh=1152&udff%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff%5Bfn%5D=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff%5Bln%5D=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=formPOST",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts-api.theatlantic.com/api/v1/auth/authorize-email/",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptcha_token\":\"03AFY_a8Uq4SYqDZDeYFGWer7uOxzKB5sfAlWFQYhP6BKW49aHtq8AhCXlHnAjp19xbIgpferD7nCyjLfKCBPUUHhv5nm-odaafZX_pEK08Su9fITYS2ttwHuF1YQyMEiCLw2q4k98oPQO6l8Otqmvj6f8ITFAZegtcFsGUKrpB7C5mJQYk-_smXZE125pn8eocbnGijy2U02G6olA_asNVZ7Db22gBRAJGGEKZhmOuH_42V1qAAXHFxxUBDG5mW4irL-KizDDXyBwFXjVmvF2RRiYWOTKBmSLFhPO53-6xTdbZdiTQ56iLZ0d-aBWXw3ouLoeb7_SapIfKF_-Dp9Q55mrVd_9NUX8sODgnKU_TyzcSbmRhvQIwHKMy1tGXjhccswjw5tWqUbqy48n_q0vrqjMpydsrC2n-wn9MDTARubGY-IoI4x_lv110draC3GHLyQ3Nwq0IXKlVVZzLm4Czxs17j5t0WeiwZt8YUUyPijyKqi3Mfz99BocA5yE0vEW2QGMM8g7H_umYExBBndeHJxq_QlMBcWgAA\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=1407501962855831&ev=SubscribedButtonClick&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703359922&cd[buttonFeatures]=%7B%22classList%22%3A%22Button_root__AWncd%20Button_primary__8%2BzX0%20Button_full__WI6yE%20Button_thick__x1wyT%22%2C%22destination%22%3A%22https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%7B%22id%22%3A%22username%22%2C%22name%22%3A%22username%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22name%40provider.com%22%2C%22inputType%22%3A%22email%22%7D%5D&cd[pageFeatures]=%7B%22title%22%3A%22Sign%20in%20to%20The%20Atlantic%22%7D&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.96&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=1407501962855831&ev=SubscribedButtonClick&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703359922&cd[buttonFeatures]=%7B%22classList%22%3A%22Button_root__AWncd%20Button_primary__8%2BzX0%20Button_full__WI6yE%20Button_thick__x1wyT%22%2C%22destination%22%3A%22https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%7B%22id%22%3A%22username%22%2C%22name%22%3A%22username%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22name%40provider.com%22%2C%22inputType%22%3A%22email%22%7D%5D&cd[pageFeatures]=%7B%22title%22%3A%22Sign%20in%20to%20The%20Atlantic%22%7D&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.96&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=1407501962855831&ev=InitiateCheckout&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372707&cd[currency]=USD&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=7&o=2078&cs_est=true&est_source=2595237143893815&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=1407501962855831&ev=InitiateCheckout&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372707&cd[currency]=USD&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=7&o=2078&cs_est=true&est_source=2595237143893815&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/",
+  "GET": "",
+  "POST": "id=1407501962855831&ev=SubscribedButtonClick&dl=https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F&rl=https%3A%2F%2Fwww.theatlantic.com%2F&if=false&ts=1676703372699&cd%5BbuttonFeatures%5D=%7B%22classList%22%3A%22Button_root__AWncd+Button_primary__8%2BzX0+Button_full__WI6yE+Button_thick__x1wyT%22%2C%22destination%22%3A%22https%3A%2F%2Faccounts.theatlantic.com%2Flogin%2F%3Fredirect%3Dhttps%253A%252F%252Fwww.theatlantic.com%252F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Create+Account%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd%5BbuttonText%5D=Create+Account&cd%5BformFeatures%5D=%5B%7B%22id%22%3A%22email%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22email%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22first_name%22%2C%22name%22%3A%22first_name%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22First+Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22last_name%22%2C%22name%22%3A%22last_name%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Last+Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22password%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22password%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22marketing_opt_in%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%5D&cd%5BpageFeatures%5D=%7B%22title%22%3A%22Sign+in+to+The+Atlantic%22%7D&sw=2048&sh=1152&udff%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff%5Bfn%5D=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff%5Bln%5D=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.96&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1676703343194.109931241&it=1676703347584&coo=false&dpo=LDU&dpoco=0&dpost=0&es=automatic&tm=3&rqm=formPOST",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://accounts-api.theatlantic.com/api/v1/user/register/",
+  "GET": "",
+  "POST": "{\"first_name\":\"roger\",\"last_name\":\"nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"marketing_opt_in\":false,\"recaptcha_token\":\"03AFY_a8WVwXbS62bru6bB_PuZ4g44Hnlga3Nzr3j7CChDcSG0exDUuQnaaYwFT6IcXBSk8e_vjtMaE80pS7O82WImCG292du3VQ5H_3RCEfod2SgF8qOKYQVPleVhftsQf1rJNSgCVN_-PjcQadwtqw5wscUCPzh_G9K1L9VzePtdJvxqPtqVrn0Xy-sI2vyus2FoIjU-AgM6yP6gLpSra51JlV6xUjzk8F-H74vY3f3sjdAeiKnH4ffYaU-1qUOkTOW1Uf-eeb9-NID1kveSUInInhcAOSxFlUp23CmX7Nnb6_oMnGQBdsBvf81lOvrpdNh_yklAKNwZdG7lFM5JS1L1O1f2gHiXe8-FE4Z4-BUrFwDi5M5vOeE1BWUyfsGbmhcl_BiPXJeG3kTvGx91lKEOADTawzOuycuFWW1MPqsScwIiL6fs5EXyOVuuDUsTvwccfP4aJy5xnqCclfUY86VQlG5mXg6O016OJ5gZmEfEsk1PDUUab3PEqCfiZkvKMC_-Zluins-0Ze_3dxwOjwBNUF4bkOSqCg\"}",
+  "referer": "",
+  "cookie": ""
+}

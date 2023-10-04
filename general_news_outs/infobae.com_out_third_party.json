@@ -1,0 +1,310 @@
+[{
+  "str": "roger",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318587536&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-primary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22loginButton%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Confirmar%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Confirmar&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318587536&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-primary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22loginButton%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Confirmar%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Confirmar&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318617689&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-secondary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22resendEmail%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Reenviar%20email%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Reenviar%20email&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318617689&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-secondary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22resendEmail%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Reenviar%20email%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Reenviar%20email&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318643916&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-close-ctn%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22url(%5C%22https%3A%2F%2Fwww.infobae.com%2Fpf%2Fresources%2Fimages%2Fcross-black.svg%3Fd%3D1276%5C%22)%22%2C%22innerText%22%3A%22%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318643916&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-close-ctn%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22url(%5C%22https%3A%2F%2Fwww.infobae.com%2Fpf%2Fresources%2Fimages%2Fcross-black.svg%3Fd%3D1276%5C%22)%22%2C%22innerText%22%3A%22%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318587536&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-primary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22loginButton%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Confirmar%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Confirmar&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318587536&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-primary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22loginButton%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Confirmar%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Confirmar&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318617689&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-secondary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22resendEmail%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Reenviar%20email%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Reenviar%20email&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318617689&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-secondary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22resendEmail%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Reenviar%20email%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Reenviar%20email&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318643916&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-close-ctn%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22url(%5C%22https%3A%2F%2Fwww.infobae.com%2Fpf%2Fresources%2Fimages%2Fcross-black.svg%3Fd%3D1276%5C%22)%22%2C%22innerText%22%3A%22%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318643916&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-close-ctn%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22url(%5C%22https%3A%2F%2Fwww.infobae.com%2Fpf%2Fresources%2Fimages%2Fcross-black.svg%3Fd%3D1276%5C%22)%22%2C%22innerText%22%3A%22%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/email/verify",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318587536&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-primary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22loginButton%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Confirmar%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Confirmar&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318587536&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-primary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22loginButton%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Confirmar%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Confirmar&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318617689&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-secondary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22resendEmail%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Reenviar%20email%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Reenviar%20email&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318617689&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-secondary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22resendEmail%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Reenviar%20email%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Reenviar%20email&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318643916&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-close-ctn%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22url(%5C%22https%3A%2F%2Fwww.infobae.com%2Fpf%2Fresources%2Fimages%2Fcross-black.svg%3Fd%3D1276%5C%22)%22%2C%22innerText%22%3A%22%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&rl=&if=false&ts=1677318643916&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-close-ctn%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22url(%5C%22https%3A%2F%2Fwww.infobae.com%2Fpf%2Fresources%2Fimages%2Fcross-black.svg%3Fd%3D1276%5C%22)%22%2C%22innerText%22%3A%22%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Infobae%20Am%C3%A9rica%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[fn]=4387134784cf3aa4245b7fcf4ac045d0a449524e98ba5dab4955ff4631e89df9&udff[ln]=d25f53f62e6bbd6d63180b1048c19ec336fe6649ecdf5d18a31c2149d450a161&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318503731&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2Fmundo%2F2023%2F02%2F25%2Fguerra-en-ucrania-ano-2-rusia-se-acerca-a-china-y-kiev-depende-de-estados-unidos%2F&rl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&if=false&ts=1677318663799&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-primary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22loginButton%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Ingresar%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Ingresar&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Guerra%20en%20Ucrania%2C%20A%C3%B1o%202%3A%20Rusia%20se%20acerca%20a%20China%20y%20Kiev%20depende%20de%20Estados%20Unidos%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318644988&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=336383993555320&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.infobae.com%2Famerica%2Fmundo%2F2023%2F02%2F25%2Fguerra-en-ucrania-ano-2-rusia-se-acerca-a-china-y-kiev-depende-de-estados-unidos%2F&rl=https%3A%2F%2Fwww.infobae.com%2Famerica%2F&if=false&ts=1677318663799&cd[buttonFeatures]=%7B%22classList%22%3A%22login-form-button-primary%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22loginButton%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Ingresar%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Ingresar&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Guerra%20en%20Ucrania%2C%20A%C3%B1o%202%3A%20Rusia%20se%20acerca%20a%20China%20y%20Kiev%20depende%20de%20Estados%20Unidos%20-%20Infobae%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677318504117.1610028997&it=1677318644988&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "123Andy#!000",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "123Andy#!000",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "123Andy#!000",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/signup",
+  "GET": "",
+  "POST": "{\"identity\":{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\"},\"profile\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "123Andy#!000",
+  "url": "https://api-infobae-infobae-prod.cdn.arcpublishing.com/identity/public/v1/auth/login",
+  "GET": "",
+  "POST": "{\"userName\":\"rogernadal322@gmail.com\",\"credentials\":\"123Andy#!000\",\"grantType\":\"password\",\"rememberMe\":false}",
+  "referer": "",
+  "cookie": ""
+}
+]

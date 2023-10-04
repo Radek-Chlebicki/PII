@@ -1,0 +1,520 @@
+[{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "zephr-v4.nypost.com",
+    "ny-post-ny-post.cdn.zephr.com"
+  ],
+  "done": true
+} ]

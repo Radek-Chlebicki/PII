@@ -1,0 +1,324 @@
+[{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridJga9xgY2uOOnGALOd\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridTMP2MbLG0nQBD862m\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridJga9xgY2uOOnGALOd\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "roger",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridTMP2MbLG0nQBD862m\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridJga9xgY2uOOnGALOd\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridTMP2MbLG0nQBD862m\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridJga9xgY2uOOnGALOd\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "nadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridTMP2MbLG0nQBD862m\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridJga9xgY2uOOnGALOd\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridTMP2MbLG0nQBD862m\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridJga9xgY2uOOnGALOd\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridTMP2MbLG0nQBD862m\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridJga9xgY2uOOnGALOd\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridTMP2MbLG0nQBD862m\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridJga9xgY2uOOnGALOd\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_2fa",
+  "GET": "",
+  "POST": "{\"id\":\"ridTMP2MbLG0nQBD862m\",\"params\":{\"account\":\"rogernadal322#gmail.com\",\"subtype\":\"passport.rambler.ru\",\"type\":\"x-account\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::get_email_account_info",
+  "GET": "",
+  "POST": "{\"id\":\"ridJ6OiXYf7tfxKfw2fu\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Common::send_email_validation",
+  "GET": "",
+  "POST": "{\"id\":\"ridVGkaP04WzSDr9t3uh\",\"params\":{\"email\":\"rogernadal322@gmail.com\",\"method\":\"Rambler::Id::X::activate_external_email_account\",\"template\":\"x-mail-activate-2\",\"extra\":\"%7B%22password%22%3Atrue%2C%22back%22%3A%22https%3A%2F%2Flenta.ru%2F%22%2C%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22via%22%3A%7B%22project%22%3A%22lenta%22%2C%22type%22%3A%22iframe%22%7D%2C%22utm%22%3A%7B%22referer%22%3A%22https%3A%2F%2Flenta.ru%2F%22%7D%7D\"}}",
+  "referer": "",
+  "cookie": ""
+},{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://id.rambler.ru/api/v3/legacy/Rambler::Id::X::get_email_type",
+  "GET": "",
+  "POST": "{\"id\":\"ridaimmTJVvJ73j9q2ze\",\"params\":{\"email\":\"rogernadal322@gmail.com\"}}",
+  "referer": "",
+  "cookie": ""
+}
+]

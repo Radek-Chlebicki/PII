@@ -1,0 +1,3123 @@
+start{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/newsletters/update?email=rogernadal322%40gmail.com&source=&notify=false&optIn=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/entitlements/subscriptions?showAllSubData=false&showMetadata=false&showContacts=false&showPaymentDetails=false&showRatePlans=false&activeOnly=true&bulkSubscriptionActive=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=merge&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&breg=E19AB90CC4EB49EE97C69F94AC629CB7&referrer=https://www.bloomberg.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/account/iframe/onboarding",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/news/articles/2023-02-01/powell-holds-fire-on-markets-breaking-loose-from-fed-control?srnd=premium",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/tophat/api/spotlights?site=bcom",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/global",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/regional",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/us",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/americas",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/europe",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/apac",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/embed?id=984b88cb-c5e5-49de-9315-1bd85fc2256f",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=VIEW&exp_pref=AMER&site=markets&referrer=https%3A%2F%2Fwww.bloomberg.com%2F&resourceType=Story&resourceId=RPF4KSDWLU6801&blocked=false&timezoneOffset=21600000&bb_country=US&region=US&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&breg=E19AB90CC4EB49EE97C69F94AC629CB7",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.m3u8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.vtt",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/newsletters/update?email=rogernadal322%40gmail.com&source=&notify=false&optIn=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/entitlements/subscriptions?showAllSubData=false&showMetadata=false&showContacts=false&showPaymentDetails=false&showRatePlans=false&activeOnly=true&bulkSubscriptionActive=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=merge&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&breg=E19AB90CC4EB49EE97C69F94AC629CB7&referrer=https://www.bloomberg.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/account/iframe/onboarding",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/news/articles/2023-02-01/powell-holds-fire-on-markets-breaking-loose-from-fed-control?srnd=premium",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/tophat/api/spotlights?site=bcom",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/global",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/regional",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/us",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/americas",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/europe",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/apac",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/embed?id=984b88cb-c5e5-49de-9315-1bd85fc2256f",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=VIEW&exp_pref=AMER&site=markets&referrer=https%3A%2F%2Fwww.bloomberg.com%2F&resourceType=Story&resourceId=RPF4KSDWLU6801&blocked=false&timezoneOffset=21600000&bb_country=US&region=US&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&breg=E19AB90CC4EB49EE97C69F94AC629CB7",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.m3u8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.vtt",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "roger",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/newsletters/update?email=rogernadal322%40gmail.com&source=&notify=false&optIn=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/entitlements/subscriptions?showAllSubData=false&showMetadata=false&showContacts=false&showPaymentDetails=false&showRatePlans=false&activeOnly=true&bulkSubscriptionActive=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=merge&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&breg=E19AB90CC4EB49EE97C69F94AC629CB7&referrer=https://www.bloomberg.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/account/iframe/onboarding",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/news/articles/2023-02-01/powell-holds-fire-on-markets-breaking-loose-from-fed-control?srnd=premium",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/tophat/api/spotlights?site=bcom",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/global",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/regional",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/us",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/americas",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/europe",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/apac",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/embed?id=984b88cb-c5e5-49de-9315-1bd85fc2256f",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=VIEW&exp_pref=AMER&site=markets&referrer=https%3A%2F%2Fwww.bloomberg.com%2F&resourceType=Story&resourceId=RPF4KSDWLU6801&blocked=false&timezoneOffset=21600000&bb_country=US&region=US&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&breg=E19AB90CC4EB49EE97C69F94AC629CB7",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.m3u8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.vtt",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/newsletters/update?email=rogernadal322%40gmail.com&source=&notify=false&optIn=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/entitlements/subscriptions?showAllSubData=false&showMetadata=false&showContacts=false&showPaymentDetails=false&showRatePlans=false&activeOnly=true&bulkSubscriptionActive=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=merge&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&breg=E19AB90CC4EB49EE97C69F94AC629CB7&referrer=https://www.bloomberg.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/account/iframe/onboarding",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/news/articles/2023-02-01/powell-holds-fire-on-markets-breaking-loose-from-fed-control?srnd=premium",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/tophat/api/spotlights?site=bcom",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/global",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/regional",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/us",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/americas",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/europe",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/apac",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/embed?id=984b88cb-c5e5-49de-9315-1bd85fc2256f",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=VIEW&exp_pref=AMER&site=markets&referrer=https%3A%2F%2Fwww.bloomberg.com%2F&resourceType=Story&resourceId=RPF4KSDWLU6801&blocked=false&timezoneOffset=21600000&bb_country=US&region=US&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&breg=E19AB90CC4EB49EE97C69F94AC629CB7",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.m3u8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.vtt",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "nadal",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/newsletters/update?email=rogernadal322%40gmail.com&source=&notify=false&optIn=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/entitlements/subscriptions?showAllSubData=false&showMetadata=false&showContacts=false&showPaymentDetails=false&showRatePlans=false&activeOnly=true&bulkSubscriptionActive=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=merge&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&breg=E19AB90CC4EB49EE97C69F94AC629CB7&referrer=https://www.bloomberg.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/account/iframe/onboarding",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/news/articles/2023-02-01/powell-holds-fire-on-markets-breaking-loose-from-fed-control?srnd=premium",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/tophat/api/spotlights?site=bcom",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/global",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/regional",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/us",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/americas",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/europe",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/apac",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/embed?id=984b88cb-c5e5-49de-9315-1bd85fc2256f",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=VIEW&exp_pref=AMER&site=markets&referrer=https%3A%2F%2Fwww.bloomberg.com%2F&resourceType=Story&resourceId=RPF4KSDWLU6801&blocked=false&timezoneOffset=21600000&bb_country=US&region=US&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&breg=E19AB90CC4EB49EE97C69F94AC629CB7",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.m3u8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.vtt",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/newsletters/update?email=rogernadal322%40gmail.com&source=&notify=false&optIn=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/entitlements/subscriptions?showAllSubData=false&showMetadata=false&showContacts=false&showPaymentDetails=false&showRatePlans=false&activeOnly=true&bulkSubscriptionActive=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=merge&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&breg=E19AB90CC4EB49EE97C69F94AC629CB7&referrer=https://www.bloomberg.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/account/iframe/onboarding",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/news/articles/2023-02-01/powell-holds-fire-on-markets-breaking-loose-from-fed-control?srnd=premium",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/tophat/api/spotlights?site=bcom",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/global",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/regional",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/us",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/americas",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/europe",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/apac",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/embed?id=984b88cb-c5e5-49de-9315-1bd85fc2256f",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=VIEW&exp_pref=AMER&site=markets&referrer=https%3A%2F%2Fwww.bloomberg.com%2F&resourceType=Story&resourceId=RPF4KSDWLU6801&blocked=false&timezoneOffset=21600000&bb_country=US&region=US&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&breg=E19AB90CC4EB49EE97C69F94AC629CB7",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.m3u8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.vtt",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/newsletters/update?email=rogernadal322%40gmail.com&source=&notify=false&optIn=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/entitlements/subscriptions?showAllSubData=false&showMetadata=false&showContacts=false&showPaymentDetails=false&showRatePlans=false&activeOnly=true&bulkSubscriptionActive=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=merge&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&breg=E19AB90CC4EB49EE97C69F94AC629CB7&referrer=https://www.bloomberg.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/account/iframe/onboarding",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/news/articles/2023-02-01/powell-holds-fire-on-markets-breaking-loose-from-fed-control?srnd=premium",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/tophat/api/spotlights?site=bcom",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/global",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/regional",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/us",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/americas",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/europe",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/apac",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/embed?id=984b88cb-c5e5-49de-9315-1bd85fc2256f",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=VIEW&exp_pref=AMER&site=markets&referrer=https%3A%2F%2Fwww.bloomberg.com%2F&resourceType=Story&resourceId=RPF4KSDWLU6801&blocked=false&timezoneOffset=21600000&bb_country=US&region=US&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&breg=E19AB90CC4EB49EE97C69F94AC629CB7",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.m3u8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.vtt",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/newsletters/update?email=rogernadal322%40gmail.com&source=&notify=false&optIn=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%22Thu%2C%202%20Feb%202023%2000%3A21%3A09%20UTC%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/entitlements/subscriptions?showAllSubData=false&showMetadata=false&showContacts=false&showPaymentDetails=false&showRatePlans=false&activeOnly=true&bulkSubscriptionActive=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=merge&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&breg=E19AB90CC4EB49EE97C69F94AC629CB7&referrer=https://www.bloomberg.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/account/iframe/onboarding",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/account/current-user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/api/onboarding/step",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/news/articles/2023-02-01/powell-holds-fire-on-markets-breaking-loose-from-fed-control?srnd=premium",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/tophat/assets/v2.6.4/that.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=false",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/tophat/api/spotlights?site=bcom",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/global",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/regional",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/navi/api/v1/breaking-news/us",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/americas",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/europe",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets2/api/tickerlist/apac",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-api/graphql",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/trigrservice/targets",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/embed?id=984b88cb-c5e5-49de-9315-1bd85fc2256f",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://tracking.bloomberg.com/psz/pixel.gif?interactionType=VIEW&exp_pref=AMER&site=markets&referrer=https%3A%2F%2Fwww.bloomberg.com%2F&resourceType=Story&resourceId=RPF4KSDWLU6801&blocked=false&timezoneOffset=21600000&bb_country=US&region=US&session_id=c0c76f26-81a9-4088-a32e-c137b329b696&session_key=3e6adc110572307fcf550f75be4fa1ec4713fcd3&agent_id=2d9b3e5e-6d22-410f-bc81-881a46a6a2fb&breg=E19AB90CC4EB49EE97C69F94AC629CB7",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/videos/android/WiFi/984b88cb-c5e5-49de-9315-1bd85fc2256f.m3u8?idType=BMMP",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.m3u8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/media-manifest/videos/984b88cb-c5e5-49de-9315-1bd85fc2256f/sub.vtt",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://login.bloomberg.com/user-info?withSubscriberData=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/markets/modules/datastrip.json?theme=blens&tickers=SPX:IND,BLK:US",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322",
+  "url": "https://www.bloomberg.com/graphics/ads/assets/assets/mutedVideo.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D"
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/user-verify/send-verification-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"optIn\":true,\"setPasswordVerification\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/user-verify/verify-verification-code",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"token\":\"21068983\",\"leadSource\":\"create-account\",\"country\":\"US\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://login.bloomberg.com/api/onboarding/load",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"isSubscriber\":false}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "123Andy#!000",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "123Andy#!000",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "123Andy#!000",
+  "url": "https://login.bloomberg.com/api/account/set-password",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "123Andy#!000",
+  "url": "https://login.bloomberg.com/api/login/bconnect",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":{\"captchaResponse\":\"03AFY_a8VZPGSw8AlRG-Ij_ba-bhTVHCVFul96q9UkQoFGvcSXw-YzJruMAdzU2XgmJzJTmQ3u90PjFN3mCJ8eLVi2qm7a9F4jryKSS56kAC9whm3SPkn8xw5trqdSzaudu1u8w-l3fNTSmEEmzEzNHKd09DrTzoz4D7j5OduZowgDv__R2iBeVMiGVvaJYCX2JjepB8Pr4AvRU03rvpkcJPYY7Nq0sL4u5X-IJ57XUAM04yTkCgr4kX4JPNZ_14JvclYdFGytfwjqhBSyAMtVzpbdp5vaM9t8loxkmKiOO_2I_FbIcLHM14rEwhgRTNacTlG91Ies5wNI4Qpj19PIFXOaRXMm-UFT2D9uBtR4f2pGtLhdC_OBwVh3fIq8-aJtLzbBaE8XBGD7d_io-hxpB61F4NN_Jfv9MRpXcC0h9idmVoHY342ifcZ9RB_7wVbdmRNlJPOsmRy2gIruyuORgWHlBcT12jA1V4kRSO70T5pvHh4et3OoNzYQk4RL8aiv48Dfrd_24f8V30JixvtqmsmfwjJXHT3pXg\",\"useRecaptcha\":true}}",
+  "referer": "",
+  "cookie": ""
+}

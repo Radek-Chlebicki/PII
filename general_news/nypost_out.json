@@ -1,0 +1,1056 @@
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/profanity-check",
+  "GET": "",
+  "POST": "{\"nonce\":\"d6f7167b8d\",\"string\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/profanity-check",
+  "GET": "",
+  "POST": "{\"nonce\":\"d6f7167b8d\",\"string\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/profanity-check",
+  "GET": "",
+  "POST": "{\"nonce\":\"d6f7167b8d\",\"string\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/plugins/public/openweb-v2/sso",
+  "GET": "",
+  "POST": "{\"code_a\":\"codea_3R62iuV6hR1gont9zp12cvFgviPhvOmgFrY8utxz\",\"user_name\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/profanity-check",
+  "GET": "",
+  "POST": "{\"nonce\":\"d6f7167b8d\",\"string\":\"roger nadal\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://zephr-v4.nypost.com/blaize/profile",
+  "GET": "",
+  "POST": "{\"full-name\":\"roger nadal\",\"image-url\":\"https://nypost.com/account/avatar/?color=000000&initials=RN\",\"updated-values\":\"full-name,image-url\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryRCSqzCWKUpRvANzw--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nread\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundary4Bw3XS0iSlieDuJN--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/newsletters",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"action\"\r\n\r\nupdate\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"subscribe\"\r\n\r\n52710,70848,54106\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"unsubscribe\"\r\n\r\n\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryhdc5umcznehMtsMO\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryhdc5umcznehMtsMO--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryBBVA6U1OjkEeFEw6--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDykb8Fgx8AkD4s9x--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/webhook",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"type\"\r\n\r\nspot-im-post-login\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"targetUrl\"\r\n\r\nhttps://nypost.com/\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t\r\nContent-Disposition: form-data; name=\"details\"\r\n\r\n{\"currentUser\":{\"email\":\"rogernadal322@gmail.com\",\"username\":\"rogernadal\"},\"clientId\":\"1397706870.1676704884\",\"trackingId\":\"2a518818-1ccb-43a8-8695-8341d6ccae1c\"}\r\n------WebKitFormBoundaryDhAzl5JYgvK6ls3t--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://nypost.com/wp-json/nyp-membership/v1/saasquatch_jwt",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"_ajax_nonce\"\r\n\r\nd6f7167b8d\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"accountId\"\r\n\r\n2a518818-1ccb-43a8-8695-8341d6ccae1c\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"locale\"\r\n\r\nen_US\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9\r\nContent-Disposition: form-data; name=\"segments\"\r\n\r\nsportsPlus\r\n------WebKitFormBoundaryozlLR5IyQJpnjxn9--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://api.permutive.com/v2.0/identify?k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"aliases\":[{\"tag\":\"email_sha256\",\"id\":\"eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039\",\"priority\":0},{\"tag\":\"pxid\",\"id\":\"05a26d84-6a4f-4e08-b41b-492cfb85077b\",\"priority\":3}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://api.permutive.com/v2.0/identify?k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"aliases\":[{\"tag\":\"domain_id\",\"id\":\"c6e1f3d6-84f8-456c-b39f-68a4ee278a5b\",\"priority\":5},{\"tag\":\"email_sha256\",\"id\":\"eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039\",\"priority\":0},{\"tag\":\"pxid\",\"id\":\"05a26d84-6a4f-4e08-b41b-492cfb85077b\",\"priority\":8}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://zephr-v4.nypost.com/blaize/register",
+  "GET": "",
+  "POST": "{\"identifiers\":{\"email_address\":\"rogernadal322@gmail.com\"},\"validators\":{\"password\":\"123Andy#!000\"},\"attributes\":{\"full-name\":\"roger nadal\",\"first-name\":\"roger\",\"last-name\":\"nadal\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"4fd27512-3c5a-4424-aff5-44c9e605127b\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/shopping\",\"/shopping/classifieds\",\"/technology and computing\",\"/technology and computing/internet technology\",\"/technology and computing/internet technology/social network\",\"/technology and computing/internet technology/web search\",\"/technology and computing/internet technology/web search/people search\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/login\",\"domain\":\"nypost.com\",\"title\":\"Log In - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":65,\"completion\":1},\"SegmentEntry\":[],\"SegmentExit\":[],\"CohortEntry\":[],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/onboarding/app-text\",\"domain\":\"nypost.com\",\"title\":\"Onboarding - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"},{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135499\",\"135498\"],\"segments\":[72374,74597,109501,135499,135498],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PrebidAuctions\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"aggregations\":{\"auctions\":[{\"bids\":[{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"91304ba1c5a381b\",\"ad_unit_code\":\"div-gpt-ad-billb_mid\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.46,\"hb_pb\":\"0.46\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961817,\"ad_id\":\"898abf34da18a42\",\"ad_unit_code\":\"div-gpt-ad-rec_atf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762208\",\"height\":600,\"time_to_respond\":590,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"905ffc21b4830a5\",\"ad_unit_code\":\"div-gpt-ad-billb_top\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961820,\"ad_id\":\"941c6edbc407ed4\",\"ad_unit_code\":\"div-gpt-ad-rec_widget\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762205\",\"height\":250,\"time_to_respond\":593,\"width\":300,\"winning_bid\":true},{\"advertiser_id\":\"647828\",\"advertiser_domains\":[\"taxact.com\"],\"cpm\":0.56,\"dsp_id\":\"2974\",\"hb_pb\":\"0.56\",\"request_timestamp\":1676704961233,\"response_timestamp\":1676704961599,\"ad_id\":\"800ad9281339a72\",\"ad_unit_code\":\"div-gpt-ad-rec_btf\",\"bid_available\":true,\"bidder\":\"rubicon\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5852572\",\"height\":250,\"time_to_respond\":366,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961819,\"ad_id\":\"92860bafd37830e\",\"ad_unit_code\":\"div-gpt-ad-billb_btf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":592,\"width\":728,\"winning_bid\":true}],\"no_bids\":[{\"ad_unit_code\":\"div-gpt-ad-rec_atf\"},{\"ad_unit_code\":\"div-gpt-ad-billb_mid\"},{\"ad_unit_code\":\"div-gpt-ad-billb_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_widget\"},{\"ad_unit_code\":\"div-gpt-ad-billb_top\"}],\"auction_id\":\"0d75e975-8e11-46b3-945b-7f6ce482b333\"}]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":0,\"completion\":0},\"SegmentEntry\":[135498],\"SegmentExit\":[],\"CohortEntry\":[\"135498\"],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[]},\"article\":{\"authors\":[\"Erin Keller\"],\"keywords\":[\"Celebrities\",\"Entertainment\",\"celebrity deaths\",\"country music\",\"deaths\",\"kellie pickler\",\"nashville\"],\"publish\":\"2023-02-17T20:00:32-05:00\",\"title\":\"Kellie Pickler&#039;s husband, Kyle Jacobs, dead at 49 by suicide: cops\",\"wordCount\":863,\"tag\":\"celebrity deaths\"},\"section\":\"entertainment\",\"pageUri\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops/\",\"type\":\"article\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops\",\"domain\":\"nypost.com\",\"title\":\"Kellie Pickler's husband, Kyle Jacobs, dead at 49 by suicide\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"a88a0225-e8bf-4a63-81cb-e9333924099c\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"4fd27512-3c5a-4424-aff5-44c9e605127b\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/shopping\",\"/shopping/classifieds\",\"/technology and computing\",\"/technology and computing/internet technology\",\"/technology and computing/internet technology/social network\",\"/technology and computing/internet technology/web search\",\"/technology and computing/internet technology/web search/people search\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/login\",\"domain\":\"nypost.com\",\"title\":\"Log In - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":65,\"completion\":1},\"SegmentEntry\":[],\"SegmentExit\":[],\"CohortEntry\":[],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/onboarding/app-text\",\"domain\":\"nypost.com\",\"title\":\"Onboarding - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"},{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135499\",\"135498\"],\"segments\":[72374,74597,109501,135499,135498],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PrebidAuctions\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"aggregations\":{\"auctions\":[{\"bids\":[{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"91304ba1c5a381b\",\"ad_unit_code\":\"div-gpt-ad-billb_mid\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.46,\"hb_pb\":\"0.46\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961817,\"ad_id\":\"898abf34da18a42\",\"ad_unit_code\":\"div-gpt-ad-rec_atf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762208\",\"height\":600,\"time_to_respond\":590,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"905ffc21b4830a5\",\"ad_unit_code\":\"div-gpt-ad-billb_top\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961820,\"ad_id\":\"941c6edbc407ed4\",\"ad_unit_code\":\"div-gpt-ad-rec_widget\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762205\",\"height\":250,\"time_to_respond\":593,\"width\":300,\"winning_bid\":true},{\"advertiser_id\":\"647828\",\"advertiser_domains\":[\"taxact.com\"],\"cpm\":0.56,\"dsp_id\":\"2974\",\"hb_pb\":\"0.56\",\"request_timestamp\":1676704961233,\"response_timestamp\":1676704961599,\"ad_id\":\"800ad9281339a72\",\"ad_unit_code\":\"div-gpt-ad-rec_btf\",\"bid_available\":true,\"bidder\":\"rubicon\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5852572\",\"height\":250,\"time_to_respond\":366,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961819,\"ad_id\":\"92860bafd37830e\",\"ad_unit_code\":\"div-gpt-ad-billb_btf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":592,\"width\":728,\"winning_bid\":true}],\"no_bids\":[{\"ad_unit_code\":\"div-gpt-ad-rec_atf\"},{\"ad_unit_code\":\"div-gpt-ad-billb_mid\"},{\"ad_unit_code\":\"div-gpt-ad-billb_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_widget\"},{\"ad_unit_code\":\"div-gpt-ad-billb_top\"}],\"auction_id\":\"0d75e975-8e11-46b3-945b-7f6ce482b333\"}]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":0,\"completion\":0},\"SegmentEntry\":[135498],\"SegmentExit\":[],\"CohortEntry\":[\"135498\"],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[]},\"article\":{\"authors\":[\"Erin Keller\"],\"keywords\":[\"Celebrities\",\"Entertainment\",\"celebrity deaths\",\"country music\",\"deaths\",\"kellie pickler\",\"nashville\"],\"publish\":\"2023-02-17T20:00:32-05:00\",\"title\":\"Kellie Pickler&#039;s husband, Kyle Jacobs, dead at 49 by suicide: cops\",\"wordCount\":863,\"tag\":\"celebrity deaths\"},\"section\":\"entertainment\",\"pageUri\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops/\",\"type\":\"article\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops\",\"domain\":\"nypost.com\",\"title\":\"Kellie Pickler's husband, Kyle Jacobs, dead at 49 by suicide\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"a88a0225-e8bf-4a63-81cb-e9333924099c\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"4fd27512-3c5a-4424-aff5-44c9e605127b\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/shopping\",\"/shopping/classifieds\",\"/technology and computing\",\"/technology and computing/internet technology\",\"/technology and computing/internet technology/social network\",\"/technology and computing/internet technology/web search\",\"/technology and computing/internet technology/web search/people search\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/login\",\"domain\":\"nypost.com\",\"title\":\"Log In - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":65,\"completion\":1},\"SegmentEntry\":[],\"SegmentExit\":[],\"CohortEntry\":[],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/onboarding/app-text\",\"domain\":\"nypost.com\",\"title\":\"Onboarding - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"},{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135499\",\"135498\"],\"segments\":[72374,74597,109501,135499,135498],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PrebidAuctions\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"aggregations\":{\"auctions\":[{\"bids\":[{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"91304ba1c5a381b\",\"ad_unit_code\":\"div-gpt-ad-billb_mid\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.46,\"hb_pb\":\"0.46\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961817,\"ad_id\":\"898abf34da18a42\",\"ad_unit_code\":\"div-gpt-ad-rec_atf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762208\",\"height\":600,\"time_to_respond\":590,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"905ffc21b4830a5\",\"ad_unit_code\":\"div-gpt-ad-billb_top\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961820,\"ad_id\":\"941c6edbc407ed4\",\"ad_unit_code\":\"div-gpt-ad-rec_widget\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762205\",\"height\":250,\"time_to_respond\":593,\"width\":300,\"winning_bid\":true},{\"advertiser_id\":\"647828\",\"advertiser_domains\":[\"taxact.com\"],\"cpm\":0.56,\"dsp_id\":\"2974\",\"hb_pb\":\"0.56\",\"request_timestamp\":1676704961233,\"response_timestamp\":1676704961599,\"ad_id\":\"800ad9281339a72\",\"ad_unit_code\":\"div-gpt-ad-rec_btf\",\"bid_available\":true,\"bidder\":\"rubicon\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5852572\",\"height\":250,\"time_to_respond\":366,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961819,\"ad_id\":\"92860bafd37830e\",\"ad_unit_code\":\"div-gpt-ad-billb_btf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":592,\"width\":728,\"winning_bid\":true}],\"no_bids\":[{\"ad_unit_code\":\"div-gpt-ad-rec_atf\"},{\"ad_unit_code\":\"div-gpt-ad-billb_mid\"},{\"ad_unit_code\":\"div-gpt-ad-billb_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_widget\"},{\"ad_unit_code\":\"div-gpt-ad-billb_top\"}],\"auction_id\":\"0d75e975-8e11-46b3-945b-7f6ce482b333\"}]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":0,\"completion\":0},\"SegmentEntry\":[135498],\"SegmentExit\":[],\"CohortEntry\":[\"135498\"],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[]},\"article\":{\"authors\":[\"Erin Keller\"],\"keywords\":[\"Celebrities\",\"Entertainment\",\"celebrity deaths\",\"country music\",\"deaths\",\"kellie pickler\",\"nashville\"],\"publish\":\"2023-02-17T20:00:32-05:00\",\"title\":\"Kellie Pickler&#039;s husband, Kyle Jacobs, dead at 49 by suicide: cops\",\"wordCount\":863,\"tag\":\"celebrity deaths\"},\"section\":\"entertainment\",\"pageUri\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops/\",\"type\":\"article\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops\",\"domain\":\"nypost.com\",\"title\":\"Kellie Pickler's husband, Kyle Jacobs, dead at 49 by suicide\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"a88a0225-e8bf-4a63-81cb-e9333924099c\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"4fd27512-3c5a-4424-aff5-44c9e605127b\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/shopping\",\"/shopping/classifieds\",\"/technology and computing\",\"/technology and computing/internet technology\",\"/technology and computing/internet technology/social network\",\"/technology and computing/internet technology/web search\",\"/technology and computing/internet technology/web search/people search\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/login\",\"domain\":\"nypost.com\",\"title\":\"Log In - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":65,\"completion\":1},\"SegmentEntry\":[],\"SegmentExit\":[],\"CohortEntry\":[],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/onboarding/app-text\",\"domain\":\"nypost.com\",\"title\":\"Onboarding - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"},{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135499\",\"135498\"],\"segments\":[72374,74597,109501,135499,135498],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PrebidAuctions\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"aggregations\":{\"auctions\":[{\"bids\":[{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"91304ba1c5a381b\",\"ad_unit_code\":\"div-gpt-ad-billb_mid\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.46,\"hb_pb\":\"0.46\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961817,\"ad_id\":\"898abf34da18a42\",\"ad_unit_code\":\"div-gpt-ad-rec_atf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762208\",\"height\":600,\"time_to_respond\":590,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"905ffc21b4830a5\",\"ad_unit_code\":\"div-gpt-ad-billb_top\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961820,\"ad_id\":\"941c6edbc407ed4\",\"ad_unit_code\":\"div-gpt-ad-rec_widget\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762205\",\"height\":250,\"time_to_respond\":593,\"width\":300,\"winning_bid\":true},{\"advertiser_id\":\"647828\",\"advertiser_domains\":[\"taxact.com\"],\"cpm\":0.56,\"dsp_id\":\"2974\",\"hb_pb\":\"0.56\",\"request_timestamp\":1676704961233,\"response_timestamp\":1676704961599,\"ad_id\":\"800ad9281339a72\",\"ad_unit_code\":\"div-gpt-ad-rec_btf\",\"bid_available\":true,\"bidder\":\"rubicon\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5852572\",\"height\":250,\"time_to_respond\":366,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961819,\"ad_id\":\"92860bafd37830e\",\"ad_unit_code\":\"div-gpt-ad-billb_btf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":592,\"width\":728,\"winning_bid\":true}],\"no_bids\":[{\"ad_unit_code\":\"div-gpt-ad-rec_atf\"},{\"ad_unit_code\":\"div-gpt-ad-billb_mid\"},{\"ad_unit_code\":\"div-gpt-ad-billb_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_widget\"},{\"ad_unit_code\":\"div-gpt-ad-billb_top\"}],\"auction_id\":\"0d75e975-8e11-46b3-945b-7f6ce482b333\"}]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":0,\"completion\":0},\"SegmentEntry\":[135498],\"SegmentExit\":[],\"CohortEntry\":[\"135498\"],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[]},\"article\":{\"authors\":[\"Erin Keller\"],\"keywords\":[\"Celebrities\",\"Entertainment\",\"celebrity deaths\",\"country music\",\"deaths\",\"kellie pickler\",\"nashville\"],\"publish\":\"2023-02-17T20:00:32-05:00\",\"title\":\"Kellie Pickler&#039;s husband, Kyle Jacobs, dead at 49 by suicide: cops\",\"wordCount\":863,\"tag\":\"celebrity deaths\"},\"section\":\"entertainment\",\"pageUri\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops/\",\"type\":\"article\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops\",\"domain\":\"nypost.com\",\"title\":\"Kellie Pickler's husband, Kyle Jacobs, dead at 49 by suicide\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"a88a0225-e8bf-4a63-81cb-e9333924099c\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"4fd27512-3c5a-4424-aff5-44c9e605127b\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/shopping\",\"/shopping/classifieds\",\"/technology and computing\",\"/technology and computing/internet technology\",\"/technology and computing/internet technology/social network\",\"/technology and computing/internet technology/web search\",\"/technology and computing/internet technology/web search/people search\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/login\",\"domain\":\"nypost.com\",\"title\":\"Log In - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":65,\"completion\":1},\"SegmentEntry\":[],\"SegmentExit\":[],\"CohortEntry\":[],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/onboarding/app-text\",\"domain\":\"nypost.com\",\"title\":\"Onboarding - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"},{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135499\",\"135498\"],\"segments\":[72374,74597,109501,135499,135498],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PrebidAuctions\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"aggregations\":{\"auctions\":[{\"bids\":[{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"91304ba1c5a381b\",\"ad_unit_code\":\"div-gpt-ad-billb_mid\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.46,\"hb_pb\":\"0.46\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961817,\"ad_id\":\"898abf34da18a42\",\"ad_unit_code\":\"div-gpt-ad-rec_atf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762208\",\"height\":600,\"time_to_respond\":590,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"905ffc21b4830a5\",\"ad_unit_code\":\"div-gpt-ad-billb_top\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961820,\"ad_id\":\"941c6edbc407ed4\",\"ad_unit_code\":\"div-gpt-ad-rec_widget\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762205\",\"height\":250,\"time_to_respond\":593,\"width\":300,\"winning_bid\":true},{\"advertiser_id\":\"647828\",\"advertiser_domains\":[\"taxact.com\"],\"cpm\":0.56,\"dsp_id\":\"2974\",\"hb_pb\":\"0.56\",\"request_timestamp\":1676704961233,\"response_timestamp\":1676704961599,\"ad_id\":\"800ad9281339a72\",\"ad_unit_code\":\"div-gpt-ad-rec_btf\",\"bid_available\":true,\"bidder\":\"rubicon\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5852572\",\"height\":250,\"time_to_respond\":366,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961819,\"ad_id\":\"92860bafd37830e\",\"ad_unit_code\":\"div-gpt-ad-billb_btf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":592,\"width\":728,\"winning_bid\":true}],\"no_bids\":[{\"ad_unit_code\":\"div-gpt-ad-rec_atf\"},{\"ad_unit_code\":\"div-gpt-ad-billb_mid\"},{\"ad_unit_code\":\"div-gpt-ad-billb_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_widget\"},{\"ad_unit_code\":\"div-gpt-ad-billb_top\"}],\"auction_id\":\"0d75e975-8e11-46b3-945b-7f6ce482b333\"}]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":0,\"completion\":0},\"SegmentEntry\":[135498],\"SegmentExit\":[],\"CohortEntry\":[\"135498\"],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[]},\"article\":{\"authors\":[\"Erin Keller\"],\"keywords\":[\"Celebrities\",\"Entertainment\",\"celebrity deaths\",\"country music\",\"deaths\",\"kellie pickler\",\"nashville\"],\"publish\":\"2023-02-17T20:00:32-05:00\",\"title\":\"Kellie Pickler&#039;s husband, Kyle Jacobs, dead at 49 by suicide: cops\",\"wordCount\":863,\"tag\":\"celebrity deaths\"},\"section\":\"entertainment\",\"pageUri\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops/\",\"type\":\"article\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops\",\"domain\":\"nypost.com\",\"title\":\"Kellie Pickler's husband, Kyle Jacobs, dead at 49 by suicide\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"a88a0225-e8bf-4a63-81cb-e9333924099c\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"4fd27512-3c5a-4424-aff5-44c9e605127b\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/shopping\",\"/shopping/classifieds\",\"/technology and computing\",\"/technology and computing/internet technology\",\"/technology and computing/internet technology/social network\",\"/technology and computing/internet technology/web search\",\"/technology and computing/internet technology/web search/people search\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/login\",\"domain\":\"nypost.com\",\"title\":\"Log In - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"72374\",\"74597\",\"109501\",\"135499\"],\"segments\":[72374,74597,109501,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"\",\"pageUri\":\"\",\"type\":\"\",\"subscriber\":false,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":65,\"completion\":1},\"SegmentEntry\":[],\"SegmentExit\":[],\"CohortEntry\":[],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/account/onboarding/app-text\",\"domain\":\"nypost.com\",\"title\":\"Onboarding - New York Post\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"cf0aa411-2319-4589-bcd0-ed2c485630a1\"},{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135499\",\"135498\"],\"segments\":[72374,74597,109501,135499,135498],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}]",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PrebidAuctions\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"aggregations\":{\"auctions\":[{\"bids\":[{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"91304ba1c5a381b\",\"ad_unit_code\":\"div-gpt-ad-billb_mid\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.46,\"hb_pb\":\"0.46\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961817,\"ad_id\":\"898abf34da18a42\",\"ad_unit_code\":\"div-gpt-ad-rec_atf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762208\",\"height\":600,\"time_to_respond\":590,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961818,\"ad_id\":\"905ffc21b4830a5\",\"ad_unit_code\":\"div-gpt-ad-billb_top\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":591,\"width\":728,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961820,\"ad_id\":\"941c6edbc407ed4\",\"ad_unit_code\":\"div-gpt-ad-rec_widget\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762205\",\"height\":250,\"time_to_respond\":593,\"width\":300,\"winning_bid\":true},{\"advertiser_id\":\"647828\",\"advertiser_domains\":[\"taxact.com\"],\"cpm\":0.56,\"dsp_id\":\"2974\",\"hb_pb\":\"0.56\",\"request_timestamp\":1676704961233,\"response_timestamp\":1676704961599,\"ad_id\":\"800ad9281339a72\",\"ad_unit_code\":\"div-gpt-ad-rec_btf\",\"bid_available\":true,\"bidder\":\"rubicon\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5852572\",\"height\":250,\"time_to_respond\":366,\"width\":300,\"winning_bid\":true},{\"advertiser_domains\":[\"hrblock.com\"],\"cpm\":0.49,\"hb_pb\":\"0.49\",\"request_timestamp\":1676704961227,\"response_timestamp\":1676704961819,\"ad_id\":\"92860bafd37830e\",\"ad_unit_code\":\"div-gpt-ad-billb_btf\",\"bid_available\":true,\"bidder\":\"duration\",\"bidder_timeout\":2000,\"creative_id\":\"2974:5762209\",\"height\":90,\"time_to_respond\":592,\"width\":728,\"winning_bid\":true}],\"no_bids\":[{\"ad_unit_code\":\"div-gpt-ad-rec_atf\"},{\"ad_unit_code\":\"div-gpt-ad-billb_mid\"},{\"ad_unit_code\":\"div-gpt-ad-billb_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_btf\"},{\"ad_unit_code\":\"div-gpt-ad-rec_widget\"},{\"ad_unit_code\":\"div-gpt-ad-billb_top\"}],\"auction_id\":\"0d75e975-8e11-46b3-945b-7f6ce482b333\"}]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/events?enrich=false&sdkp=false&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"PageviewComplete\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"article\":{\"authors\":[\"\"],\"keywords\":[\"\"],\"publish\":null,\"title\":\"\",\"wordCount\":0,\"tag\":\"\"},\"section\":\"nypost.com-home\",\"pageUri\":\"https://nypost.com/\",\"type\":\"Home\",\"subscriber\":true,\"classifications_watson\":{\"taxonomy_labels\":[\"/society\",\"/society/crime\",\"/society/crime/personal offense\",\"/society/crime/personal offense/homicide\",\"/law, govt and politics\"]},\"aggregations\":{\"PageviewEngagement\":{\"engaged_time\":0,\"completion\":0},\"SegmentEntry\":[135498],\"SegmentExit\":[],\"CohortEntry\":[\"135498\"],\"CohortExit\":[]},\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com\",\"domain\":\"nypost.com\",\"title\":\"New York Post – Breaking News, Top Headlines, Photos & Videos\",\"referrer\":\"https://nypost.com/account/onboarding/sports-plus\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"9b6b2665-7f5f-480b-9a5f-7d1f765f5205\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Illinois",
+  "url": "https://api.permutive.com/v2.0/batch/events?enrich=false&sdkp=true&k=8716c0bf-3e57-4603-9c05-89d10477c922",
+  "GET": "",
+  "POST": "[{\"user_id\":\"673080f0-5564-459d-8df4-ad6cc4b46806\",\"name\":\"Pageview\",\"cohorts\":[\"bjhl\",\"72374\",\"74597\",\"109501\",\"135498\",\"135499\"],\"segments\":[72374,74597,109501,135498,135499],\"properties\":{\"isp_info\":{\"isp\":\"Northwestern University\",\"organization\":\"Northwestern University\",\"autonomous_system_number\":103,\"autonomous_system_organization\":\"NWU-AS\"},\"geo_info\":{\"continent\":\"North America\",\"country\":\"United States\",\"city\":\"Evanston\",\"province\":\"Illinois\",\"postal_code\":\"60201\"},\"classifications_watson\":{\"taxonomy_labels\":[]},\"article\":{\"authors\":[\"Erin Keller\"],\"keywords\":[\"Celebrities\",\"Entertainment\",\"celebrity deaths\",\"country music\",\"deaths\",\"kellie pickler\",\"nashville\"],\"publish\":\"2023-02-17T20:00:32-05:00\",\"title\":\"Kellie Pickler&#039;s husband, Kyle Jacobs, dead at 49 by suicide: cops\",\"wordCount\":863,\"tag\":\"celebrity deaths\"},\"section\":\"entertainment\",\"pageUri\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops/\",\"type\":\"article\",\"subscriber\":true,\"client\":{\"type\":\"web\",\"user_agent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"url\":\"https://nypost.com/2023/02/17/kellie-picklers-husband-kyle-jacobs-dead-at-49-by-suicide-cops\",\"domain\":\"nypost.com\",\"title\":\"Kellie Pickler's husband, Kyle Jacobs, dead at 49 by suicide\",\"referrer\":\"https://nypost.com\"}},\"session_id\":\"bf8ebe89-a44c-4e71-a993-0285e773b858\",\"view_id\":\"a88a0225-e8bf-4a63-81cb-e9333924099c\"}]",
+  "referer": "",
+  "cookie": ""
+}

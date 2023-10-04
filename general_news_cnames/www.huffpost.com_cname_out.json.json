@@ -1,0 +1,312 @@
+[{
+  "str": "roger",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://auth.huffpost.com/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"given_name\":\"roger\",\"family_name\":\"nadal\",\"user_metadata\":{}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://auth.huffpost.com/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"KoDuy7jFQ6uBU3vBMuqPmAOf8KkwPz9C\",\"redirect_uri\":\"https://login.huffpost.com/callback\",\"tenant\":\"huffpost\",\"response_type\":\"code\",\"scope\":\"openid profile email offline_access\",\"state\":\"hKFo2SBQYUwzZEEtcEFCdGo0VWd3MThGWWVQb2w1bjVzU2hvVaFupWxvZ2luo3RpZNkgazZKNU1DckFTSmRTcGVLU19qSjRmYVk5TDNsZFR4SzKjY2lk2SBLb0R1eTdqRlE2dUJVM3ZCTXVxUG1BT2Y4S2t3UHo5Qw\",\"connection\":\"Username-Password-Authentication\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"protocol\":\"oauth2\",\"_csrf\":\"xq6v1ci4-WXIedKCUX1Qd0PE8JWTcnRLS5VM\",\"_intstate\":\"deprecated\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.huffpost.com",
+    "huffpost-cd-v4evmfp5mxwofoor.edge.tenants.us.auth0.com"
+  ],
+  "done": true
+}]

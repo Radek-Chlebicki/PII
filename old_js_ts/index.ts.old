@@ -1,0 +1,70 @@
+import * as puppeteer from 'puppeteer';
+import * as ioredis from 'ioredis';
+import * as fs from "fs"; 
+
+
+//  module load /opt/redis-stack/lib/rejson.so
+const redis = new ioredis.Redis(); 
+redis.call("JSON.SET", `all`, `$`, '{}');
+const rawJson = fs.readFileSync("tranco.json");
+const trancoJson = JSON.parse(rawJson.toString()); 
+Object.entries(trancoJson).forEach(async ([k,v])=>{
+
+    for (let single of v){
+        await redis.call("JSON.SET", `all`, `$.${k.replace(/[\s,\(,\),\\]/g, '')}.${single.replace(/[\s,\(,\),\\]/g, '')}`, '{}');
+        // console.log(await redis.call("JSON.GET", `all`, `$.${k.replace(/[\s,\(,\),\\]/g, '')}`));
+
+    }
+});
+
+//
+async function logSite( interceptedRequest : puppeteer.HTTPRequest){
+    // console.log(interceptedRequest);
+    console.log(interceptedRequest.url());
+    console.log(interceptedRequest.headers());
+    // await redis.call("JSON.ARRAPPEND", 'all', `${category.replace(/[\s,\(,\),\\]/g, '')}.${site.replace(/[\s,\(,\),\\]/g, '')}`, `${interceptedRequest.url()}`);
+    
+}
+
+async function run(){
+    console.log("hi"); 
+    const browser = await puppeteer.launch({headless: false});
+    let pages: puppeteer.Page[]  = [];
+    
+    for (let i =0; i <20; i++){
+        let page = await browser.newPage();
+        page.setRequestInterception(true);
+        pages.push(page);
+        page.on("request", interceptedRequest => {
+
+            if (interceptedRequest.isInterceptResolutionHandled() ) {
+                logSite(interceptedRequest);  
+                return;
+            }
+            else {
+                logSite(interceptedRequest);
+                interceptedRequest.continue();
+            }
+        });
+    }
+
+
+    Object.entries(trancoJson).forEach(async ([k , v])=>{
+        if (k === "Search Engines"){
+            let i = 0; 
+            for (let anUrl of v){
+                if (i==20){
+                    i = 0; 
+                }
+                console.log(i);
+                console.log(anUrl);
+                await pages[i].goto("https://" + anUrl);
+                await pages[i].waitForNetworkIdle(10000);
+                i++; 
+            }
+        }
+    });
+
+}
+
+run();

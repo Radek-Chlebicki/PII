@@ -1,0 +1,192 @@
+{
+  "str": "roger",
+  "url": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "GET": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://auth.myfairfax.com.au/accounts.register",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&password=123Andy%23!000&regToken=tk1..AcbHaALP1g.44eypGqjC4dXF5qtHbvOYKpqu0td-QLIUl5M7IE4A-k.-beBNT2mNEmO1tbTCrV4f3JZfFB_cWSvKV4vKCfheJsWGW8UDmWV30IuTbAzf7PgYpx7smWpaUy1KoYcHnbAmA.sc3&regSource=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew&data=%7B%22preferencesCentre%22%3A%7B%22optIn%22%3A%7B%22thirdParty%22%3Afalse%2C%22fairfaxTermsConditions%22%3Atrue%7D%2C%22preferenceGroup%22%3A%7B%22mastheads%22%3A%7B%22rememberme%22%3Atrue%7D%7D%7D%7D&lang=en&finalizeRegistration=true&targetEnv=jssdk&sessionExpiration=0&include=profile%2Cdata%2Cemails%2CloginIDs%2Csubscriptions%2Cpreferences%2C&includeUserInfo=true&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&source=showScreenSet&sdk=js_latest&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://smh.myfairfax.com.au/channel/zHE9EWDHf1XPuz3Phk0YIg/members/signups/gigya_create?callback_uri=https%3A%2F%2Fwww.smh.com.au%2F",
+  "GET": "",
+  "POST": "provider=site&loginMode=standard&newUser=true&UIDSignature=csevzcecSWYoxc5r2YP%2By3sAXL0%3D&signatureTimestamp=1677315026&UID=06660eae5bb7461da5d3ef13a23932b5&isSiteUID=true&nickname=&photoURL=&thumbnailURL=&birthDay=&birthMonth=&birthYear=&gender=&email=rogernadal322%40gmail.com&proxiedEmail=&country=&state=&city=&zip=&firstName=&lastName=&profileURL=&age=&isLoggedIn=true&isConnected=true&isSiteUser=true&timestamp=2023-02-25+08%3A50%3A26&UIDSig=YRCwLYACl312Cu0TABtI%2Bvweu4c%3D&loginProvider=site&loginProviderUID=06660eae5bb7461da5d3ef13a23932b5&isTempUser=false&oldestDataUpdatedTimestamp=1677315026&oldestDataAge=1&statusReason=OK&statusCode=200&time=2023-02-25T08%3A50%3A26.731Z&errorCode=0",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "GET": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://auth.myfairfax.com.au/accounts.register",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&password=123Andy%23!000&regToken=tk1..AcbHaALP1g.44eypGqjC4dXF5qtHbvOYKpqu0td-QLIUl5M7IE4A-k.-beBNT2mNEmO1tbTCrV4f3JZfFB_cWSvKV4vKCfheJsWGW8UDmWV30IuTbAzf7PgYpx7smWpaUy1KoYcHnbAmA.sc3&regSource=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew&data=%7B%22preferencesCentre%22%3A%7B%22optIn%22%3A%7B%22thirdParty%22%3Afalse%2C%22fairfaxTermsConditions%22%3Atrue%7D%2C%22preferenceGroup%22%3A%7B%22mastheads%22%3A%7B%22rememberme%22%3Atrue%7D%7D%7D%7D&lang=en&finalizeRegistration=true&targetEnv=jssdk&sessionExpiration=0&include=profile%2Cdata%2Cemails%2CloginIDs%2Csubscriptions%2Cpreferences%2C&includeUserInfo=true&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&source=showScreenSet&sdk=js_latest&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://smh.myfairfax.com.au/channel/zHE9EWDHf1XPuz3Phk0YIg/members/signups/gigya_create?callback_uri=https%3A%2F%2Fwww.smh.com.au%2F",
+  "GET": "",
+  "POST": "provider=site&loginMode=standard&newUser=true&UIDSignature=csevzcecSWYoxc5r2YP%2By3sAXL0%3D&signatureTimestamp=1677315026&UID=06660eae5bb7461da5d3ef13a23932b5&isSiteUID=true&nickname=&photoURL=&thumbnailURL=&birthDay=&birthMonth=&birthYear=&gender=&email=rogernadal322%40gmail.com&proxiedEmail=&country=&state=&city=&zip=&firstName=&lastName=&profileURL=&age=&isLoggedIn=true&isConnected=true&isSiteUser=true&timestamp=2023-02-25+08%3A50%3A26&UIDSig=YRCwLYACl312Cu0TABtI%2Bvweu4c%3D&loginProvider=site&loginProviderUID=06660eae5bb7461da5d3ef13a23932b5&isTempUser=false&oldestDataUpdatedTimestamp=1677315026&oldestDataAge=1&statusReason=OK&statusCode=200&time=2023-02-25T08%3A50%3A26.731Z&errorCode=0",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "GET": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://auth.myfairfax.com.au/accounts.register",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&password=123Andy%23!000&regToken=tk1..AcbHaALP1g.44eypGqjC4dXF5qtHbvOYKpqu0td-QLIUl5M7IE4A-k.-beBNT2mNEmO1tbTCrV4f3JZfFB_cWSvKV4vKCfheJsWGW8UDmWV30IuTbAzf7PgYpx7smWpaUy1KoYcHnbAmA.sc3&regSource=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew&data=%7B%22preferencesCentre%22%3A%7B%22optIn%22%3A%7B%22thirdParty%22%3Afalse%2C%22fairfaxTermsConditions%22%3Atrue%7D%2C%22preferenceGroup%22%3A%7B%22mastheads%22%3A%7B%22rememberme%22%3Atrue%7D%7D%7D%7D&lang=en&finalizeRegistration=true&targetEnv=jssdk&sessionExpiration=0&include=profile%2Cdata%2Cemails%2CloginIDs%2Csubscriptions%2Cpreferences%2C&includeUserInfo=true&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&source=showScreenSet&sdk=js_latest&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://smh.myfairfax.com.au/channel/zHE9EWDHf1XPuz3Phk0YIg/members/signups/gigya_create?callback_uri=https%3A%2F%2Fwww.smh.com.au%2F",
+  "GET": "",
+  "POST": "provider=site&loginMode=standard&newUser=true&UIDSignature=csevzcecSWYoxc5r2YP%2By3sAXL0%3D&signatureTimestamp=1677315026&UID=06660eae5bb7461da5d3ef13a23932b5&isSiteUID=true&nickname=&photoURL=&thumbnailURL=&birthDay=&birthMonth=&birthYear=&gender=&email=rogernadal322%40gmail.com&proxiedEmail=&country=&state=&city=&zip=&firstName=&lastName=&profileURL=&age=&isLoggedIn=true&isConnected=true&isSiteUser=true&timestamp=2023-02-25+08%3A50%3A26&UIDSig=YRCwLYACl312Cu0TABtI%2Bvweu4c%3D&loginProvider=site&loginProviderUID=06660eae5bb7461da5d3ef13a23932b5&isTempUser=false&oldestDataUpdatedTimestamp=1677315026&oldestDataAge=1&statusReason=OK&statusCode=200&time=2023-02-25T08%3A50%3A26.731Z&errorCode=0",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "GET": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://auth.myfairfax.com.au/accounts.register",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&password=123Andy%23!000&regToken=tk1..AcbHaALP1g.44eypGqjC4dXF5qtHbvOYKpqu0td-QLIUl5M7IE4A-k.-beBNT2mNEmO1tbTCrV4f3JZfFB_cWSvKV4vKCfheJsWGW8UDmWV30IuTbAzf7PgYpx7smWpaUy1KoYcHnbAmA.sc3&regSource=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew&data=%7B%22preferencesCentre%22%3A%7B%22optIn%22%3A%7B%22thirdParty%22%3Afalse%2C%22fairfaxTermsConditions%22%3Atrue%7D%2C%22preferenceGroup%22%3A%7B%22mastheads%22%3A%7B%22rememberme%22%3Atrue%7D%7D%7D%7D&lang=en&finalizeRegistration=true&targetEnv=jssdk&sessionExpiration=0&include=profile%2Cdata%2Cemails%2CloginIDs%2Csubscriptions%2Cpreferences%2C&includeUserInfo=true&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&source=showScreenSet&sdk=js_latest&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://smh.myfairfax.com.au/channel/zHE9EWDHf1XPuz3Phk0YIg/members/signups/gigya_create?callback_uri=https%3A%2F%2Fwww.smh.com.au%2F",
+  "GET": "",
+  "POST": "provider=site&loginMode=standard&newUser=true&UIDSignature=csevzcecSWYoxc5r2YP%2By3sAXL0%3D&signatureTimestamp=1677315026&UID=06660eae5bb7461da5d3ef13a23932b5&isSiteUID=true&nickname=&photoURL=&thumbnailURL=&birthDay=&birthMonth=&birthYear=&gender=&email=rogernadal322%40gmail.com&proxiedEmail=&country=&state=&city=&zip=&firstName=&lastName=&profileURL=&age=&isLoggedIn=true&isConnected=true&isSiteUser=true&timestamp=2023-02-25+08%3A50%3A26&UIDSig=YRCwLYACl312Cu0TABtI%2Bvweu4c%3D&loginProvider=site&loginProviderUID=06660eae5bb7461da5d3ef13a23932b5&isTempUser=false&oldestDataUpdatedTimestamp=1677315026&oldestDataAge=1&statusReason=OK&statusCode=200&time=2023-02-25T08%3A50%3A26.731Z&errorCode=0",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "GET": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://auth.myfairfax.com.au/accounts.register",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&password=123Andy%23!000&regToken=tk1..AcbHaALP1g.44eypGqjC4dXF5qtHbvOYKpqu0td-QLIUl5M7IE4A-k.-beBNT2mNEmO1tbTCrV4f3JZfFB_cWSvKV4vKCfheJsWGW8UDmWV30IuTbAzf7PgYpx7smWpaUy1KoYcHnbAmA.sc3&regSource=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew&data=%7B%22preferencesCentre%22%3A%7B%22optIn%22%3A%7B%22thirdParty%22%3Afalse%2C%22fairfaxTermsConditions%22%3Atrue%7D%2C%22preferenceGroup%22%3A%7B%22mastheads%22%3A%7B%22rememberme%22%3Atrue%7D%7D%7D%7D&lang=en&finalizeRegistration=true&targetEnv=jssdk&sessionExpiration=0&include=profile%2Cdata%2Cemails%2CloginIDs%2Csubscriptions%2Cpreferences%2C&includeUserInfo=true&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&source=showScreenSet&sdk=js_latest&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://smh.myfairfax.com.au/channel/zHE9EWDHf1XPuz3Phk0YIg/members/signups/gigya_create?callback_uri=https%3A%2F%2Fwww.smh.com.au%2F",
+  "GET": "",
+  "POST": "provider=site&loginMode=standard&newUser=true&UIDSignature=csevzcecSWYoxc5r2YP%2By3sAXL0%3D&signatureTimestamp=1677315026&UID=06660eae5bb7461da5d3ef13a23932b5&isSiteUID=true&nickname=&photoURL=&thumbnailURL=&birthDay=&birthMonth=&birthYear=&gender=&email=rogernadal322%40gmail.com&proxiedEmail=&country=&state=&city=&zip=&firstName=&lastName=&profileURL=&age=&isLoggedIn=true&isConnected=true&isSiteUser=true&timestamp=2023-02-25+08%3A50%3A26&UIDSig=YRCwLYACl312Cu0TABtI%2Bvweu4c%3D&loginProvider=site&loginProviderUID=06660eae5bb7461da5d3ef13a23932b5&isTempUser=false&oldestDataUpdatedTimestamp=1677315026&oldestDataAge=1&statusReason=OK&statusCode=200&time=2023-02-25T08%3A50%3A26.731Z&errorCode=0",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "GET": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://auth.myfairfax.com.au/accounts.register",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&password=123Andy%23!000&regToken=tk1..AcbHaALP1g.44eypGqjC4dXF5qtHbvOYKpqu0td-QLIUl5M7IE4A-k.-beBNT2mNEmO1tbTCrV4f3JZfFB_cWSvKV4vKCfheJsWGW8UDmWV30IuTbAzf7PgYpx7smWpaUy1KoYcHnbAmA.sc3&regSource=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew&data=%7B%22preferencesCentre%22%3A%7B%22optIn%22%3A%7B%22thirdParty%22%3Afalse%2C%22fairfaxTermsConditions%22%3Atrue%7D%2C%22preferenceGroup%22%3A%7B%22mastheads%22%3A%7B%22rememberme%22%3Atrue%7D%7D%7D%7D&lang=en&finalizeRegistration=true&targetEnv=jssdk&sessionExpiration=0&include=profile%2Cdata%2Cemails%2CloginIDs%2Csubscriptions%2Cpreferences%2C&includeUserInfo=true&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&source=showScreenSet&sdk=js_latest&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://smh.myfairfax.com.au/channel/zHE9EWDHf1XPuz3Phk0YIg/members/signups/gigya_create?callback_uri=https%3A%2F%2Fwww.smh.com.au%2F",
+  "GET": "",
+  "POST": "provider=site&loginMode=standard&newUser=true&UIDSignature=csevzcecSWYoxc5r2YP%2By3sAXL0%3D&signatureTimestamp=1677315026&UID=06660eae5bb7461da5d3ef13a23932b5&isSiteUID=true&nickname=&photoURL=&thumbnailURL=&birthDay=&birthMonth=&birthYear=&gender=&email=rogernadal322%40gmail.com&proxiedEmail=&country=&state=&city=&zip=&firstName=&lastName=&profileURL=&age=&isLoggedIn=true&isConnected=true&isSiteUser=true&timestamp=2023-02-25+08%3A50%3A26&UIDSig=YRCwLYACl312Cu0TABtI%2Bvweu4c%3D&loginProvider=site&loginProviderUID=06660eae5bb7461da5d3ef13a23932b5&isTempUser=false&oldestDataUpdatedTimestamp=1677315026&oldestDataAge=1&statusReason=OK&statusCode=200&time=2023-02-25T08%3A50%3A26.731Z&errorCode=0",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "GET": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://auth.myfairfax.com.au/accounts.register",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&password=123Andy%23!000&regToken=tk1..AcbHaALP1g.44eypGqjC4dXF5qtHbvOYKpqu0td-QLIUl5M7IE4A-k.-beBNT2mNEmO1tbTCrV4f3JZfFB_cWSvKV4vKCfheJsWGW8UDmWV30IuTbAzf7PgYpx7smWpaUy1KoYcHnbAmA.sc3&regSource=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew&data=%7B%22preferencesCentre%22%3A%7B%22optIn%22%3A%7B%22thirdParty%22%3Afalse%2C%22fairfaxTermsConditions%22%3Atrue%7D%2C%22preferenceGroup%22%3A%7B%22mastheads%22%3A%7B%22rememberme%22%3Atrue%7D%7D%7D%7D&lang=en&finalizeRegistration=true&targetEnv=jssdk&sessionExpiration=0&include=profile%2Cdata%2Cemails%2CloginIDs%2Csubscriptions%2Cpreferences%2C&includeUserInfo=true&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&source=showScreenSet&sdk=js_latest&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://smh.myfairfax.com.au/channel/zHE9EWDHf1XPuz3Phk0YIg/members/signups/gigya_create?callback_uri=https%3A%2F%2Fwww.smh.com.au%2F",
+  "GET": "",
+  "POST": "provider=site&loginMode=standard&newUser=true&UIDSignature=csevzcecSWYoxc5r2YP%2By3sAXL0%3D&signatureTimestamp=1677315026&UID=06660eae5bb7461da5d3ef13a23932b5&isSiteUID=true&nickname=&photoURL=&thumbnailURL=&birthDay=&birthMonth=&birthYear=&gender=&email=rogernadal322%40gmail.com&proxiedEmail=&country=&state=&city=&zip=&firstName=&lastName=&profileURL=&age=&isLoggedIn=true&isConnected=true&isSiteUser=true&timestamp=2023-02-25+08%3A50%3A26&UIDSig=YRCwLYACl312Cu0TABtI%2Bvweu4c%3D&loginProvider=site&loginProviderUID=06660eae5bb7461da5d3ef13a23932b5&isTempUser=false&oldestDataUpdatedTimestamp=1677315026&oldestDataAge=1&statusReason=OK&statusCode=200&time=2023-02-25T08%3A50%3A26.731Z&errorCode=0",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "GET": "https://auth.myfairfax.com.au/accounts.isAvailableLoginID?loginID=rogernadal322%40gmail.com&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&sdk=js_latest&authMode=cookie&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://auth.myfairfax.com.au/accounts.register",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&password=123Andy%23!000&regToken=tk1..AcbHaALP1g.44eypGqjC4dXF5qtHbvOYKpqu0td-QLIUl5M7IE4A-k.-beBNT2mNEmO1tbTCrV4f3JZfFB_cWSvKV4vKCfheJsWGW8UDmWV30IuTbAzf7PgYpx7smWpaUy1KoYcHnbAmA.sc3&regSource=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew&data=%7B%22preferencesCentre%22%3A%7B%22optIn%22%3A%7B%22thirdParty%22%3Afalse%2C%22fairfaxTermsConditions%22%3Atrue%7D%2C%22preferenceGroup%22%3A%7B%22mastheads%22%3A%7B%22rememberme%22%3Atrue%7D%7D%7D%7D&lang=en&finalizeRegistration=true&targetEnv=jssdk&sessionExpiration=0&include=profile%2Cdata%2Cemails%2CloginIDs%2Csubscriptions%2Cpreferences%2C&includeUserInfo=true&APIKey=3_9-_AuVprTU6GjEh0dg__-EsL52Go9HL-9xlITyU-b-ykXAo86bSGHUhn3ZZIagrk&source=showScreenSet&sdk=js_latest&pageURL=https%3A%2F%2Fsmh.myfairfax.com.au%2Fchannel%2FzHE9EWDHf1XPuz3Phk0YIg%2Fmembers%2Fsignups%2Fnew%3Fcallback_uri%3Dhttps%253A%252F%252Fwww.smh.com.au%252F&sdkBuild=13642&format=json",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://smh.myfairfax.com.au/channel/zHE9EWDHf1XPuz3Phk0YIg/members/signups/gigya_create?callback_uri=https%3A%2F%2Fwww.smh.com.au%2F",
+  "GET": "",
+  "POST": "provider=site&loginMode=standard&newUser=true&UIDSignature=csevzcecSWYoxc5r2YP%2By3sAXL0%3D&signatureTimestamp=1677315026&UID=06660eae5bb7461da5d3ef13a23932b5&isSiteUID=true&nickname=&photoURL=&thumbnailURL=&birthDay=&birthMonth=&birthYear=&gender=&email=rogernadal322%40gmail.com&proxiedEmail=&country=&state=&city=&zip=&firstName=&lastName=&profileURL=&age=&isLoggedIn=true&isConnected=true&isSiteUser=true&timestamp=2023-02-25+08%3A50%3A26&UIDSig=YRCwLYACl312Cu0TABtI%2Bvweu4c%3D&loginProvider=site&loginProviderUID=06660eae5bb7461da5d3ef13a23932b5&isTempUser=false&oldestDataUpdatedTimestamp=1677315026&oldestDataAge=1&statusReason=OK&statusCode=200&time=2023-02-25T08%3A50%3A26.731Z&errorCode=0",
+  "referer": "",
+  "cookie": ""
+}

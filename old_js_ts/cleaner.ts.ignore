@@ -1,0 +1,216 @@
+// col 1 : raw pii njaymd
+// col 2: first col value which is true form such as roger
+// col 3: how it was encoded : pii column header such as base64
+
+import * as fs from "fs"; 
+import * as csvparse from "csv-parse"; 
+
+interface hash_row {
+    original : string, 
+    plaintext : string, 
+    md5	: string,
+    sha224	: string,
+    sha256	: string,
+    sha1 : string,
+    sha512	: string,
+    base64	: string,
+    base32	: string,
+    md4	: string,
+    base16	: string,
+    sha384	: string,
+    md5ofsha224: string,
+    md5ofsha256	: string,
+    md5ofsha1	: string,
+    md5ofsha512	: string,
+    md5ofsha384	: string,
+    md5ofbase64	: string,
+    md5ofmd4	: string,
+    md5ofbase32	: string,
+    sha256ofbase64	: string,
+    sha256ofmd5	: string,
+    sha256ofmd4	: string,
+    sha256ofsha1 : string,
+    sha256ofsha224 : string,
+    sha256ofsha384	: string,
+    sha256ofsha512	: string,
+    sha256ofbase32	: string,
+    sha256ofbase16	: string,
+    sha512ofbase64	: string,
+    sha512ofmd5	: string,
+    sha512ofmd4	: string,
+    sha512ofsha1	: string,
+    sha512ofsha224	: string,
+    sha512ofsha384	: string,
+    sha512ofsha256	: string,
+    sha512ofbase32	: string,
+    sha512ofbase16	: string,
+    sha1ofbase64	: string,
+    sha1ofmd5	: string,
+    sha1ofmd4	: string,
+    sha1ofsha512	: string,
+    sha1ofsha224	: string,
+    sha1ofsha384	: string,
+    sha1ofsha256	: string,
+    sha1ofbase32	: string,
+    sha1ofbase16	: string,
+    sha256ofmd5ofbase64	: string,
+    sha256ofmd5ofsha224	: string,
+    sha256ofmd5ofsha1	: string,
+    sha256ofsha1ofmd5	: string,
+    md5ofsha256ofbase64	: string,
+    md5ofsha1ofsha256	: string,
+    md5ofsha256ofsha1	: string,
+    md5ofsha256ofsha224 : string
+}
+
+interface raw_measurement {
+    website	:string, 
+    category : string, 
+    reachable_or_not : string,
+    pii_leakage_or_not : string,
+    raw_PII : string, 
+    useless : string, 	
+    method : string, 
+    third_party : string, 
+    requires_authentication : string 
+}
+
+interface fair_measurement {
+    website	: string, 
+    category : string, 
+    reachability : string, 
+    leakage_detected : string, 
+    raw_PII	:string, // eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039
+    encoding_algorithm : string, // sha256
+    string_encoded : string,  // rogernadal322@gmail.com
+    string_category : string, // email
+    leakage_method : string, 
+    third_party : string,
+    third_party_domain_only : string, 
+    requires_authentication : string
+}
+
+function getHashRow(arow : Buffer[]) : hash_row{
+
+    const [original, ...rest] = arow.map((elem) => {return elem.toString()}); 
+    const [plaintext, md5, sha224, sha256, sha1, sha512, base64, base32, md4, base16, sha384, md5ofsha224, md5ofsha256, md5ofsha1, md5ofsha512, md5ofsha384, md5ofbase64, md5ofmd4, md5ofbase32, sha256ofbase64, sha256ofmd5, sha256ofmd4, sha256ofsha1, sha256ofsha224, sha256ofsha384, sha256ofsha512, sha256ofbase32, sha256ofbase16, sha512ofbase64, sha512ofmd5, sha512ofmd4, sha512ofsha1, sha512ofsha224, sha512ofsha384, sha512ofsha256, sha512ofbase32, sha512ofbase16, sha1ofbase64, sha1ofmd5, sha1ofmd4, sha1ofsha512, sha1ofsha224, sha1ofsha384, sha1ofsha256, sha1ofbase32, sha1ofbase16, sha256ofmd5ofbase64, sha256ofmd5ofsha224, sha256ofmd5ofsha1, sha256ofsha1ofmd5, md5ofsha256ofbase64, md5ofsha1ofsha256, md5ofsha256ofsha1, md5ofsha256ofsha224] = rest;
+    return {
+        original,
+        plaintext,
+        md5,
+        sha224,
+        sha256,
+        sha1,
+        sha512,
+        base64,
+        base32,
+        md4,
+        base16,
+        sha384,
+        md5ofsha224,
+        md5ofsha256,
+        md5ofsha1,
+        md5ofsha512,
+        md5ofsha384,
+        md5ofbase64,
+        md5ofmd4,
+        md5ofbase32,
+        sha256ofbase64,
+        sha256ofmd5,
+        sha256ofmd4,
+        sha256ofsha1,
+        sha256ofsha224,
+        sha256ofsha384,
+        sha256ofsha512,
+        sha256ofbase32,
+        sha256ofbase16,
+        sha512ofbase64,
+        sha512ofmd5,
+        sha512ofmd4,
+        sha512ofsha1,
+        sha512ofsha224,
+        sha512ofsha384,
+        sha512ofsha256,
+        sha512ofbase32,
+        sha512ofbase16,
+        sha1ofbase64,
+        sha1ofmd5,
+        sha1ofmd4,
+        sha1ofsha512,
+        sha1ofsha224,
+        sha1ofsha384,
+        sha1ofsha256,
+        sha1ofbase32,
+        sha1ofbase16,
+        sha256ofmd5ofbase64,
+        sha256ofmd5ofsha224,
+        sha256ofmd5ofsha1,
+        sha256ofsha1ofmd5,
+        md5ofsha256ofbase64,
+        md5ofsha1ofsha256,
+        md5ofsha256ofsha1,
+        md5ofsha256ofsha224,
+      }
+}
+
+
+function convertToRawMeasurementObject(anarr : Buffer[]) : raw_measurement{
+    let obj : raw_measurement = {
+        website : anarr[0].toString(),
+        category : anarr[1].toString(), 
+        reachable_or_not : anarr[2].toString(),
+        pii_leakage_or_not : anarr[3].toString(),
+        raw_PII : anarr[4].toString(), 
+        useless : anarr[5].toString(), 
+        method : anarr[6].toString(), 
+        third_party : anarr[7].toString(), 
+        requires_authentication : anarr[8].toString() 
+    };
+
+    return obj; 
+}
+
+
+
+function getEncodingAlgorithm(aHash:string, hashRowRecords : hash_row ){
+    for (let row in hashRowRecords){
+        
+    }
+}
+
+function getStringEncoded(aHash:string){
+
+}
+
+
+function clean(item : raw_measurement) : fair_measurement { 
+    // let aFair = 
+
+}
+
+
+
+
+let study_records : raw_measurement[] = [] ; 
+let hash_row_record : hash_row[] = []; 
+
+fs.createReadStream("./ISE_DATASET - Sheet1.csv")
+    .pipe(csvparse.parse())
+    .on("data", (data)=> {
+
+        study_records.push(convertToRawMeasurementObject(data));
+    })
+    .on("end", ()=>{
+        fs.createReadStream("./final_hashes_for_lookup.csv")
+            .pipe(csvparse.parse())
+            .on("data", (data)=> {
+                hash_row_record.push(getHashRow(data));
+            })
+            .on("end", ()=>{
+                // here both the hash rows and the study records are ready 
+                
+
+            });
+
+
+    });

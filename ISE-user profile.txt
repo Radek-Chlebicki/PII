@@ -1,0 +1,14 @@
+﻿Name: roger nadal
+Email: rogernadal322@gmail.com
+Username: rogernadal322
+Password: 123Andy#!000
+Password2: 123Andy#!60201 Password3: Andy#!60201 Password4, Anddy#!60201
+Phone number: +18729858970
+Date of birth: march 31 2000 
+03/31/2000   31/03/2000
+Gender: Male
+Zipcode: 60201
+Age: 22
+City:Evanston
+State: illinois
+Address: 1112 Davis Street

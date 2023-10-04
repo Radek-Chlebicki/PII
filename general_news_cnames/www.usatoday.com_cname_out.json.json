@@ -1,0 +1,1019 @@
+[{
+  "str": "roger",
+  "url": "https://login.usatoday.com/authenticate/",
+  "GET": "",
+  "POST": "reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&from-state=create-account&bypass-returning-user=true&action=create-account&bypass-returning-user=true&firstName=roger&lastName=nadal&email=rogernadal322%40gmail.com&password=123Andy%23%21000&password-confirm=123Andy%23%21000&g-recaptcha-response=03AFY_a8UIdsTkvhSrH1MKxvrAJd8srKshzAwWa6IrV76Rfg8CNRVRgYqiSxQDJWB8Xl3S8s8jMskuRzsJXCHl_rR3nghlN9umxhDRMj8N894wVTXnNbJA0Jf313qw6w__3F8HG_D5jouNLJ6OySBf3G3QFXmnZ5gM5Bopt-lXjw35pyamJQks-2V1_6yuwIEfaQpvB4i0ZOIbm-TtzVhRzkpWY99XMYQWD5C38YEdZyUzVpwSojSZZJ3EhUYSFBUVlO81yqq4JxUl8Kwn_zinl7dVHkgXAtRlrkEd3FEFtQOtlOfgfPjNyE3DDiWFFdtw4rAIWmP1bLDhZDrcCPxJjsFKjp3IaN0hHrst1TBxersgWDFplXDAKgbSpsJlc89zwfQrJhUr8Adhk8X0r3AzyRetvxFHPD4rMHnIRGg3NpojtYmZKLeIjOv_TrncoluNwgJNg8L0fLPGsTY2phSnBlVBUQU_qIkRxYFZiA9Hz79kBhJ3kpTehmy0xq-cyUk36CryZFt6TxP-nBsQ7LtyFTHM_I7fVypzPituvxwDkMKLs0_Nld_vEFS1ktRzJQ28Jp8UKL8MbhZJqbMg4WpHuYyIIDtzPYvxNzm5FP2oFA--sGtMq6iGpi_kEQGm3H_NhQyLeZ4XvtGMVPgrKDQ-0_mR0afAPwBaee9dssMbYpSodKmkQzpv2T5J0d8nVJzPnmBr2BkDeiWz2a4pz2QSRTJjs9SBBIna9Bh8DRZULVkode_qFDOvNacKpNSnQZy-bJJ01OdDqAtizgz7kQCvlNUdb8uc_vTQMlfVh9kX-YnXL8TMEpQi3j_bmzzUQSKud0El0qKcdolOArjqofxlogsDhIpeJ4MkTkbcndlOEhJWXBH26OHL8A9Cn85VdbZvVdVPjrfOnlH5R4wM3324Z65-O3WUF-4VAmccVLrV40wP6qWxZbAc7s70B5QHGdTb6EAijyKK-5bob0wiOh9gvjDuSsjDNxZAyje5xYwvP2OFZRCgFEPgpenOGUn1Fl4t0Jk6ENptMYJzvzqgwI9MFgfK-wpttV3ZimRTtkUcvhT7UkyvzgGJNcriiRcvKIBz9FuQozSZyAgGy-EJruitOOFOTpG2wEylJQSTpjNqZcI0zkrg5mhN5SiV9Em1zM-ahU-x0cVE-E6s-EjNa_RjX4UL-an07N3eBQIfNuKMs_ZmAOIUtil-yQ2RSbC1a1ILXLVzUJtDjtanzhhZ2MUdjPTpq4uEaFV3a6bznwGARl02r7-Z6dOoru-78_y7fnvdfMZ3wqNSgjJM9d8VAP5P7jMtsBgix1-wOffGvEa-MpgbAnmzbsjHcLu1M_vc-4fhgVt26VtP9Fui",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "GET": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694827%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "GET": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694827%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/authenticate/css/authenticate.import.css?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/ui/js/requirejs_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/ui/js/ui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/core/js/gupui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/global/gup/green_check.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/authenticate/js/views/social_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/ui/js/url_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sb.scorecardresearch.com/b?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "GET": "https://sb.scorecardresearch.com/b?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "sb.scorecardresearch.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sb.scorecardresearch.com/b2?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "GET": "https://sb.scorecardresearch.com/b2?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "sb.scorecardresearch.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://user.usatoday.com/USAT-GUP/user/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sli.usatoday.com/baker?dtstmp=1676694833391",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "sli.usatoday.com",
+    "d15b836mnl3si5.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://user.usatoday.com/USAT-GUP/user/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://cm.usatoday.com/nanobar/021523_PresidentsDay",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "cm.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sli.usatoday.com/baker?dtstmp=1676694839320",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694838%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "sli.usatoday.com",
+    "d15b836mnl3si5.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/authenticate/",
+  "GET": "",
+  "POST": "reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&from-state=create-account&bypass-returning-user=true&action=create-account&bypass-returning-user=true&firstName=roger&lastName=nadal&email=rogernadal322%40gmail.com&password=123Andy%23%21000&password-confirm=123Andy%23%21000&g-recaptcha-response=03AFY_a8UIdsTkvhSrH1MKxvrAJd8srKshzAwWa6IrV76Rfg8CNRVRgYqiSxQDJWB8Xl3S8s8jMskuRzsJXCHl_rR3nghlN9umxhDRMj8N894wVTXnNbJA0Jf313qw6w__3F8HG_D5jouNLJ6OySBf3G3QFXmnZ5gM5Bopt-lXjw35pyamJQks-2V1_6yuwIEfaQpvB4i0ZOIbm-TtzVhRzkpWY99XMYQWD5C38YEdZyUzVpwSojSZZJ3EhUYSFBUVlO81yqq4JxUl8Kwn_zinl7dVHkgXAtRlrkEd3FEFtQOtlOfgfPjNyE3DDiWFFdtw4rAIWmP1bLDhZDrcCPxJjsFKjp3IaN0hHrst1TBxersgWDFplXDAKgbSpsJlc89zwfQrJhUr8Adhk8X0r3AzyRetvxFHPD4rMHnIRGg3NpojtYmZKLeIjOv_TrncoluNwgJNg8L0fLPGsTY2phSnBlVBUQU_qIkRxYFZiA9Hz79kBhJ3kpTehmy0xq-cyUk36CryZFt6TxP-nBsQ7LtyFTHM_I7fVypzPituvxwDkMKLs0_Nld_vEFS1ktRzJQ28Jp8UKL8MbhZJqbMg4WpHuYyIIDtzPYvxNzm5FP2oFA--sGtMq6iGpi_kEQGm3H_NhQyLeZ4XvtGMVPgrKDQ-0_mR0afAPwBaee9dssMbYpSodKmkQzpv2T5J0d8nVJzPnmBr2BkDeiWz2a4pz2QSRTJjs9SBBIna9Bh8DRZULVkode_qFDOvNacKpNSnQZy-bJJ01OdDqAtizgz7kQCvlNUdb8uc_vTQMlfVh9kX-YnXL8TMEpQi3j_bmzzUQSKud0El0qKcdolOArjqofxlogsDhIpeJ4MkTkbcndlOEhJWXBH26OHL8A9Cn85VdbZvVdVPjrfOnlH5R4wM3324Z65-O3WUF-4VAmccVLrV40wP6qWxZbAc7s70B5QHGdTb6EAijyKK-5bob0wiOh9gvjDuSsjDNxZAyje5xYwvP2OFZRCgFEPgpenOGUn1Fl4t0Jk6ENptMYJzvzqgwI9MFgfK-wpttV3ZimRTtkUcvhT7UkyvzgGJNcriiRcvKIBz9FuQozSZyAgGy-EJruitOOFOTpG2wEylJQSTpjNqZcI0zkrg5mhN5SiV9Em1zM-ahU-x0cVE-E6s-EjNa_RjX4UL-an07N3eBQIfNuKMs_ZmAOIUtil-yQ2RSbC1a1ILXLVzUJtDjtanzhhZ2MUdjPTpq4uEaFV3a6bznwGARl02r7-Z6dOoru-78_y7fnvdfMZ3wqNSgjJM9d8VAP5P7jMtsBgix1-wOffGvEa-MpgbAnmzbsjHcLu1M_vc-4fhgVt26VtP9Fui",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "GET": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694827%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "GET": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694827%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/authenticate/css/authenticate.import.css?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/ui/js/requirejs_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/ui/js/ui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/core/js/gupui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/global/gup/green_check.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/authenticate/js/views/social_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://login.usatoday.com/resources/ui/js/url_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sb.scorecardresearch.com/b?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "GET": "https://sb.scorecardresearch.com/b?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "sb.scorecardresearch.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sb.scorecardresearch.com/b2?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "GET": "https://sb.scorecardresearch.com/b2?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "sb.scorecardresearch.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://user.usatoday.com/USAT-GUP/user/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sli.usatoday.com/baker?dtstmp=1676694833391",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "sli.usatoday.com",
+    "d15b836mnl3si5.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://user.usatoday.com/USAT-GUP/user/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://cm.usatoday.com/nanobar/021523_PresidentsDay",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "cm.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sli.usatoday.com/baker?dtstmp=1676694839320",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694838%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "sli.usatoday.com",
+    "d15b836mnl3si5.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/authenticate/",
+  "GET": "",
+  "POST": "reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&from-state=create-account&bypass-returning-user=true&action=create-account&bypass-returning-user=true&firstName=roger&lastName=nadal&email=rogernadal322%40gmail.com&password=123Andy%23%21000&password-confirm=123Andy%23%21000&g-recaptcha-response=03AFY_a8UIdsTkvhSrH1MKxvrAJd8srKshzAwWa6IrV76Rfg8CNRVRgYqiSxQDJWB8Xl3S8s8jMskuRzsJXCHl_rR3nghlN9umxhDRMj8N894wVTXnNbJA0Jf313qw6w__3F8HG_D5jouNLJ6OySBf3G3QFXmnZ5gM5Bopt-lXjw35pyamJQks-2V1_6yuwIEfaQpvB4i0ZOIbm-TtzVhRzkpWY99XMYQWD5C38YEdZyUzVpwSojSZZJ3EhUYSFBUVlO81yqq4JxUl8Kwn_zinl7dVHkgXAtRlrkEd3FEFtQOtlOfgfPjNyE3DDiWFFdtw4rAIWmP1bLDhZDrcCPxJjsFKjp3IaN0hHrst1TBxersgWDFplXDAKgbSpsJlc89zwfQrJhUr8Adhk8X0r3AzyRetvxFHPD4rMHnIRGg3NpojtYmZKLeIjOv_TrncoluNwgJNg8L0fLPGsTY2phSnBlVBUQU_qIkRxYFZiA9Hz79kBhJ3kpTehmy0xq-cyUk36CryZFt6TxP-nBsQ7LtyFTHM_I7fVypzPituvxwDkMKLs0_Nld_vEFS1ktRzJQ28Jp8UKL8MbhZJqbMg4WpHuYyIIDtzPYvxNzm5FP2oFA--sGtMq6iGpi_kEQGm3H_NhQyLeZ4XvtGMVPgrKDQ-0_mR0afAPwBaee9dssMbYpSodKmkQzpv2T5J0d8nVJzPnmBr2BkDeiWz2a4pz2QSRTJjs9SBBIna9Bh8DRZULVkode_qFDOvNacKpNSnQZy-bJJ01OdDqAtizgz7kQCvlNUdb8uc_vTQMlfVh9kX-YnXL8TMEpQi3j_bmzzUQSKud0El0qKcdolOArjqofxlogsDhIpeJ4MkTkbcndlOEhJWXBH26OHL8A9Cn85VdbZvVdVPjrfOnlH5R4wM3324Z65-O3WUF-4VAmccVLrV40wP6qWxZbAc7s70B5QHGdTb6EAijyKK-5bob0wiOh9gvjDuSsjDNxZAyje5xYwvP2OFZRCgFEPgpenOGUn1Fl4t0Jk6ENptMYJzvzqgwI9MFgfK-wpttV3ZimRTtkUcvhT7UkyvzgGJNcriiRcvKIBz9FuQozSZyAgGy-EJruitOOFOTpG2wEylJQSTpjNqZcI0zkrg5mhN5SiV9Em1zM-ahU-x0cVE-E6s-EjNa_RjX4UL-an07N3eBQIfNuKMs_ZmAOIUtil-yQ2RSbC1a1ILXLVzUJtDjtanzhhZ2MUdjPTpq4uEaFV3a6bznwGARl02r7-Z6dOoru-78_y7fnvdfMZ3wqNSgjJM9d8VAP5P7jMtsBgix1-wOffGvEa-MpgbAnmzbsjHcLu1M_vc-4fhgVt26VtP9Fui",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "GET": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "GET": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/authenticate/css/authenticate.import.css?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/ui/js/requirejs_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/ui/js/ui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/core/js/gupui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/authenticate/js/views/social_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/ui/js/url_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sb.scorecardresearch.com/b?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "GET": "https://sb.scorecardresearch.com/b?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "sb.scorecardresearch.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sb.scorecardresearch.com/b2?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "GET": "https://sb.scorecardresearch.com/b2?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "sb.scorecardresearch.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/authenticate/",
+  "GET": "",
+  "POST": "reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&from-state=create-account&bypass-returning-user=true&action=create-account&bypass-returning-user=true&firstName=roger&lastName=nadal&email=rogernadal322%40gmail.com&password=123Andy%23%21000&password-confirm=123Andy%23%21000&g-recaptcha-response=03AFY_a8UIdsTkvhSrH1MKxvrAJd8srKshzAwWa6IrV76Rfg8CNRVRgYqiSxQDJWB8Xl3S8s8jMskuRzsJXCHl_rR3nghlN9umxhDRMj8N894wVTXnNbJA0Jf313qw6w__3F8HG_D5jouNLJ6OySBf3G3QFXmnZ5gM5Bopt-lXjw35pyamJQks-2V1_6yuwIEfaQpvB4i0ZOIbm-TtzVhRzkpWY99XMYQWD5C38YEdZyUzVpwSojSZZJ3EhUYSFBUVlO81yqq4JxUl8Kwn_zinl7dVHkgXAtRlrkEd3FEFtQOtlOfgfPjNyE3DDiWFFdtw4rAIWmP1bLDhZDrcCPxJjsFKjp3IaN0hHrst1TBxersgWDFplXDAKgbSpsJlc89zwfQrJhUr8Adhk8X0r3AzyRetvxFHPD4rMHnIRGg3NpojtYmZKLeIjOv_TrncoluNwgJNg8L0fLPGsTY2phSnBlVBUQU_qIkRxYFZiA9Hz79kBhJ3kpTehmy0xq-cyUk36CryZFt6TxP-nBsQ7LtyFTHM_I7fVypzPituvxwDkMKLs0_Nld_vEFS1ktRzJQ28Jp8UKL8MbhZJqbMg4WpHuYyIIDtzPYvxNzm5FP2oFA--sGtMq6iGpi_kEQGm3H_NhQyLeZ4XvtGMVPgrKDQ-0_mR0afAPwBaee9dssMbYpSodKmkQzpv2T5J0d8nVJzPnmBr2BkDeiWz2a4pz2QSRTJjs9SBBIna9Bh8DRZULVkode_qFDOvNacKpNSnQZy-bJJ01OdDqAtizgz7kQCvlNUdb8uc_vTQMlfVh9kX-YnXL8TMEpQi3j_bmzzUQSKud0El0qKcdolOArjqofxlogsDhIpeJ4MkTkbcndlOEhJWXBH26OHL8A9Cn85VdbZvVdVPjrfOnlH5R4wM3324Z65-O3WUF-4VAmccVLrV40wP6qWxZbAc7s70B5QHGdTb6EAijyKK-5bob0wiOh9gvjDuSsjDNxZAyje5xYwvP2OFZRCgFEPgpenOGUn1Fl4t0Jk6ENptMYJzvzqgwI9MFgfK-wpttV3ZimRTtkUcvhT7UkyvzgGJNcriiRcvKIBz9FuQozSZyAgGy-EJruitOOFOTpG2wEylJQSTpjNqZcI0zkrg5mhN5SiV9Em1zM-ahU-x0cVE-E6s-EjNa_RjX4UL-an07N3eBQIfNuKMs_ZmAOIUtil-yQ2RSbC1a1ILXLVzUJtDjtanzhhZ2MUdjPTpq4uEaFV3a6bznwGARl02r7-Z6dOoru-78_y7fnvdfMZ3wqNSgjJM9d8VAP5P7jMtsBgix1-wOffGvEa-MpgbAnmzbsjHcLu1M_vc-4fhgVt26VtP9Fui",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "GET": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "GET": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/authenticate/css/authenticate.import.css?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/ui/js/requirejs_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/ui/js/ui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/core/js/gupui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/authenticate/js/views/social_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://login.usatoday.com/resources/ui/js/url_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "!https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sb.scorecardresearch.com/b?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "GET": "https://sb.scorecardresearch.com/b?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "sb.scorecardresearch.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sb.scorecardresearch.com/b2?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "GET": "https://sb.scorecardresearch.com/b2?c2=6035223&c1=2&c4=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c15=89ddbf67-45af-ed11-a2e9-0050568737a0&cs_ucfr=&cs_it=b2&cv=3.8.0.210223&ns__t=1676694829629&ns_c=UTF-8&c7=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue&c8=Welcome%20-%20USA%20TODAY&c9=https%3A%2F%2Flogin.usatoday.com%2F",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "sb.scorecardresearch.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://login.usatoday.com/authenticate/",
+  "GET": "",
+  "POST": "reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&from-state=create-account&bypass-returning-user=true&action=create-account&bypass-returning-user=true&firstName=roger&lastName=nadal&email=rogernadal322%40gmail.com&password=123Andy%23%21000&password-confirm=123Andy%23%21000&g-recaptcha-response=03AFY_a8UIdsTkvhSrH1MKxvrAJd8srKshzAwWa6IrV76Rfg8CNRVRgYqiSxQDJWB8Xl3S8s8jMskuRzsJXCHl_rR3nghlN9umxhDRMj8N894wVTXnNbJA0Jf313qw6w__3F8HG_D5jouNLJ6OySBf3G3QFXmnZ5gM5Bopt-lXjw35pyamJQks-2V1_6yuwIEfaQpvB4i0ZOIbm-TtzVhRzkpWY99XMYQWD5C38YEdZyUzVpwSojSZZJ3EhUYSFBUVlO81yqq4JxUl8Kwn_zinl7dVHkgXAtRlrkEd3FEFtQOtlOfgfPjNyE3DDiWFFdtw4rAIWmP1bLDhZDrcCPxJjsFKjp3IaN0hHrst1TBxersgWDFplXDAKgbSpsJlc89zwfQrJhUr8Adhk8X0r3AzyRetvxFHPD4rMHnIRGg3NpojtYmZKLeIjOv_TrncoluNwgJNg8L0fLPGsTY2phSnBlVBUQU_qIkRxYFZiA9Hz79kBhJ3kpTehmy0xq-cyUk36CryZFt6TxP-nBsQ7LtyFTHM_I7fVypzPituvxwDkMKLs0_Nld_vEFS1ktRzJQ28Jp8UKL8MbhZJqbMg4WpHuYyIIDtzPYvxNzm5FP2oFA--sGtMq6iGpi_kEQGm3H_NhQyLeZ4XvtGMVPgrKDQ-0_mR0afAPwBaee9dssMbYpSodKmkQzpv2T5J0d8nVJzPnmBr2BkDeiWz2a4pz2QSRTJjs9SBBIna9Bh8DRZULVkode_qFDOvNacKpNSnQZy-bJJ01OdDqAtizgz7kQCvlNUdb8uc_vTQMlfVh9kX-YnXL8TMEpQi3j_bmzzUQSKud0El0qKcdolOArjqofxlogsDhIpeJ4MkTkbcndlOEhJWXBH26OHL8A9Cn85VdbZvVdVPjrfOnlH5R4wM3324Z65-O3WUF-4VAmccVLrV40wP6qWxZbAc7s70B5QHGdTb6EAijyKK-5bob0wiOh9gvjDuSsjDNxZAyje5xYwvP2OFZRCgFEPgpenOGUn1Fl4t0Jk6ENptMYJzvzqgwI9MFgfK-wpttV3ZimRTtkUcvhT7UkyvzgGJNcriiRcvKIBz9FuQozSZyAgGy-EJruitOOFOTpG2wEylJQSTpjNqZcI0zkrg5mhN5SiV9Em1zM-ahU-x0cVE-E6s-EjNa_RjX4UL-an07N3eBQIfNuKMs_ZmAOIUtil-yQ2RSbC1a1ILXLVzUJtDjtanzhhZ2MUdjPTpq4uEaFV3a6bznwGARl02r7-Z6dOoru-78_y7fnvdfMZ3wqNSgjJM9d8VAP5P7jMtsBgix1-wOffGvEa-MpgbAnmzbsjHcLu1M_vc-4fhgVt26VtP9Fui",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://login.usatoday.com/authenticate/",
+  "GET": "",
+  "POST": "reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&from-state=create-account&bypass-returning-user=true&action=create-account&bypass-returning-user=true&firstName=roger&lastName=nadal&email=rogernadal322%40gmail.com&password=123Andy%23%21000&password-confirm=123Andy%23%21000&g-recaptcha-response=03AFY_a8UIdsTkvhSrH1MKxvrAJd8srKshzAwWa6IrV76Rfg8CNRVRgYqiSxQDJWB8Xl3S8s8jMskuRzsJXCHl_rR3nghlN9umxhDRMj8N894wVTXnNbJA0Jf313qw6w__3F8HG_D5jouNLJ6OySBf3G3QFXmnZ5gM5Bopt-lXjw35pyamJQks-2V1_6yuwIEfaQpvB4i0ZOIbm-TtzVhRzkpWY99XMYQWD5C38YEdZyUzVpwSojSZZJ3EhUYSFBUVlO81yqq4JxUl8Kwn_zinl7dVHkgXAtRlrkEd3FEFtQOtlOfgfPjNyE3DDiWFFdtw4rAIWmP1bLDhZDrcCPxJjsFKjp3IaN0hHrst1TBxersgWDFplXDAKgbSpsJlc89zwfQrJhUr8Adhk8X0r3AzyRetvxFHPD4rMHnIRGg3NpojtYmZKLeIjOv_TrncoluNwgJNg8L0fLPGsTY2phSnBlVBUQU_qIkRxYFZiA9Hz79kBhJ3kpTehmy0xq-cyUk36CryZFt6TxP-nBsQ7LtyFTHM_I7fVypzPituvxwDkMKLs0_Nld_vEFS1ktRzJQ28Jp8UKL8MbhZJqbMg4WpHuYyIIDtzPYvxNzm5FP2oFA--sGtMq6iGpi_kEQGm3H_NhQyLeZ4XvtGMVPgrKDQ-0_mR0afAPwBaee9dssMbYpSodKmkQzpv2T5J0d8nVJzPnmBr2BkDeiWz2a4pz2QSRTJjs9SBBIna9Bh8DRZULVkode_qFDOvNacKpNSnQZy-bJJ01OdDqAtizgz7kQCvlNUdb8uc_vTQMlfVh9kX-YnXL8TMEpQi3j_bmzzUQSKud0El0qKcdolOArjqofxlogsDhIpeJ4MkTkbcndlOEhJWXBH26OHL8A9Cn85VdbZvVdVPjrfOnlH5R4wM3324Z65-O3WUF-4VAmccVLrV40wP6qWxZbAc7s70B5QHGdTb6EAijyKK-5bob0wiOh9gvjDuSsjDNxZAyje5xYwvP2OFZRCgFEPgpenOGUn1Fl4t0Jk6ENptMYJzvzqgwI9MFgfK-wpttV3ZimRTtkUcvhT7UkyvzgGJNcriiRcvKIBz9FuQozSZyAgGy-EJruitOOFOTpG2wEylJQSTpjNqZcI0zkrg5mhN5SiV9Em1zM-ahU-x0cVE-E6s-EjNa_RjX4UL-an07N3eBQIfNuKMs_ZmAOIUtil-yQ2RSbC1a1ILXLVzUJtDjtanzhhZ2MUdjPTpq4uEaFV3a6bznwGARl02r7-Z6dOoru-78_y7fnvdfMZ3wqNSgjJM9d8VAP5P7jMtsBgix1-wOffGvEa-MpgbAnmzbsjHcLu1M_vc-4fhgVt26VtP9Fui",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://login.usatoday.com/authenticate/",
+  "GET": "",
+  "POST": "reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&from-state=create-account&bypass-returning-user=true&action=create-account&bypass-returning-user=true&firstName=roger&lastName=nadal&email=rogernadal322%40gmail.com&password=123Andy%23%21000&password-confirm=123Andy%23%21000&g-recaptcha-response=03AFY_a8UIdsTkvhSrH1MKxvrAJd8srKshzAwWa6IrV76Rfg8CNRVRgYqiSxQDJWB8Xl3S8s8jMskuRzsJXCHl_rR3nghlN9umxhDRMj8N894wVTXnNbJA0Jf313qw6w__3F8HG_D5jouNLJ6OySBf3G3QFXmnZ5gM5Bopt-lXjw35pyamJQks-2V1_6yuwIEfaQpvB4i0ZOIbm-TtzVhRzkpWY99XMYQWD5C38YEdZyUzVpwSojSZZJ3EhUYSFBUVlO81yqq4JxUl8Kwn_zinl7dVHkgXAtRlrkEd3FEFtQOtlOfgfPjNyE3DDiWFFdtw4rAIWmP1bLDhZDrcCPxJjsFKjp3IaN0hHrst1TBxersgWDFplXDAKgbSpsJlc89zwfQrJhUr8Adhk8X0r3AzyRetvxFHPD4rMHnIRGg3NpojtYmZKLeIjOv_TrncoluNwgJNg8L0fLPGsTY2phSnBlVBUQU_qIkRxYFZiA9Hz79kBhJ3kpTehmy0xq-cyUk36CryZFt6TxP-nBsQ7LtyFTHM_I7fVypzPituvxwDkMKLs0_Nld_vEFS1ktRzJQ28Jp8UKL8MbhZJqbMg4WpHuYyIIDtzPYvxNzm5FP2oFA--sGtMq6iGpi_kEQGm3H_NhQyLeZ4XvtGMVPgrKDQ-0_mR0afAPwBaee9dssMbYpSodKmkQzpv2T5J0d8nVJzPnmBr2BkDeiWz2a4pz2QSRTJjs9SBBIna9Bh8DRZULVkode_qFDOvNacKpNSnQZy-bJJ01OdDqAtizgz7kQCvlNUdb8uc_vTQMlfVh9kX-YnXL8TMEpQi3j_bmzzUQSKud0El0qKcdolOArjqofxlogsDhIpeJ4MkTkbcndlOEhJWXBH26OHL8A9Cn85VdbZvVdVPjrfOnlH5R4wM3324Z65-O3WUF-4VAmccVLrV40wP6qWxZbAc7s70B5QHGdTb6EAijyKK-5bob0wiOh9gvjDuSsjDNxZAyje5xYwvP2OFZRCgFEPgpenOGUn1Fl4t0Jk6ENptMYJzvzqgwI9MFgfK-wpttV3ZimRTtkUcvhT7UkyvzgGJNcriiRcvKIBz9FuQozSZyAgGy-EJruitOOFOTpG2wEylJQSTpjNqZcI0zkrg5mhN5SiV9Em1zM-ahU-x0cVE-E6s-EjNa_RjX4UL-an07N3eBQIfNuKMs_ZmAOIUtil-yQ2RSbC1a1ILXLVzUJtDjtanzhhZ2MUdjPTpq4uEaFV3a6bznwGARl02r7-Z6dOoru-78_y7fnvdfMZ3wqNSgjJM9d8VAP5P7jMtsBgix1-wOffGvEa-MpgbAnmzbsjHcLu1M_vc-4fhgVt26VtP9Fui",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://login.usatoday.com/authenticate/",
+  "GET": "",
+  "POST": "reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&from-state=create-account&bypass-returning-user=true&action=create-account&bypass-returning-user=true&firstName=roger&lastName=nadal&email=rogernadal322%40gmail.com&password=123Andy%23%21000&password-confirm=123Andy%23%21000&g-recaptcha-response=03AFY_a8UIdsTkvhSrH1MKxvrAJd8srKshzAwWa6IrV76Rfg8CNRVRgYqiSxQDJWB8Xl3S8s8jMskuRzsJXCHl_rR3nghlN9umxhDRMj8N894wVTXnNbJA0Jf313qw6w__3F8HG_D5jouNLJ6OySBf3G3QFXmnZ5gM5Bopt-lXjw35pyamJQks-2V1_6yuwIEfaQpvB4i0ZOIbm-TtzVhRzkpWY99XMYQWD5C38YEdZyUzVpwSojSZZJ3EhUYSFBUVlO81yqq4JxUl8Kwn_zinl7dVHkgXAtRlrkEd3FEFtQOtlOfgfPjNyE3DDiWFFdtw4rAIWmP1bLDhZDrcCPxJjsFKjp3IaN0hHrst1TBxersgWDFplXDAKgbSpsJlc89zwfQrJhUr8Adhk8X0r3AzyRetvxFHPD4rMHnIRGg3NpojtYmZKLeIjOv_TrncoluNwgJNg8L0fLPGsTY2phSnBlVBUQU_qIkRxYFZiA9Hz79kBhJ3kpTehmy0xq-cyUk36CryZFt6TxP-nBsQ7LtyFTHM_I7fVypzPituvxwDkMKLs0_Nld_vEFS1ktRzJQ28Jp8UKL8MbhZJqbMg4WpHuYyIIDtzPYvxNzm5FP2oFA--sGtMq6iGpi_kEQGm3H_NhQyLeZ4XvtGMVPgrKDQ-0_mR0afAPwBaee9dssMbYpSodKmkQzpv2T5J0d8nVJzPnmBr2BkDeiWz2a4pz2QSRTJjs9SBBIna9Bh8DRZULVkode_qFDOvNacKpNSnQZy-bJJ01OdDqAtizgz7kQCvlNUdb8uc_vTQMlfVh9kX-YnXL8TMEpQi3j_bmzzUQSKud0El0qKcdolOArjqofxlogsDhIpeJ4MkTkbcndlOEhJWXBH26OHL8A9Cn85VdbZvVdVPjrfOnlH5R4wM3324Z65-O3WUF-4VAmccVLrV40wP6qWxZbAc7s70B5QHGdTb6EAijyKK-5bob0wiOh9gvjDuSsjDNxZAyje5xYwvP2OFZRCgFEPgpenOGUn1Fl4t0Jk6ENptMYJzvzqgwI9MFgfK-wpttV3ZimRTtkUcvhT7UkyvzgGJNcriiRcvKIBz9FuQozSZyAgGy-EJruitOOFOTpG2wEylJQSTpjNqZcI0zkrg5mhN5SiV9Em1zM-ahU-x0cVE-E6s-EjNa_RjX4UL-an07N3eBQIfNuKMs_ZmAOIUtil-yQ2RSbC1a1ILXLVzUJtDjtanzhhZ2MUdjPTpq4uEaFV3a6bznwGARl02r7-Z6dOoru-78_y7fnvdfMZ3wqNSgjJM9d8VAP5P7jMtsBgix1-wOffGvEa-MpgbAnmzbsjHcLu1M_vc-4fhgVt26VtP9Fui",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://user.usatoday.com/USAT-GUP-COOKIESERVICE/cookies/?set=returning-user%3DgAAAAABj8FUr2bC4krN5YJqNSDcZypzF3-36hKXQIFJFpKtla0Bu6m78jEE8PU1FD8A7C4YaXoxB0U5_yW9dcYS9Z5v7R_KVd5WOiH8mA80QTWjaVyL1Vpl3C-Nm4hcGpKu2sSSpg20uTmNLQ0O6YXNXWeHkrRmkhjSEjnkXP-TmDchvxvusBuftFacF_qQj6f0bY30lGE7-LRbOJE_Xc5FuNQwMjMmcjRyWfxMBjde75DZCajxiglE%3D&return-url=https%3A%2F%2Flogin.usatoday.com%2Fauthenticate%2F%3Freg_source%3DCPNAVBAR%26reg_medium%3DONSITE%26reg_campaign%3Dsignin%26reg_delivery%3Dux%26cookies%3D%26bypass-returning-user%3Dtrue%26action%3Dcreate-account%26firstName%3Droger%26lastName%3Dnadal%26from-state%3Dreturning-user-set-redirect%26is-first-login%3Dtrue%26is-new-credential%3Dtrue",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694827%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/authenticate/?reg_source=CPNAVBAR&reg_medium=ONSITE&reg_campaign=signin&reg_delivery=ux&cookies=&bypass-returning-user=true&action=create-account&firstName=roger&lastName=nadal&from-state=returning-user-set-redirect&is-first-login=true&is-new-credential=true",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694827%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/resources/authenticate/css/authenticate.import.css?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/resources/ui/js/requirejs_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/resources/ui/js/ui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/resources/core/js/gupui_common.common.min.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/resources/global/gup/green_check.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/resources/authenticate/js/views/social_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://login.usatoday.com/resources/ui/js/url_def.js?digest=64d9fc7df82fe0c8347aaa6d5bcaf8f4",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "login.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://user.usatoday.com/USAT-GUP/user/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694829%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://sli.usatoday.com/baker?dtstmp=1676694833391",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "sli.usatoday.com",
+    "d15b836mnl3si5.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://user.usatoday.com/USAT-GUP/user/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "user.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://cm.usatoday.com/nanobar/021523_PresidentsDay",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694833%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "cm.usatoday.com",
+    "domains.gannett.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://sli.usatoday.com/baker?dtstmp=1676694839320",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!gup_lng%7B%22ret-usr%22%3A%20true%2C%20%22ret-sub%22%3A%20false%2C%20%22auth%22%3A%20true%2C%20%22name%22%3A%20%22roger%22%2C%20%22hma%22%3A%20false%2C%20%22lic%22%3A%20%22none%22%2C%20%22lpf%22%3A%20false%2C%20%22updated%22%3A%201676694838%2C%20%223PID%22%3A%20%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%2C%20%22ips%22%3A%20false%7D",
+  "cNames": [
+    "sli.usatoday.com",
+    "d15b836mnl3si5.cloudfront.net"
+  ],
+  "done": true
+} ]

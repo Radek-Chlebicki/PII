@@ -1,0 +1,1372 @@
+[{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/static/images/img-welcome.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/auth-status?_v=1674947989856",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hp_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/subscribed-alert-categories/set",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/get?preferences=subscribed-alert-categories",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/static/images/img-welcome.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/user/auth-status?_v=1674947989856",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hp_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/subscribed-alert-categories/set",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/get?preferences=subscribed-alert-categories",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/static/images/img-welcome.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/auth-status?_v=1674947989856",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hp_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/subscribed-alert-categories/set",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/get?preferences=subscribed-alert-categories",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/static/images/img-welcome.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/user/auth-status?_v=1674947989856",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hp_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/subscribed-alert-categories/set",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/get?preferences=subscribed-alert-categories",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/static/images/img-welcome.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/auth-status?_v=1674947989856",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hp_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/subscribed-alert-categories/set",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/get?preferences=subscribed-alert-categories",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/static/images/img-welcome.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/user/auth-status?_v=1674947989856",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hp_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/subscribed-alert-categories/set",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/get?preferences=subscribed-alert-categories",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/static/images/img-welcome.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/auth-status?_v=1674947989856",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hp_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/subscribed-alert-categories/set",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/get?preferences=subscribed-alert-categories",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947973480",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "GET": "https://subscribe.washingtonpost.com/user/getRecaptchaStatus?identifier=rogernadal322%40gmail.com&_v=1674947986220",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/static/images/img-welcome.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/user/auth-status?_v=1674947989856",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hp_sub_promo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/subscribed-alert-categories/set",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://subscribe.washingtonpost.com/preferenceapi/v1/current/preferences/get?preferences=subscribed-alert-categories",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!wapo_displayrogernadal322|https%3A%2F%2Fwpidentity.s3.amazonaws.com%2Fassets%2Fimages%2Favatar-default.png",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscribe.washingtonpost.com/user/lookup-account-by-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"recaptchaToken\":\"JAJ8ro08vZQA3JmowtV6PlBSjMlMbGPBJq35L920+OyX82HFVd0iHNUAKH036Fq/5fXBwaw3UELMw+/LJM42Nw8+RvzdPdiVVgE+Kz4B8GYVs2YQ8ta4dojYi6+QIqnsVGeTzjCmv7GmtQ/s+dPuujn61ne6Ib/WfyEcLK5tvP/76mGtwdZ25zQg7anW/ut+xvWrVyi+mchloIETj4uFB0260T83c/RISLtdZrmrrO8=\",\"recaptchaResponse\":null,\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\",\"appRequestHeaders\":{\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"},\"requestId\":\"bd72e488-2d11-42f4-a416-0fd54356213e\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscribe.washingtonpost.com/user/save-identity-preferences",
+  "GET": "",
+  "POST": "{\"privacySetting\":{\"tos\":{\"consent\":\"Y\",\"consentCountry\":\"us\"},\"marketingConsent\":{\"consent\":\"-1\",\"consentCountry\":\"us\"}},\"accountSource\":\"signin-component\",\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://subscribe.washingtonpost.com/user/v2/password/verify",
+  "GET": "",
+  "POST": "{\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://subscribe.washingtonpost.com/user/v2/password/verify",
+  "GET": "",
+  "POST": "{\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://subscribe.washingtonpost.com/user/register",
+  "GET": "",
+  "POST": "{\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"confirm\":\"123Andy#!000\",\"recaptchaToken\":\"o32WCaajEL3RhQkxv9yoW4TLmyUcRknbEA566m1y1Q2WukTMFinopVpl5EvcGyHPdYXlWJaWTvDd+WGZQNlpo8EJBIIkDvMS3GgL+N3GfHyfW+YpBEjX6CYljvyGvrVdducnrHIPtuMdTitGHu+ui/CGt/xQGJjGEm8NSYpcynrVbVC0sqA7oYGlErYZ1bww5booAU9lFLASOUGmxcFdvnx0azqgqDbmzb4KZSMsXnI=\",\"recaptchaResponse\":null,\"registrationSource\":\"WPAA\",\"skipConnect\":false,\"metadata\":[{\"name\":\"account_source\",\"value\":\"\"},{\"name\":\"account_location\",\"value\":\"ONSITE_HEADER_HOMEPAGE\"},{\"name\":\"account_method\",\"value\":\"AC\"},{\"name\":\"account_device\",\"value\":\"\"},{\"name\":\"account_arcid\",\"value\":\"\"},{\"name\":\"account_experience\",\"value\":\"\"},{\"name\":\"account_optimize_test\",\"value\":\"\"},{\"name\":\"account_source_channel\",\"value\":\"www.washingtonpost.com\"},{\"name\":\"account_app_name\",\"value\":\"\"},{\"name\":\"account_app_os\",\"value\":\"\"},{\"name\":\"account_app_version\",\"value\":\"\"}],\"authflow\":false,\"remember\":\"yes\",\"recaptchaType\":\"invisible\",\"nextUrl\":\"https%3A%2F%2Fwww.washingtonpost.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.washingtonpost.com%26nid%3Dtop_pb_signin%26arcId%3D%26account_location%3DONSITE_HEADER_HOMEPAGE%26itid%3Dnav_sign_in\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "subscribe.washingtonpost.com",
+    "50992.edgekey.net",
+    "e9631.j.akamaiedge.net"
+  ],
+  "done": true
+}]

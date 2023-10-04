@@ -1,0 +1,704 @@
+{
+  "str": "roger",
+  "url": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "GET": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "GET": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "GET": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "GET": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "GET": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "GET": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "GET": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "GET": "https://api.zerobounce.net/v2/validate?api_key=6670ac0319b844f4b8249510e774e072&email=rogernadal322%40gmail.com&ip_address=",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"9ec5a66d-fe03-40b2-ae8e-8eb4f34c5326\",\"request_timestamp_ms\":1676703131215,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e8fa45b6-3e1f-4e88-b9d6-14f24086d512\",\"request_timestamp_ms\":1676703131419,\"previous_mpid\":\"7257795899248332717\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api.sail-track.com/v1/track/user/signup",
+  "GET": "",
+  "POST": "{\"id\":\"rogernadal322@gmail.com\",\"key\":\"email\",\"vars\":{\"sub_identity_reg\":1},\"content\":\"3bab6463853c054dc51d2427c1a5b69e\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://map.mp.nbc.com/identity/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.11.15\"},\"context\":\"\",\"environment\":\"production\",\"request_id\":\"cb6eaff4-3d6b-463b-8702-1e8f044c5684\",\"request_timestamp_ms\":1676703131426,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"f468cc24-5cf3-429c-9877-2dfdc8401dfb\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131478,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"customer_id\",\"identity\":\"884be965-7532-4689-89ee-2167b6698066\",\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":true},\"old\":{\"identity_type\":\"customer_id\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131476,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131476,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"01e5dd6f-c760-454d-a3a4-f379f71efa9d\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/65ea0b28a73c4c4abd08599774d30799/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"797276f7-7e68-4a14-be10-9785a3df9f63\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676703131480,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676703131480,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676703131480,\"session_uuid\":\"9C3EF7A6-DD15-42DC-BF68-34BB1D599F30\",\"session_start_unixtime_ms\":1676703102318,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"1bd6eef3-e0f0-44e6-ba03-f67c319b81aa\"}}],\"mp_deviceid\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"nbcnews.com\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"customer_id\":\"884be965-7532-4689-89ee-2167b6698066\",\"email\":\"rogernadal322@gmail.com\"},\"consent_state\":null,\"integration_attributes\":{}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"10785e7b-669d-45cc-903d-dc8c9476063d\",\"request_timestamp_ms\":1676703134665,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"e9b83a6b-2df2-4c3b-8d00-14ebd79993aa\",\"request_timestamp_ms\":1676703139194,\"previous_mpid\":\"-7292279167415306231\",\"known_identities\":{\"email\":\"rogernadal322@gmail.com\",\"customerid\":\"884be965-7532-4689-89ee-2167b6698066\",\"device_application_stamp\":\"a04bdf9d-b441-4e61-bf55-85e5e5e6c5de\"}}",
+  "referer": "",
+  "cookie": ""
+}

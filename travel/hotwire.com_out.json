@@ -1,0 +1,272 @@
+{
+  "str": "roger",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.hotwire.com/api2/validate/email?apikey=spnx46dyhndg2yr9g5gudndz&sig=a2cd89178f7032bd61bcc45506a608d5",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://www.hotwire.com/api/1//v1.1/account/create?apikey=hy3adetwd93gz2za3jvbvfxe&sig=b832200737b4a6692f46307bff6815ce",
+  "GET": "",
+  "POST": "<CreateCustomerAccountRQ><ClientInfo countryCode=\"US\" currencyCode=\"USD\" clientId=\"6004182874327884917\" customerId=\"-1\"/><ClientID>2mf32a8ew3kbe2hvg2y4hkfq</ClientID><ProfileInfo><PrimaryPhoneNumber></PrimaryPhoneNumber><AlternatePhoneNumber></AlternatePhoneNumber><EmailAddress>rogernadal322@gmail.com</EmailAddress><PromotionalDeals>false</PromotionalDeals><CreditEmailNotify>true</CreditEmailNotify><Name firstName=\"roger\" lastName=\"nadal\" /></ProfileInfo><EmailSubscriptions hotRateAlert=\"true\" savingNotices=\"true\" bigDeals=\"true\" tripWatcher=\"true\" cruiseNews=\"true\" /><Password>123Andy#!000</Password><PasswordConfirm>123Andy#!000</PasswordConfirm></CreateCustomerAccountRQ>",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://www.hotwire.com/api2/login?from=https://www.hotwire.com&apikey=h9hdz5gumhw228csvau3pepx&sig=0ba2620e1e81da40cf86c61cde0c9e2b",
+  "GET": "",
+  "POST": "{\"loginId\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"clientId\":\"6004182874327884917\",\"challengeToken\":\"03AFY_a8X1Rg9LvF5xpIPnQYcwympnFGgmKk9KnETll7mbunFu5p07-TVzlhPsK28ByMXWpb8IKhceOKpyIz0G1ijoGIA5yfSTpuuwwycatb1AJ5-jmFyBSW2V3swxLPXOBqrybJomRdXvpl3Hv-x0MOFz9cGauPZbyTi0qQyqNXeYEBxmNA_aFXM91VT9EQTVrikQRx2DBCynwBUgnDsuZiL_ThPDQlaWbQGYxI0E7-rj0KYGtBOjAOrOizd2ads30d1TC_7ti_0ApckjfqV-fR98Mmmosm4DoJCLdnAInhgOMYCqMpxeEeHCAWmcPd8wRJqxldYvdlz6YxUkxMLi-n2F6jp1kqhlpUK3s4o6rI6YjGX7gMeOQTlxWv54Yb2rclqOtfTj8pgP1FQvZJ2I77HBY6nb9FYk8QWTavyG6agm_MiiY_YR3Y-8nDHc8tBhse4EwhEDS75aqa3jD2bbppCp0uZJENP4EUfXTtnXGzDg0OFeMfkUXKdMzTRRDDX8SL-K3OlQhcu4\",\"challengeType\":\"recaptcha\"}",
+  "referer": "",
+  "cookie": ""
+}

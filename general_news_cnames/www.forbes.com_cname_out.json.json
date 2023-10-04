@@ -1,0 +1,416 @@
+[{
+  "str": "roger",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_4d424df4-69f0-408b-8891-9991f4b42760\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseLanding\",\"eventData\":{\"properties\":{\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\"}},\"actionId\":\"forbes-live_0cc20f08-11a1-4f90-8236-933e9d0c77a4\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://se.email.forbes.com/call.php?ac=forbes-live",
+  "GET": "",
+  "POST": "[{\"type\":\"contact\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"auth\":{\"email\":\"rogernadal322@gmail.com\"},\"data\":{},\"options\":{\"upsert\":true},\"actionId\":\"forbes-live_b2dd3a78-68a7-4e88-a4c4-880410c5abce\"},{\"type\":\"event\",\"meta\":{\"accountKey\":\"forbes-live\",\"bid\":\"c4134be1-037b-404b-ada7-0fdb7ce37eed\",\"debug\":false},\"eventName\":\"browseArticle\",\"eventData\":{\"properties\":{\"author\":\"Nicholas Reimann\",\"pubDate\":\"2023-02-01\",\"section\":\"none\",\"source\":\"https://www.forbes.com/?sh=5d54d0b42254\",\"title\":\"Meta Stock Soars After Beating Revenue Estimate\"}},\"actionId\":\"forbes-live_9cd2a702-199b-42f5-a038-726f48766b27\"}]",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "se.email.forbes.com",
+    "cname.cordial.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://auth.forbes.com/id/api/v1/identity/register/token?aid=Yj2fRrCPpu&lang=en_US&tbc=%7Bkpex%7DfUfDwpyFNE8Z9Ge6EAtAINMUJ_dSo3eCoIRtaTvEvi17oOGLEbwgtgHIjJmz1Afd",
+  "GET": "",
+  "POST": "{\"first_name\":\"Roger\",\"last_name\":\"Nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"recaptchaResponse\":\"03AFY_a8XcF47D8H2d571kMiehkeDs7mS1DWHD1_2zSkw9fKLAjI6PkkDKNSCQ_Dnxvtm7FxsBytYHabSoMfgSp3T5YAgR5A0TXoloOqAaI2Kg1Ypc9J5k8xiVA-P6DLl4jj-3YSc3l_5S-PJLRMMQXmWIivnPaRaMLjTPM3ca1ffTmiquq1PvQYp3sZA0ZW2w-nY8FMjyp3D_xqA1tBWP6MzO3biFrb0H5vJOMbNvPkjw7I9e-LkaNxQpyKVYUzju-4Tz5A4V_SmeAowyNhX3540tzOP_pMWWQ1emU_dy4jqct6AZE5_VdpE3d0x_9vEylubRnJrOTGJ_liAcNj9tj66cmAExUJgo2SywGlo7g7c_Npt3jN_7sRrfJNeJp8NwzMeXBoC0HggxXgN6AH8qZP4VBNg1DHmiIrDeHdpFOgHp66HAEwbZ4OjIBCpPC4EZtTm3QgUkKKVwpdAS5QZSKGGAQQVxeN6AclV8_K7XKxnqHmOyFXQbCgEKo0LuEA1GAfk54JboBVfeIgOwrVWqDQH6QvFJpMPWJg\",\"consents\":[],\"customFieldValues\":[{\"field_name\":\"display_name\",\"value\":\"Roger N.\"},{\"field_name\":\"seniority\",\"value\":\"[]\"},{\"field_name\":\"functional_area\",\"value\":\"[]\"},{\"field_name\":\"announcements_opt_in\",\"value\":true},{\"field_name\":\"QAiOptIn\",\"value\":false}],\"remember\":true,\"origin_url\":\"https://www.forbes.com/?sh=5d54d0b42254\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "auth.forbes.com",
+    "auth-forbes.tinypass.com"
+  ],
+  "done": true
+} ]

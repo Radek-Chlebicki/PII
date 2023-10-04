@@ -1,0 +1,304 @@
+{
+  "str": "roger",
+  "url": "https://www.hyatt.com/en-US/member/enroll/checkDuplicate",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&lastName=nadal",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hyatt.com/en-US/member/enroll/save",
+  "GET": "",
+  "POST": "prefix=Mr&firstName=roger&lastName=nadal&suffix=&firstNameTranslit=&lastNameTranslit=&email=rogernadal322%40gmail.com&countryCode=US&stateCode=IL&ppCnt=&returnUrl=https%3A%2F%2Fworld.hyatt.com%2Fcontent%2Fgp%2Fen%2Fenroll%2Fsuccess.html&enrollSource=INT16&securePwd=v6FTJc6GCu3n4eQ6oipQjasSEqqK4JmRJ2GnGte2sHGugAd7neJwg123bWbKjr3y0dFBEwOvXZx3y0jd%2BjXP%2B5a4AlLTz9hp5KmDba7DGLttXbsaCsiTttXXolel1TrpugniyjNV7jZLqlOYfgP40%2FOEdvjXr5uzZgqlJ1eH3tBlScOKa4thMMf9zBsT4QhxIm12%2BZsl86vqiXaIlDUTY1SLzMLUcXiavJlSMco%2FuhRJ%2FIgOf1vy2P71R1TSTLac%2BUlLMawmVtPjl%2FbZULKtuen327J%2FqTgDnAKU2a4PqVw1KoVJeABTJiMaxYxkPqlKHNFSpNLKkBUobVJB1C%2BQvw%3D%3D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=rogernadal322%40gmail.com&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=PdmGrECXhE3Siqbe2DFxYQJveD5WlwpwXbESpLL5Y7zb4PnmG4hSuMKqyiMp2lo%2FC8CpRuhl88lI3a5jGfdeulitdr%2Ba4ZQDPlIImwvwj5jTahLT%2FnoyaoXvwMaPES8bfeuA45La%2BvMhL%2BO7Wj9TnCUNitm5VOFoXPCKTi7K4VSGwK6WenvTz4G2bAAUkxMJhiPo3ZRO0M0aUvbjuAGfNQZ0S8RwRa1cTJCPycQaQUdwjU361cCrQEfHKIqIQqtBKyZVoIyakkdsPJ8F04JB%2FiF9QzcqlDTygeHH%2Be8aBaQb3Z6YHmgb5iwJxYb%2BAlsogiH61KhXd2JD7EiXU%2BUxYQ%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0DbHM561A7MAiF6dfSY3H3AAxif1gQTIrN1ivkrRTbTOr053boI6KtQGNMdjsCXWGt5dyyM12uVaaVc2fOyWU43PqnB1Y9uZhJ10wtK8OEs2OUYlHpaZ6BdoVvfyEUVTQiGV15vldwZLCaK7kpV99NJzT",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hyatt.com/en-US/member/enroll/checkDuplicate",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&lastName=nadal",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hyatt.com/en-US/member/enroll/save",
+  "GET": "",
+  "POST": "prefix=Mr&firstName=roger&lastName=nadal&suffix=&firstNameTranslit=&lastNameTranslit=&email=rogernadal322%40gmail.com&countryCode=US&stateCode=IL&ppCnt=&returnUrl=https%3A%2F%2Fworld.hyatt.com%2Fcontent%2Fgp%2Fen%2Fenroll%2Fsuccess.html&enrollSource=INT16&securePwd=v6FTJc6GCu3n4eQ6oipQjasSEqqK4JmRJ2GnGte2sHGugAd7neJwg123bWbKjr3y0dFBEwOvXZx3y0jd%2BjXP%2B5a4AlLTz9hp5KmDba7DGLttXbsaCsiTttXXolel1TrpugniyjNV7jZLqlOYfgP40%2FOEdvjXr5uzZgqlJ1eH3tBlScOKa4thMMf9zBsT4QhxIm12%2BZsl86vqiXaIlDUTY1SLzMLUcXiavJlSMco%2FuhRJ%2FIgOf1vy2P71R1TSTLac%2BUlLMawmVtPjl%2FbZULKtuen327J%2FqTgDnAKU2a4PqVw1KoVJeABTJiMaxYxkPqlKHNFSpNLKkBUobVJB1C%2BQvw%3D%3D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=rogernadal322%40gmail.com&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=PdmGrECXhE3Siqbe2DFxYQJveD5WlwpwXbESpLL5Y7zb4PnmG4hSuMKqyiMp2lo%2FC8CpRuhl88lI3a5jGfdeulitdr%2Ba4ZQDPlIImwvwj5jTahLT%2FnoyaoXvwMaPES8bfeuA45La%2BvMhL%2BO7Wj9TnCUNitm5VOFoXPCKTi7K4VSGwK6WenvTz4G2bAAUkxMJhiPo3ZRO0M0aUvbjuAGfNQZ0S8RwRa1cTJCPycQaQUdwjU361cCrQEfHKIqIQqtBKyZVoIyakkdsPJ8F04JB%2FiF9QzcqlDTygeHH%2Be8aBaQb3Z6YHmgb5iwJxYb%2BAlsogiH61KhXd2JD7EiXU%2BUxYQ%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0DbHM561A7MAiF6dfSY3H3AAxif1gQTIrN1ivkrRTbTOr053boI6KtQGNMdjsCXWGt5dyyM12uVaaVc2fOyWU43PqnB1Y9uZhJ10wtK8OEs2OUYlHpaZ6BdoVvfyEUVTQiGV15vldwZLCaK7kpV99NJzT",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/enroll/checkDuplicate",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&lastName=nadal",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/enroll/save",
+  "GET": "",
+  "POST": "prefix=Mr&firstName=roger&lastName=nadal&suffix=&firstNameTranslit=&lastNameTranslit=&email=rogernadal322%40gmail.com&countryCode=US&stateCode=IL&ppCnt=&returnUrl=https%3A%2F%2Fworld.hyatt.com%2Fcontent%2Fgp%2Fen%2Fenroll%2Fsuccess.html&enrollSource=INT16&securePwd=v6FTJc6GCu3n4eQ6oipQjasSEqqK4JmRJ2GnGte2sHGugAd7neJwg123bWbKjr3y0dFBEwOvXZx3y0jd%2BjXP%2B5a4AlLTz9hp5KmDba7DGLttXbsaCsiTttXXolel1TrpugniyjNV7jZLqlOYfgP40%2FOEdvjXr5uzZgqlJ1eH3tBlScOKa4thMMf9zBsT4QhxIm12%2BZsl86vqiXaIlDUTY1SLzMLUcXiavJlSMco%2FuhRJ%2FIgOf1vy2P71R1TSTLac%2BUlLMawmVtPjl%2FbZULKtuen327J%2FqTgDnAKU2a4PqVw1KoVJeABTJiMaxYxkPqlKHNFSpNLKkBUobVJB1C%2BQvw%3D%3D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=rogernadal322%40gmail.com&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=PdmGrECXhE3Siqbe2DFxYQJveD5WlwpwXbESpLL5Y7zb4PnmG4hSuMKqyiMp2lo%2FC8CpRuhl88lI3a5jGfdeulitdr%2Ba4ZQDPlIImwvwj5jTahLT%2FnoyaoXvwMaPES8bfeuA45La%2BvMhL%2BO7Wj9TnCUNitm5VOFoXPCKTi7K4VSGwK6WenvTz4G2bAAUkxMJhiPo3ZRO0M0aUvbjuAGfNQZ0S8RwRa1cTJCPycQaQUdwjU361cCrQEfHKIqIQqtBKyZVoIyakkdsPJ8F04JB%2FiF9QzcqlDTygeHH%2Be8aBaQb3Z6YHmgb5iwJxYb%2BAlsogiH61KhXd2JD7EiXU%2BUxYQ%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0DbHM561A7MAiF6dfSY3H3AAxif1gQTIrN1ivkrRTbTOr053boI6KtQGNMdjsCXWGt5dyyM12uVaaVc2fOyWU43PqnB1Y9uZhJ10wtK8OEs2OUYlHpaZ6BdoVvfyEUVTQiGV15vldwZLCaK7kpV99NJzT",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=1761655651&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=cpirIAHRhk5lX%2Bs5Z7I9Ympi6ZVxPlmzqR2x3yWPLgbS4rtZD65lyirFsMcURVSlf7xkHuJIACjiS9jnUJeBCo7QTw02iiuRcq6jQ76a%2BUY4GFEI7kpV3NjGqi1YMaNWWy0OYNAMpSQFHos5EoySOOQIwtcfUnVB50KlXfT2VAiXCTu5oblgB7b5E1rqJv2tTyEWb7%2BJrm2I62xdhPuRKtsy6etlVxcotAbgtF4egbEV5wQU0UhHzrQNRxNKcp3ZLqdrzAcMAD0TTdaLz3r1S35qIkNsmrAktebGCXD3FaAnL2KCTFiNJy%2BXbuUTRNWvX9Z68mV4E6cC0zXBxz%2FECw%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0BhFEV1IxeXzXJvduHKjRNDjON7zVc0HHS51JwarxFoOI4TBTe4KgDOwsM5nAYhcJZRjIeXJ4uf1slAgGXYwxhEMHZbpYyhVD6GhsAeVcvrZtDr20z9ecdPelRsRUwyzbVr6suiMO5kFIvNkNXUCLtdAl",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=564736768T&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=AT3wClo3Mx1VUc83g%2FleHdF8O3AbHQpLMaS%2BDca7C72%2BESSxP0xVWiUe0jP5IoOR2WOpCEA4ltkcZ0sQuDPqjUorLqy0ODHuR3FlMqLZE5aV%2BpMAK4Sl4b8rT92XgMvRhciL4dPVBogmsttrat2qyoluOKaBTWPjKNY6%2BzmE%2FNRXrBZLvBcCvmp9s1TQ2FPYQeq6iThueIn0F%2Bn8V9zG8t6fyQ9%2BziDpfw4tJga5Ey9w3ebSo9PPbKEM2U5nEWokq66dNIyNuWPjVBwrHGXk211%2BJ6qUUvZrlK0ThN9kdejKdQmgUS508%2BU4l3eCHonh144lYPrQllODGH6m8rDScw%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0RFCt2hfYYz3RZAlNuTjBLFZu3OkIsyhbhGlOkKVpPS1e3BSeLXOsbHnDLeKoGRUKSafIN5jTC51CbJ0WfiVuCdZzYRbQGt7wPZaSuCNmyXfpAtkLQiciD6mk0f3q27oLJKyK0LaT21XQ3bfdVg870TTg",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/enroll/checkDuplicate",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&lastName=nadal",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/enroll/save",
+  "GET": "",
+  "POST": "prefix=Mr&firstName=roger&lastName=nadal&suffix=&firstNameTranslit=&lastNameTranslit=&email=rogernadal322%40gmail.com&countryCode=US&stateCode=IL&ppCnt=&returnUrl=https%3A%2F%2Fworld.hyatt.com%2Fcontent%2Fgp%2Fen%2Fenroll%2Fsuccess.html&enrollSource=INT16&securePwd=v6FTJc6GCu3n4eQ6oipQjasSEqqK4JmRJ2GnGte2sHGugAd7neJwg123bWbKjr3y0dFBEwOvXZx3y0jd%2BjXP%2B5a4AlLTz9hp5KmDba7DGLttXbsaCsiTttXXolel1TrpugniyjNV7jZLqlOYfgP40%2FOEdvjXr5uzZgqlJ1eH3tBlScOKa4thMMf9zBsT4QhxIm12%2BZsl86vqiXaIlDUTY1SLzMLUcXiavJlSMco%2FuhRJ%2FIgOf1vy2P71R1TSTLac%2BUlLMawmVtPjl%2FbZULKtuen327J%2FqTgDnAKU2a4PqVw1KoVJeABTJiMaxYxkPqlKHNFSpNLKkBUobVJB1C%2BQvw%3D%3D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=rogernadal322%40gmail.com&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=PdmGrECXhE3Siqbe2DFxYQJveD5WlwpwXbESpLL5Y7zb4PnmG4hSuMKqyiMp2lo%2FC8CpRuhl88lI3a5jGfdeulitdr%2Ba4ZQDPlIImwvwj5jTahLT%2FnoyaoXvwMaPES8bfeuA45La%2BvMhL%2BO7Wj9TnCUNitm5VOFoXPCKTi7K4VSGwK6WenvTz4G2bAAUkxMJhiPo3ZRO0M0aUvbjuAGfNQZ0S8RwRa1cTJCPycQaQUdwjU361cCrQEfHKIqIQqtBKyZVoIyakkdsPJ8F04JB%2FiF9QzcqlDTygeHH%2Be8aBaQb3Z6YHmgb5iwJxYb%2BAlsogiH61KhXd2JD7EiXU%2BUxYQ%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0DbHM561A7MAiF6dfSY3H3AAxif1gQTIrN1ivkrRTbTOr053boI6KtQGNMdjsCXWGt5dyyM12uVaaVc2fOyWU43PqnB1Y9uZhJ10wtK8OEs2OUYlHpaZ6BdoVvfyEUVTQiGV15vldwZLCaK7kpV99NJzT",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=1761655651&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=cpirIAHRhk5lX%2Bs5Z7I9Ympi6ZVxPlmzqR2x3yWPLgbS4rtZD65lyirFsMcURVSlf7xkHuJIACjiS9jnUJeBCo7QTw02iiuRcq6jQ76a%2BUY4GFEI7kpV3NjGqi1YMaNWWy0OYNAMpSQFHos5EoySOOQIwtcfUnVB50KlXfT2VAiXCTu5oblgB7b5E1rqJv2tTyEWb7%2BJrm2I62xdhPuRKtsy6etlVxcotAbgtF4egbEV5wQU0UhHzrQNRxNKcp3ZLqdrzAcMAD0TTdaLz3r1S35qIkNsmrAktebGCXD3FaAnL2KCTFiNJy%2BXbuUTRNWvX9Z68mV4E6cC0zXBxz%2FECw%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0BhFEV1IxeXzXJvduHKjRNDjON7zVc0HHS51JwarxFoOI4TBTe4KgDOwsM5nAYhcJZRjIeXJ4uf1slAgGXYwxhEMHZbpYyhVD6GhsAeVcvrZtDr20z9ecdPelRsRUwyzbVr6suiMO5kFIvNkNXUCLtdAl",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=564736768T&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=AT3wClo3Mx1VUc83g%2FleHdF8O3AbHQpLMaS%2BDca7C72%2BESSxP0xVWiUe0jP5IoOR2WOpCEA4ltkcZ0sQuDPqjUorLqy0ODHuR3FlMqLZE5aV%2BpMAK4Sl4b8rT92XgMvRhciL4dPVBogmsttrat2qyoluOKaBTWPjKNY6%2BzmE%2FNRXrBZLvBcCvmp9s1TQ2FPYQeq6iThueIn0F%2Bn8V9zG8t6fyQ9%2BziDpfw4tJga5Ey9w3ebSo9PPbKEM2U5nEWokq66dNIyNuWPjVBwrHGXk211%2BJ6qUUvZrlK0ThN9kdejKdQmgUS508%2BU4l3eCHonh144lYPrQllODGH6m8rDScw%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0RFCt2hfYYz3RZAlNuTjBLFZu3OkIsyhbhGlOkKVpPS1e3BSeLXOsbHnDLeKoGRUKSafIN5jTC51CbJ0WfiVuCdZzYRbQGt7wPZaSuCNmyXfpAtkLQiciD6mk0f3q27oLJKyK0LaT21XQ3bfdVg870TTg",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hyatt.com/en-US/member/enroll/checkDuplicate",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&lastName=nadal",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hyatt.com/en-US/member/enroll/save",
+  "GET": "",
+  "POST": "prefix=Mr&firstName=roger&lastName=nadal&suffix=&firstNameTranslit=&lastNameTranslit=&email=rogernadal322%40gmail.com&countryCode=US&stateCode=IL&ppCnt=&returnUrl=https%3A%2F%2Fworld.hyatt.com%2Fcontent%2Fgp%2Fen%2Fenroll%2Fsuccess.html&enrollSource=INT16&securePwd=v6FTJc6GCu3n4eQ6oipQjasSEqqK4JmRJ2GnGte2sHGugAd7neJwg123bWbKjr3y0dFBEwOvXZx3y0jd%2BjXP%2B5a4AlLTz9hp5KmDba7DGLttXbsaCsiTttXXolel1TrpugniyjNV7jZLqlOYfgP40%2FOEdvjXr5uzZgqlJ1eH3tBlScOKa4thMMf9zBsT4QhxIm12%2BZsl86vqiXaIlDUTY1SLzMLUcXiavJlSMco%2FuhRJ%2FIgOf1vy2P71R1TSTLac%2BUlLMawmVtPjl%2FbZULKtuen327J%2FqTgDnAKU2a4PqVw1KoVJeABTJiMaxYxkPqlKHNFSpNLKkBUobVJB1C%2BQvw%3D%3D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=rogernadal322%40gmail.com&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=PdmGrECXhE3Siqbe2DFxYQJveD5WlwpwXbESpLL5Y7zb4PnmG4hSuMKqyiMp2lo%2FC8CpRuhl88lI3a5jGfdeulitdr%2Ba4ZQDPlIImwvwj5jTahLT%2FnoyaoXvwMaPES8bfeuA45La%2BvMhL%2BO7Wj9TnCUNitm5VOFoXPCKTi7K4VSGwK6WenvTz4G2bAAUkxMJhiPo3ZRO0M0aUvbjuAGfNQZ0S8RwRa1cTJCPycQaQUdwjU361cCrQEfHKIqIQqtBKyZVoIyakkdsPJ8F04JB%2FiF9QzcqlDTygeHH%2Be8aBaQb3Z6YHmgb5iwJxYb%2BAlsogiH61KhXd2JD7EiXU%2BUxYQ%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0DbHM561A7MAiF6dfSY3H3AAxif1gQTIrN1ivkrRTbTOr053boI6KtQGNMdjsCXWGt5dyyM12uVaaVc2fOyWU43PqnB1Y9uZhJ10wtK8OEs2OUYlHpaZ6BdoVvfyEUVTQiGV15vldwZLCaK7kpV99NJzT",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hyatt.com/en-US/member/enroll/checkDuplicate",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&lastName=nadal",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hyatt.com/en-US/member/enroll/save",
+  "GET": "",
+  "POST": "prefix=Mr&firstName=roger&lastName=nadal&suffix=&firstNameTranslit=&lastNameTranslit=&email=rogernadal322%40gmail.com&countryCode=US&stateCode=IL&ppCnt=&returnUrl=https%3A%2F%2Fworld.hyatt.com%2Fcontent%2Fgp%2Fen%2Fenroll%2Fsuccess.html&enrollSource=INT16&securePwd=v6FTJc6GCu3n4eQ6oipQjasSEqqK4JmRJ2GnGte2sHGugAd7neJwg123bWbKjr3y0dFBEwOvXZx3y0jd%2BjXP%2B5a4AlLTz9hp5KmDba7DGLttXbsaCsiTttXXolel1TrpugniyjNV7jZLqlOYfgP40%2FOEdvjXr5uzZgqlJ1eH3tBlScOKa4thMMf9zBsT4QhxIm12%2BZsl86vqiXaIlDUTY1SLzMLUcXiavJlSMco%2FuhRJ%2FIgOf1vy2P71R1TSTLac%2BUlLMawmVtPjl%2FbZULKtuen327J%2FqTgDnAKU2a4PqVw1KoVJeABTJiMaxYxkPqlKHNFSpNLKkBUobVJB1C%2BQvw%3D%3D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=rogernadal322%40gmail.com&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=PdmGrECXhE3Siqbe2DFxYQJveD5WlwpwXbESpLL5Y7zb4PnmG4hSuMKqyiMp2lo%2FC8CpRuhl88lI3a5jGfdeulitdr%2Ba4ZQDPlIImwvwj5jTahLT%2FnoyaoXvwMaPES8bfeuA45La%2BvMhL%2BO7Wj9TnCUNitm5VOFoXPCKTi7K4VSGwK6WenvTz4G2bAAUkxMJhiPo3ZRO0M0aUvbjuAGfNQZ0S8RwRa1cTJCPycQaQUdwjU361cCrQEfHKIqIQqtBKyZVoIyakkdsPJ8F04JB%2FiF9QzcqlDTygeHH%2Be8aBaQb3Z6YHmgb5iwJxYb%2BAlsogiH61KhXd2JD7EiXU%2BUxYQ%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0DbHM561A7MAiF6dfSY3H3AAxif1gQTIrN1ivkrRTbTOr053boI6KtQGNMdjsCXWGt5dyyM12uVaaVc2fOyWU43PqnB1Y9uZhJ10wtK8OEs2OUYlHpaZ6BdoVvfyEUVTQiGV15vldwZLCaK7kpV99NJzT",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hyatt.com/en-US/member/enroll/checkDuplicate",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&lastName=nadal",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hyatt.com/en-US/member/enroll/save",
+  "GET": "",
+  "POST": "prefix=Mr&firstName=roger&lastName=nadal&suffix=&firstNameTranslit=&lastNameTranslit=&email=rogernadal322%40gmail.com&countryCode=US&stateCode=IL&ppCnt=&returnUrl=https%3A%2F%2Fworld.hyatt.com%2Fcontent%2Fgp%2Fen%2Fenroll%2Fsuccess.html&enrollSource=INT16&securePwd=v6FTJc6GCu3n4eQ6oipQjasSEqqK4JmRJ2GnGte2sHGugAd7neJwg123bWbKjr3y0dFBEwOvXZx3y0jd%2BjXP%2B5a4AlLTz9hp5KmDba7DGLttXbsaCsiTttXXolel1TrpugniyjNV7jZLqlOYfgP40%2FOEdvjXr5uzZgqlJ1eH3tBlScOKa4thMMf9zBsT4QhxIm12%2BZsl86vqiXaIlDUTY1SLzMLUcXiavJlSMco%2FuhRJ%2FIgOf1vy2P71R1TSTLac%2BUlLMawmVtPjl%2FbZULKtuen327J%2FqTgDnAKU2a4PqVw1KoVJeABTJiMaxYxkPqlKHNFSpNLKkBUobVJB1C%2BQvw%3D%3D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=rogernadal322%40gmail.com&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=PdmGrECXhE3Siqbe2DFxYQJveD5WlwpwXbESpLL5Y7zb4PnmG4hSuMKqyiMp2lo%2FC8CpRuhl88lI3a5jGfdeulitdr%2Ba4ZQDPlIImwvwj5jTahLT%2FnoyaoXvwMaPES8bfeuA45La%2BvMhL%2BO7Wj9TnCUNitm5VOFoXPCKTi7K4VSGwK6WenvTz4G2bAAUkxMJhiPo3ZRO0M0aUvbjuAGfNQZ0S8RwRa1cTJCPycQaQUdwjU361cCrQEfHKIqIQqtBKyZVoIyakkdsPJ8F04JB%2FiF9QzcqlDTygeHH%2Be8aBaQb3Z6YHmgb5iwJxYb%2BAlsogiH61KhXd2JD7EiXU%2BUxYQ%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0DbHM561A7MAiF6dfSY3H3AAxif1gQTIrN1ivkrRTbTOr053boI6KtQGNMdjsCXWGt5dyyM12uVaaVc2fOyWU43PqnB1Y9uZhJ10wtK8OEs2OUYlHpaZ6BdoVvfyEUVTQiGV15vldwZLCaK7kpV99NJzT",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hyatt.com/en-US/member/enroll/checkDuplicate",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&lastName=nadal",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hyatt.com/en-US/member/enroll/save",
+  "GET": "",
+  "POST": "prefix=Mr&firstName=roger&lastName=nadal&suffix=&firstNameTranslit=&lastNameTranslit=&email=rogernadal322%40gmail.com&countryCode=US&stateCode=IL&ppCnt=&returnUrl=https%3A%2F%2Fworld.hyatt.com%2Fcontent%2Fgp%2Fen%2Fenroll%2Fsuccess.html&enrollSource=INT16&securePwd=v6FTJc6GCu3n4eQ6oipQjasSEqqK4JmRJ2GnGte2sHGugAd7neJwg123bWbKjr3y0dFBEwOvXZx3y0jd%2BjXP%2B5a4AlLTz9hp5KmDba7DGLttXbsaCsiTttXXolel1TrpugniyjNV7jZLqlOYfgP40%2FOEdvjXr5uzZgqlJ1eH3tBlScOKa4thMMf9zBsT4QhxIm12%2BZsl86vqiXaIlDUTY1SLzMLUcXiavJlSMco%2FuhRJ%2FIgOf1vy2P71R1TSTLac%2BUlLMawmVtPjl%2FbZULKtuen327J%2FqTgDnAKU2a4PqVw1KoVJeABTJiMaxYxkPqlKHNFSpNLKkBUobVJB1C%2BQvw%3D%3D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.hyatt.com/en-US/member/sign-in/traditional",
+  "GET": "",
+  "POST": "userId=rogernadal322%40gmail.com&lastName=nadal&password=&returnUrl=https%3A%2F%2Fwww.hyatt.com%2Fhome&errorUrl=https%3A%2F%2Fwww.hyatt.com%2Fen-US%2Fmember%2Fsign-in%2Ftraditional%2Ferror%3FreturnUrl%3Dhttps%253A%252F%252Fwww.hyatt.com%252Fhome&securePwd=PdmGrECXhE3Siqbe2DFxYQJveD5WlwpwXbESpLL5Y7zb4PnmG4hSuMKqyiMp2lo%2FC8CpRuhl88lI3a5jGfdeulitdr%2Ba4ZQDPlIImwvwj5jTahLT%2FnoyaoXvwMaPES8bfeuA45La%2BvMhL%2BO7Wj9TnCUNitm5VOFoXPCKTi7K4VSGwK6WenvTz4G2bAAUkxMJhiPo3ZRO0M0aUvbjuAGfNQZ0S8RwRa1cTJCPycQaQUdwjU361cCrQEfHKIqIQqtBKyZVoIyakkdsPJ8F04JB%2FiF9QzcqlDTygeHH%2Be8aBaQb3Z6YHmgb5iwJxYb%2BAlsogiH61KhXd2JD7EiXU%2BUxYQ%3D%3D&2e552bf7-2bf0-4326-ff252c4d68a3=450&ffec95ca-86ee-439b-efae54af99aa=&7b6ac0b5-1bba-4d0d-1d91bdb488e8=12&41fbef5d-d1c0-4ac6-95c4fbdf93ca=12&11d87136-359b-4a5e-50559a1e1373=256&4129e75f-4ad7-89ac-a02179ca8724=submit&kpsdkCt=0DbHM561A7MAiF6dfSY3H3AAxif1gQTIrN1ivkrRTbTOr053boI6KtQGNMdjsCXWGt5dyyM12uVaaVc2fOyWU43PqnB1Y9uZhJ10wtK8OEs2OUYlHpaZ6BdoVvfyEUVTQiGV15vldwZLCaK7kpV99NJzT",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.hyatt.com/en-US/member/magic-link",
+  "GET": "",
+  "POST": "{\"emailValue\":\"rogernadal322@gmail.com\",\"returnUrl\":\"https://www.hyatt.com/home\"}",
+  "referer": "",
+  "cookie": ""
+}

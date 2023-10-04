@@ -1,0 +1,976 @@
+[{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297324384",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sourcepointcmp.bloomberg.com/ccpa.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sourcepointcmp.bloomberg.com",
+    "cdn-1425.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://coordinator.cm.bloomberg.com/coordination?currentResource=Story%7CRPF4KSDWLU6801&metadata.paywall.device=Desktop%7CLinux%7Cchrome&metadata.consent=true&metadata.paywall.referrer=Referral&limit=100",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "coordinator.cm.bloomberg.com",
+    "coordinator.arcus.cm.bloomberga.com",
+    "prod-821d90eb75aab4aa17662856c5-190602495.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://sli.bloomberg.com/baker?dtstmp=1675297341694",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!_breg-user%7B%22email%22%3A%22rogernadal322%40gmail.com%22%2C%22firstName%22%3Anull%2C%22lastName%22%3Anull%2C%22createTimestamp%22%3A%222023-02-02T00%3A21%3A09%22%7D",
+  "cNames": [
+    "sli.bloomberg.com",
+    "cac7984d65536a2dfe37455fbb39244f.edgekey.net",
+    "e109342.dscb.akamaiedge.net"
+  ],
+  "done": true
+}]

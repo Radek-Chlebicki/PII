@@ -1,0 +1,504 @@
+{
+  "str": "roger",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://identity.mparticle.com/v1/login",
+  "GET": "",
+  "POST": "{\"client_sdk\":{\"platform\":\"web\",\"sdk_vendor\":\"mparticle\",\"sdk_version\":\"2.19.1\"},\"context\":null,\"environment\":\"production\",\"request_id\":\"d3207ff3-2334-4033-9942-957326ebacee\",\"request_timestamp_ms\":1676693933383,\"previous_mpid\":\"1005253030206501371\",\"known_identities\":{\"other3\":null,\"other4\":\"40321028186527046633569859757831924761\",\"email\":\"rogernadal322@gmail.com\",\"device_application_stamp\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"daeac29b-86ec-496b-85b5-fadda83e6711\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933456,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"email\",\"identity\":\"rogernadal322@gmail.com\",\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":true},\"old\":{\"identity_type\":\"email\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933455,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933455,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"dc398451-b930-485a-bcd0-da3527bb6e70\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"cfe42b75-306f-4278-b8bb-2a769f79794c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933459,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_3\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933459,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933459,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"e89dbf82-ac0b-4a9a-b52d-2f886485ecc6\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"fbf0131c-2699-4aa7-a970-7a713dec8e87\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933462,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_identity_change\",\"data\":{\"new\":{\"identity_type\":\"other_id_4\",\"identity\":\"40321028186527046633569859757831924761\",\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":true},\"old\":{\"identity_type\":\"other_id_4\",\"identity\":null,\"timestamp_unixtime_ms\":1676693933461,\"created_this_batch\":false},\"timestamp_unixtime_ms\":1676693933461,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"38200f29-1ab2-4bea-b263-9a42b8eb1b1f\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"5b802466-b630-43e5-a5dd-8e1af864135c\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693933466,\"environment\":\"production\",\"events\":[{\"event_type\":\"user_attribute_change\",\"data\":{\"user_attribute_name\":\"CNBCSubID\",\"new\":\"13113664\",\"old\":null,\"deleted\":false,\"is_new_attribute\":true,\"timestamp_unixtime_ms\":1676693933465,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"4810a2d1-6dfb-442c-8319-11b345281047\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://jssdks.mparticle.com/v3/JS/us1-99f689156b88a84fbe3383020acfea25/events",
+  "GET": "",
+  "POST": "{\"source_request_id\":\"81da05a7-6da3-4f29-9f81-6b38a8573e24\",\"mpid\":\"-7292279167415306231\",\"timestamp_unixtime_ms\":1676693966418,\"environment\":\"production\",\"events\":[{\"event_type\":\"application_state_transition\",\"data\":{\"application_transition_type\":\"application_initialized\",\"is_first_run\":false,\"is_upgrade\":false,\"launch_referral\":\"https://www.cnbc.com/business/\",\"timestamp_unixtime_ms\":1676693961407,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":null,\"location\":null,\"source_message_id\":\"89b1e708-2fa0-424a-81bd-2fdc4fc0b2fb\"}},{\"event_type\":\"custom_event\",\"data\":{\"custom_event_type\":\"navigation\",\"custom_flags\":{},\"event_name\":\"Page Load\",\"timestamp_unixtime_ms\":1676693961410,\"session_uuid\":\"F3DDF343-D6FC-49C3-AAF9-2EF902B32C64\",\"session_start_unixtime_ms\":1676693888861,\"custom_attributes\":{\"Page Type\":\"franchise\",\"Referrer\":\"https://www.cnbc.com/\",\"Page URL\":\"https://www.cnbc.com/business/\",\"Template\":\"SectionWithNativeTVE\",\"Brand\":\"cnbc\",\"Page Name\":\"10001147|business\",\"Asset Status\":\"Unrestricted\",\"Platform\":\"web\",\"Page Section\":\"Business News\",\"Hier1\":\"business news\",\"Hier2\":\"NA\",\"Hier3\":\"NA\",\"Hier4\":\"NA\",\"Hier5\":\"NA\",\"Headline\":\"Business News\",\"Tags\":\"NA\",\"Short Summary\":\"Latest headlines for business news around the world. \",\"Author\":\"NA\",\"Page Publish Date\":\"01/29/2012\",\"Page Modified Date\":\"02/17/2023\",\"Article ID\":10001147,\"Url Param Source\":\"null\",\"Url Param Utm_Medium\":\"null\",\"Url Param Utm_Source\":\"null\",\"Url Param Utm_Campaign\":\"null\",\"Url Param Utm_Content\":\"null\"},\"location\":null,\"source_message_id\":\"fbdb8e72-be21-470f-9bb9-1e3a1f45eb4e\"}}],\"mp_deviceid\":\"6136fcc7-bf5c-4600-9fe4-fc730742ce1d\",\"sdk_version\":\"2.19.1\",\"application_info\":{\"application_name\":\"CNBC PROD\"},\"device_info\":{\"platform\":\"web\",\"screen_width\":2048,\"screen_height\":1152},\"user_attributes\":{\"CNBCSubID\":\"13113664\"},\"user_identities\":{\"email\":\"rogernadal322@gmail.com\",\"other_id_3\":null,\"other_id_4\":\"40321028186527046633569859757831924761\"},\"consent_state\":null,\"integration_attributes\":{},\"context\":{\"data_plan\":{\"plan_id\":\"draft_cnbc_data_plan\",\"plan_version\":1}}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=212491672506947&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.cnbc.com%2F&rl=&if=false&ts=1676693930443&cd[buttonFeatures]=%7B%22classList%22%3A%22AuthForms-submitButton%22%2C%22destination%22%3A%22https%3A%2F%2Fwww.cnbc.com%2F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22CREATE%20FREE%20ACCOUNT%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22signup%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=CREATE%20FREE%20ACCOUNT&cd[formFeatures]=%5B%7B%22id%22%3A%22%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22password%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22tosCheckbox%22%2C%22name%22%3A%22toscheckbox%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%5D&cd[pageFeatures]=%7B%22title%22%3A%22Stock%20Markets%2C%20Business%20News%2C%20Financials%2C%20Earnings%20-%20CNBC%22%7D&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.96&r=stable&ec=2&o=2078&cs_est=true&fbp=fb.1.1676693888990.1458712329&it=1676693888823&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=212491672506947&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.cnbc.com%2F&rl=&if=false&ts=1676693930443&cd[buttonFeatures]=%7B%22classList%22%3A%22AuthForms-submitButton%22%2C%22destination%22%3A%22https%3A%2F%2Fwww.cnbc.com%2F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22CREATE%20FREE%20ACCOUNT%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22signup%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=CREATE%20FREE%20ACCOUNT&cd[formFeatures]=%5B%7B%22id%22%3A%22%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22password%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22tosCheckbox%22%2C%22name%22%3A%22toscheckbox%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%5D&cd[pageFeatures]=%7B%22title%22%3A%22Stock%20Markets%2C%20Business%20News%2C%20Financials%2C%20Earnings%20-%20CNBC%22%7D&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.96&r=stable&ec=2&o=2078&cs_est=true&fbp=fb.1.1676693888990.1458712329&it=1676693888823&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=212491672506947&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.cnbc.com%2F&rl=&if=false&ts=1676693955800&cd[buttonFeatures]=%7B%22classList%22%3A%22Confirmation-doneButton%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22DONE%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=DONE&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Stock%20Markets%2C%20Business%20News%2C%20Financials%2C%20Earnings%20-%20CNBC%22%7D&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.96&r=stable&ec=3&o=2078&cs_est=true&fbp=fb.1.1676693888990.1458712329&it=1676693888823&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=212491672506947&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.cnbc.com%2F&rl=&if=false&ts=1676693955800&cd[buttonFeatures]=%7B%22classList%22%3A%22Confirmation-doneButton%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22DONE%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=DONE&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Stock%20Markets%2C%20Business%20News%2C%20Financials%2C%20Earnings%20-%20CNBC%22%7D&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.96&r=stable&ec=3&o=2078&cs_est=true&fbp=fb.1.1676693888990.1458712329&it=1676693888823&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=212491672506947&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.cnbc.com%2F&rl=&if=false&ts=1676693959176&cd[buttonFeatures]=%7B%22classList%22%3A%22nav-menu-buttonText%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22BUSINESS%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22span%22%2C%22type%22%3Anull%7D&cd[buttonText]=BUSINESS&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Stock%20Markets%2C%20Business%20News%2C%20Financials%2C%20Earnings%20-%20CNBC%22%7D&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.96&r=stable&ec=4&o=2078&cs_est=true&fbp=fb.1.1676693888990.1458712329&it=1676693888823&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=212491672506947&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.cnbc.com%2F&rl=&if=false&ts=1676693959176&cd[buttonFeatures]=%7B%22classList%22%3A%22nav-menu-buttonText%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22BUSINESS%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22span%22%2C%22type%22%3Anull%7D&cd[buttonText]=BUSINESS&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Stock%20Markets%2C%20Business%20News%2C%20Financials%2C%20Earnings%20-%20CNBC%22%7D&sw=2048&sh=1152&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&v=2.9.96&r=stable&ec=4&o=2078&cs_est=true&fbp=fb.1.1676693888990.1458712329&it=1676693888823&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}

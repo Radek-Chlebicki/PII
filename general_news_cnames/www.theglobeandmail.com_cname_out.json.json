@@ -1,0 +1,2072 @@
+[{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/validate",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/modal/login?intcmp=site-header",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/app.e4c98a18.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/chunk-vendors.30a2f5be.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/app.e3214c0c.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/chunk-vendors.094691a8.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/cfg/env.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/static/scripts/krux.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/facebook-logo.950d3623.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/google-logo.7606daf1.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/apple-logo.556432d8.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/Pratt.e277f3e1.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Label.60895d67.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/register.8d87a82a.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/register.2794702d.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/facebook-logo.950d3623.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/google-logo.7606daf1.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/apple-logo.556432d8.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/loading-spinner.cf708508.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/facebook-logo.950d3623.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/google-logo.7606daf1.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/apple-logo.556432d8.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Bold.8105e561.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Regular.7f51e916.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/login?intcmp=site-header",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/app.e4c98a18.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/chunk-vendors.30a2f5be.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/app.e3214c0c.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/chunk-vendors.094691a8.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/cfg/env.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/static/scripts/krux.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/static/images/sprite.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Label.60895d67.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Regular.7f51e916.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/Pratt.e277f3e1.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/facebook-logo.950d3623.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/google-logo.7606daf1.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/apple-logo.556432d8.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/loading-spinner.cf708508.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login/callback",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/analytics",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/last-access-gif",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/analytics",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/last-access-gif",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/modal/login?intcmp=site-header",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/app.e4c98a18.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/chunk-vendors.30a2f5be.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/app.e3214c0c.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/chunk-vendors.094691a8.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/cfg/env.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/static/scripts/krux.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/facebook-logo.950d3623.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/google-logo.7606daf1.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/apple-logo.556432d8.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/Pratt.e277f3e1.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Label.60895d67.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/register.8d87a82a.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/register.2794702d.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/facebook-logo.950d3623.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/google-logo.7606daf1.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/apple-logo.556432d8.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/loading-spinner.cf708508.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/facebook-logo.950d3623.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/google-logo.7606daf1.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/apple-logo.556432d8.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Bold.8105e561.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Regular.7f51e916.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/login?intcmp=site-header",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/app.e4c98a18.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/css/chunk-vendors.30a2f5be.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/app.e3214c0c.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/js/chunk-vendors.094691a8.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/cfg/env.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/static/scripts/krux.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/static/images/sprite.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Label.60895d67.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/GMsans-Web-Regular.7f51e916.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/fonts/Pratt.e277f3e1.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/facebook-logo.950d3623.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/google-logo.7606daf1.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/apple-logo.556432d8.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://sec.theglobeandmail.com/user/img/loading-spinner.cf708508.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "sec.theglobeandmail.com",
+    "sec.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login/callback",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/analytics",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/last-access-gif",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/analytics",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "60201",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user/last-access-gif",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!ak_user{\"latitude\":\"42.0566\",\"longitude\":\"-87.6974\",\"timezone\":\"CST\",\"network\":\"\",\"country_code\":\"US\",\"region_code\":\"IL\",\"city\":\"EVANSTON\",\"postal_code\":\"60201-60204+60208-60209\",\"ip\":\"165.124.85.47\",\"is_mobile\":\"false\",\"is_wireless\":\"false\",\"is_tablet\":\"false\",\"device_os\":\"\"}",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "8729858970",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "8729858970",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "8729858970",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v3/user",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"firstName\":\"Globe\",\"lastName\":\"Reader\",\"password\":\"Andy#!18729858970\",\"displayName\":null,\"countryCode\":null}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "8729858970",
+  "url": "https://gamservices.theglobeandmail.com/usermanagement/api/v4/login",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"Andy#!18729858970\",\"clientId\":\"4hj5337n869ndog7qgs44tv87b\",\"responseType\":\"code\",\"scope\":\"email+openid+profile\",\"redirect_uri\":\"https://sec.theglobeandmail.com/user/login/callback\",\"state\":\"eyJyZW1lbWJlck1lIjoidHJ1ZSJ9\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "gamservices.theglobeandmail.com",
+    "gamservices.theglobeandmail.com.edgekey.net",
+    "e3420.ksd.akamaiedge.net"
+  ],
+  "done": true
+}]

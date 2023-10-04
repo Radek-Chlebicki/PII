@@ -1,0 +1,176 @@
+{
+  "str": "roger",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/setAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZ2V0eW91cmd1aWRlLmNvbTphcGktcHJvamVjdC0xMDgyODA5OTk0ODI0IiwiYXVkIjoiZ2V0eW91cmd1aWRlLmNvbTphcGktcHJvamVjdC0xMDgyODA5OTk0ODI0IiwiYXV0aF90aW1lIjoxNjc3Mzk0NzQ1LCJ1c2VyX2lkIjoiOFpsYVFtcXRqUU5LS2ZGR3NNUHlQczN0TWVnMSIsInN1YiI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJpYXQiOjE2NzczOTQ3NDUsImV4cCI6MTY3NzM5ODM0NSwiZW1haWwiOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.GxKaw2tqgRDEX7Q5tuYaKBy_QF8Bz2OUQ8xnd0AtV3aa9bo5pKOMNSgDscHJFUoE6aHAI67LgduH2nWhnXMrRvHbezO7cizthzBBgRnrw9F-hvr_98Xn6bqb35POAtPGcD0bsV5EJs7CLoVv9k-FV2NsvsQq8G0mYxZ6dSSpFjHbsjVjwNG4qYQTNZFNce07CtoH5hhArrM-pf747inrWl85lAPCUo7e__dQ8amI6HPGB-lAxMtHgm3POy7TGZCcfn3EgGyFNd9z_zh_BRhIW_PKnooLD7eiodvsx3LWdQcpj440xpDLMF_Xk2ELB4rkzXBFnU7NCHPNgxCDJiHAhw\",\"displayName\":\"roger nadal\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/setAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZ2V0eW91cmd1aWRlLmNvbTphcGktcHJvamVjdC0xMDgyODA5OTk0ODI0IiwiYXVkIjoiZ2V0eW91cmd1aWRlLmNvbTphcGktcHJvamVjdC0xMDgyODA5OTk0ODI0IiwiYXV0aF90aW1lIjoxNjc3Mzk0NzQ1LCJ1c2VyX2lkIjoiOFpsYVFtcXRqUU5LS2ZGR3NNUHlQczN0TWVnMSIsInN1YiI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJpYXQiOjE2NzczOTQ3NDUsImV4cCI6MTY3NzM5ODM0NSwiZW1haWwiOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.GxKaw2tqgRDEX7Q5tuYaKBy_QF8Bz2OUQ8xnd0AtV3aa9bo5pKOMNSgDscHJFUoE6aHAI67LgduH2nWhnXMrRvHbezO7cizthzBBgRnrw9F-hvr_98Xn6bqb35POAtPGcD0bsV5EJs7CLoVv9k-FV2NsvsQq8G0mYxZ6dSSpFjHbsjVjwNG4qYQTNZFNce07CtoH5hhArrM-pf747inrWl85lAPCUo7e__dQ8amI6HPGB-lAxMtHgm3POy7TGZCcfn3EgGyFNd9z_zh_BRhIW_PKnooLD7eiodvsx3LWdQcpj440xpDLMF_Xk2ELB4rkzXBFnU7NCHPNgxCDJiHAhw\",\"displayName\":\"roger nadal\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZX",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/getAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoicm9nZXIgbmFkYWwiLCJneWdDdXN0b21lcklkIjo2MjU1NDg1MywiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2dldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1ZCI6ImdldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1dGhfdGltZSI6MTY3NzM5NDc0NSwidXNlcl9pZCI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJzdWIiOiI4WmxhUW1xdGpRTktLZkZHc01QeVBzM3RNZWcxIiwiaWF0IjoxNjc3Mzk0NzQ3LCJleHAiOjE2NzczOTgzNDcsImVtYWlsIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.Dv_WITdyw5rN7xl3kkD-5dp7BISdm28RP-U_pmtORTG8paniFchFXSjNKShF2M0XPMuRP-WMJ5b4poV5RvDbBsfYq-BKYrjdGvMftYVxEXhHOoHdOneI76TLzd4kgwZc0FqxOlsGik7dnl5jPuPUUhiZJzN8s6E8uD83Dy-8Ydzq4EAgbzDhpCmPStvL0KsaQnAgzHMdGRx_OI9C8hjuAWbNSGNFjxp51oZoxHCR1qx5ZJUIk4SR179jC87iwvuqzCjEz1ExP086409fIHoASWaS88Tbb6iRAwSRW8Tox_U_4qn8cy9EuzFzUeOobQCSee7FZny7pOqKHljrtka2-A\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZX",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/getAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoicm9nZXIgbmFkYWwiLCJneWdDdXN0b21lcklkIjo2MjU1NDg1MywiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2dldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1ZCI6ImdldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1dGhfdGltZSI6MTY3NzM5NDc0NSwidXNlcl9pZCI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJzdWIiOiI4WmxhUW1xdGpRTktLZkZHc01QeVBzM3RNZWcxIiwiaWF0IjoxNjc3Mzk0NzQ3LCJleHAiOjE2NzczOTgzNDcsImVtYWlsIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.Dv_WITdyw5rN7xl3kkD-5dp7BISdm28RP-U_pmtORTG8paniFchFXSjNKShF2M0XPMuRP-WMJ5b4poV5RvDbBsfYq-BKYrjdGvMftYVxEXhHOoHdOneI76TLzd4kgwZc0FqxOlsGik7dnl5jPuPUUhiZJzN8s6E8uD83Dy-8Ydzq4EAgbzDhpCmPStvL0KsaQnAgzHMdGRx_OI9C8hjuAWbNSGNFjxp51oZoxHCR1qx5ZJUIk4SR179jC87iwvuqzCjEz1ExP086409fIHoASWaS88Tbb6iRAwSRW8Tox_U_4qn8cy9EuzFzUeOobQCSee7FZny7pOqKHljrtka2-A\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/setAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZ2V0eW91cmd1aWRlLmNvbTphcGktcHJvamVjdC0xMDgyODA5OTk0ODI0IiwiYXVkIjoiZ2V0eW91cmd1aWRlLmNvbTphcGktcHJvamVjdC0xMDgyODA5OTk0ODI0IiwiYXV0aF90aW1lIjoxNjc3Mzk0NzQ1LCJ1c2VyX2lkIjoiOFpsYVFtcXRqUU5LS2ZGR3NNUHlQczN0TWVnMSIsInN1YiI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJpYXQiOjE2NzczOTQ3NDUsImV4cCI6MTY3NzM5ODM0NSwiZW1haWwiOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.GxKaw2tqgRDEX7Q5tuYaKBy_QF8Bz2OUQ8xnd0AtV3aa9bo5pKOMNSgDscHJFUoE6aHAI67LgduH2nWhnXMrRvHbezO7cizthzBBgRnrw9F-hvr_98Xn6bqb35POAtPGcD0bsV5EJs7CLoVv9k-FV2NsvsQq8G0mYxZ6dSSpFjHbsjVjwNG4qYQTNZFNce07CtoH5hhArrM-pf747inrWl85lAPCUo7e__dQ8amI6HPGB-lAxMtHgm3POy7TGZCcfn3EgGyFNd9z_zh_BRhIW_PKnooLD7eiodvsx3LWdQcpj440xpDLMF_Xk2ELB4rkzXBFnU7NCHPNgxCDJiHAhw\",\"displayName\":\"roger nadal\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/setAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZ2V0eW91cmd1aWRlLmNvbTphcGktcHJvamVjdC0xMDgyODA5OTk0ODI0IiwiYXVkIjoiZ2V0eW91cmd1aWRlLmNvbTphcGktcHJvamVjdC0xMDgyODA5OTk0ODI0IiwiYXV0aF90aW1lIjoxNjc3Mzk0NzQ1LCJ1c2VyX2lkIjoiOFpsYVFtcXRqUU5LS2ZGR3NNUHlQczN0TWVnMSIsInN1YiI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJpYXQiOjE2NzczOTQ3NDUsImV4cCI6MTY3NzM5ODM0NSwiZW1haWwiOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.GxKaw2tqgRDEX7Q5tuYaKBy_QF8Bz2OUQ8xnd0AtV3aa9bo5pKOMNSgDscHJFUoE6aHAI67LgduH2nWhnXMrRvHbezO7cizthzBBgRnrw9F-hvr_98Xn6bqb35POAtPGcD0bsV5EJs7CLoVv9k-FV2NsvsQq8G0mYxZ6dSSpFjHbsjVjwNG4qYQTNZFNce07CtoH5hhArrM-pf747inrWl85lAPCUo7e__dQ8amI6HPGB-lAxMtHgm3POy7TGZCcfn3EgGyFNd9z_zh_BRhIW_PKnooLD7eiodvsx3LWdQcpj440xpDLMF_Xk2ELB4rkzXBFnU7NCHPNgxCDJiHAhw\",\"displayName\":\"roger nadal\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/getAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoicm9nZXIgbmFkYWwiLCJneWdDdXN0b21lcklkIjo2MjU1NDg1MywiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2dldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1ZCI6ImdldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1dGhfdGltZSI6MTY3NzM5NDc0NSwidXNlcl9pZCI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJzdWIiOiI4WmxhUW1xdGpRTktLZkZHc01QeVBzM3RNZWcxIiwiaWF0IjoxNjc3Mzk0NzQ3LCJleHAiOjE2NzczOTgzNDcsImVtYWlsIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.Dv_WITdyw5rN7xl3kkD-5dp7BISdm28RP-U_pmtORTG8paniFchFXSjNKShF2M0XPMuRP-WMJ5b4poV5RvDbBsfYq-BKYrjdGvMftYVxEXhHOoHdOneI76TLzd4kgwZc0FqxOlsGik7dnl5jPuPUUhiZJzN8s6E8uD83Dy-8Ydzq4EAgbzDhpCmPStvL0KsaQnAgzHMdGRx_OI9C8hjuAWbNSGNFjxp51oZoxHCR1qx5ZJUIk4SR179jC87iwvuqzCjEz1ExP086409fIHoASWaS88Tbb6iRAwSRW8Tox_U_4qn8cy9EuzFzUeOobQCSee7FZny7pOqKHljrtka2-A\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/getAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoicm9nZXIgbmFkYWwiLCJneWdDdXN0b21lcklkIjo2MjU1NDg1MywiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2dldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1ZCI6ImdldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1dGhfdGltZSI6MTY3NzM5NDc0NSwidXNlcl9pZCI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJzdWIiOiI4WmxhUW1xdGpRTktLZkZHc01QeVBzM3RNZWcxIiwiaWF0IjoxNjc3Mzk0NzQ3LCJleHAiOjE2NzczOTgzNDcsImVtYWlsIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.Dv_WITdyw5rN7xl3kkD-5dp7BISdm28RP-U_pmtORTG8paniFchFXSjNKShF2M0XPMuRP-WMJ5b4poV5RvDbBsfYq-BKYrjdGvMftYVxEXhHOoHdOneI76TLzd4kgwZc0FqxOlsGik7dnl5jPuPUUhiZJzN8s6E8uD83Dy-8Ydzq4EAgbzDhpCmPStvL0KsaQnAgzHMdGRx_OI9C8hjuAWbNSGNFjxp51oZoxHCR1qx5ZJUIk4SR179jC87iwvuqzCjEz1ExP086409fIHoASWaS88Tbb6iRAwSRW8Tox_U_4qn8cy9EuzFzUeOobQCSee7FZny7pOqKHljrtka2-A\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZXJuYWRhbDMyMkBnbWFpbC5jb2",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/getAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoicm9nZXIgbmFkYWwiLCJneWdDdXN0b21lcklkIjo2MjU1NDg1MywiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2dldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1ZCI6ImdldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1dGhfdGltZSI6MTY3NzM5NDc0NSwidXNlcl9pZCI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJzdWIiOiI4WmxhUW1xdGpRTktLZkZHc01QeVBzM3RNZWcxIiwiaWF0IjoxNjc3Mzk0NzQ3LCJleHAiOjE2NzczOTgzNDcsImVtYWlsIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.Dv_WITdyw5rN7xl3kkD-5dp7BISdm28RP-U_pmtORTG8paniFchFXSjNKShF2M0XPMuRP-WMJ5b4poV5RvDbBsfYq-BKYrjdGvMftYVxEXhHOoHdOneI76TLzd4kgwZc0FqxOlsGik7dnl5jPuPUUhiZJzN8s6E8uD83Dy-8Ydzq4EAgbzDhpCmPStvL0KsaQnAgzHMdGRx_OI9C8hjuAWbNSGNFjxp51oZoxHCR1qx5ZJUIk4SR179jC87iwvuqzCjEz1ExP086409fIHoASWaS88Tbb6iRAwSRW8Tox_U_4qn8cy9EuzFzUeOobQCSee7FZny7pOqKHljrtka2-A\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "cm9nZXJuYWRhbDMyMkBnbWFpbC5jb2",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/getAccountInfo?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1YzJiNDBhYTJmMzIyNzk4NjY2YTZiMzMyYWFhMDNhNjc3MzAxOWIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoicm9nZXIgbmFkYWwiLCJneWdDdXN0b21lcklkIjo2MjU1NDg1MywiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2dldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1ZCI6ImdldHlvdXJndWlkZS5jb206YXBpLXByb2plY3QtMTA4MjgwOTk5NDgyNCIsImF1dGhfdGltZSI6MTY3NzM5NDc0NSwidXNlcl9pZCI6IjhabGFRbXF0alFOS0tmRkdzTVB5UHMzdE1lZzEiLCJzdWIiOiI4WmxhUW1xdGpRTktLZkZHc01QeVBzM3RNZWcxIiwiaWF0IjoxNjc3Mzk0NzQ3LCJleHAiOjE2NzczOTgzNDcsImVtYWlsIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.Dv_WITdyw5rN7xl3kkD-5dp7BISdm28RP-U_pmtORTG8paniFchFXSjNKShF2M0XPMuRP-WMJ5b4poV5RvDbBsfYq-BKYrjdGvMftYVxEXhHOoHdOneI76TLzd4kgwZc0FqxOlsGik7dnl5jPuPUUhiZJzN8s6E8uD83Dy-8Ydzq4EAgbzDhpCmPStvL0KsaQnAgzHMdGRx_OI9C8hjuAWbNSGNFjxp51oZoxHCR1qx5ZJUIk4SR179jC87iwvuqzCjEz1ExP086409fIHoASWaS88Tbb6iRAwSRW8Tox_U_4qn8cy9EuzFzUeOobQCSee7FZny7pOqKHljrtka2-A\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyA8U4r70ZU3pRJGdOApXapaEBVMJ2tfiBY",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"returnSecureToken\":true}",
+  "referer": "",
+  "cookie": ""
+}

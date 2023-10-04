@@ -1,0 +1,208 @@
+{
+  "str": "roger",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317211383&cd[buttonFeatures]=%7B%22classList%22%3A%22button--primary%20button--block%20button--base%20css-1u45gwo%20ea02pfk0%22%2C%22destination%22%3A%22https%3A%2F%2Fflipboard.com%2F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%7B%22id%22%3A%22%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Email%22%2C%22inputType%22%3A%22email%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22realName%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Full%20Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Password%22%2C%22inputType%22%3A%22password%22%7D%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=3&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317211383&cd[buttonFeatures]=%7B%22classList%22%3A%22button--primary%20button--block%20button--base%20css-1u45gwo%20ea02pfk0%22%2C%22destination%22%3A%22https%3A%2F%2Fflipboard.com%2F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%7B%22id%22%3A%22%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Email%22%2C%22inputType%22%3A%22email%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22realName%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Full%20Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Password%22%2C%22inputType%22%3A%22password%22%7D%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=3&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317270691&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnSCIENTIFIC%20RESEARCH%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0ASCIENTIFIC%20RESEARCH&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=4&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317270691&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnSCIENTIFIC%20RESEARCH%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0ASCIENTIFIC%20RESEARCH&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=4&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317271173&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnANIMAL%20BEHAVIOR%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0AANIMAL%20BEHAVIOR&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317271173&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnANIMAL%20BEHAVIOR%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0AANIMAL%20BEHAVIOR&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317271990&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnINTERNET%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0AINTERNET&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317271990&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnINTERNET%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0AINTERNET&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317273014&cd[buttonFeatures]=%7B%22classList%22%3A%22e12t67lu0%20button--base%20button--primary%20button--fat%20css-z8dgdj%20ea02pfk0%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317273014&cd[buttonFeatures]=%7B%22classList%22%3A%22e12t67lu0%20button--base%20button--primary%20button--fat%20css-z8dgdj%20ea02pfk0%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317303346&cd[buttonFeatures]=%7B%22classList%22%3A%22button--base%20button--primary%20css-1u45gwo%20ea02pfk0%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Got%20it%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Got%20it&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=8&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317303346&cd[buttonFeatures]=%7B%22classList%22%3A%22button--base%20button--primary%20css-1u45gwo%20ea02pfk0%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Got%20it%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Got%20it&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=8&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317211383&cd[buttonFeatures]=%7B%22classList%22%3A%22button--primary%20button--block%20button--base%20css-1u45gwo%20ea02pfk0%22%2C%22destination%22%3A%22https%3A%2F%2Fflipboard.com%2F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%7B%22id%22%3A%22%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Email%22%2C%22inputType%22%3A%22email%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22realName%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Full%20Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Password%22%2C%22inputType%22%3A%22password%22%7D%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=3&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317211383&cd[buttonFeatures]=%7B%22classList%22%3A%22button--primary%20button--block%20button--base%20css-1u45gwo%20ea02pfk0%22%2C%22destination%22%3A%22https%3A%2F%2Fflipboard.com%2F%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%7B%22id%22%3A%22%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Email%22%2C%22inputType%22%3A%22email%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22realName%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Full%20Name%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Password%22%2C%22inputType%22%3A%22password%22%7D%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=3&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317270691&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnSCIENTIFIC%20RESEARCH%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0ASCIENTIFIC%20RESEARCH&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=4&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317270691&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnSCIENTIFIC%20RESEARCH%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0ASCIENTIFIC%20RESEARCH&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=4&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317271173&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnANIMAL%20BEHAVIOR%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0AANIMAL%20BEHAVIOR&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317271173&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnANIMAL%20BEHAVIOR%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0AANIMAL%20BEHAVIOR&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=5&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317271990&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnINTERNET%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0AINTERNET&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317271990&cd[buttonFeatures]=%7B%22classList%22%3A%22pill%20css-h6f32u%20e1dvahx50%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22%23%5CnINTERNET%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=%23%0AINTERNET&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=6&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317273014&cd[buttonFeatures]=%7B%22classList%22%3A%22e12t67lu0%20button--base%20button--primary%20button--fat%20css-z8dgdj%20ea02pfk0%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317273014&cd[buttonFeatures]=%7B%22classList%22%3A%22e12t67lu0%20button--base%20button--primary%20button--fat%20css-z8dgdj%20ea02pfk0%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Continue%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Continue&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=7&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317303346&cd[buttonFeatures]=%7B%22classList%22%3A%22button--base%20button--primary%20css-1u45gwo%20ea02pfk0%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Got%20it%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Got%20it&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=8&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "GET": "https://www.facebook.com/tr/?id=213174695903415&ev=SubscribedButtonClick&dl=https%3A%2F%2Fflipboard.com%2F&rl=&if=false&ts=1677317303346&cd[buttonFeatures]=%7B%22classList%22%3A%22button--base%20button--primary%20css-1u45gwo%20ea02pfk0%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Got%20it%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd[buttonText]=Got%20it&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Flipboard%3A%20Your%20Social%20Magazine%22%7D&sw=1536&sh=864&udff[em]=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff[ln]=65230662bf225a90fbbc3857600d54b3cd08242b3acacbde461ddda6c2d60520&v=2.9.97&r=stable&ec=8&o=2078&cs_est=true&fbp=fb.1.1677317145426.1780482339&it=1677317145207&coo=false&es=automatic&tm=3&rqm=GET",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://flipboard.com/api/v2/auth/strength",
+  "GET": "",
+  "POST": "{\"pword\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://flipboard.com/api/v2/auth/strength",
+  "GET": "",
+  "POST": "{\"pword\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://flipboard.com/api/v2/auth/signup",
+  "GET": "",
+  "POST": "{\"realName\":\"roger nadal\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}

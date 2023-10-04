@@ -1,0 +1,96 @@
+{
+  "str": "roger",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://turo.com/api/signup",
+  "GET": "",
+  "POST": "------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_signedUpForMarketingCommunication\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"_termsOfServiceAccepted\"\r\n\r\non\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nroger\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nnadal\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"referrer\"\r\n\r\n/web-resources/signup/index.html\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"signedUpForMarketingCommunication\"\r\n\r\nfalse\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5\r\nContent-Disposition: form-data; name=\"termsOfServiceAccepted\"\r\n\r\ntrue\r\n------WebKitFormBoundarypebrKf1XhS9ZE2U5--\r\n",
+  "referer": "",
+  "cookie": ""
+}

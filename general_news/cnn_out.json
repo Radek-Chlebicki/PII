@@ -1,0 +1,169 @@
+start{
+  "str": "roger",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "roger",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "roger",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "roger",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "nadal",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "nadal",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "nadal",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "nadal",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://audience.cnn.com/core/api/1/user",
+  "GET": "",
+  "POST": "{\"emailAddress\":\"rogernadal322@gmail.com\",\"apps\":[\"core\",\"entitlements\",\"newsletters\",\"preferences\"],\"legaldocs\":[{\"docName\":\"TOS\",\"version\":\"1.0\",\"label\":\"By clicking Register you confirm you have read and agree to our <a href='https://www.cnn.com/terms' target='_blank'>Terms and Conditions</a> and acknowledge our <a href='https://www.cnn.com/privacy' target='_blank'>Privacy Policy.</a>\",\"type\":\"domestic\"}],\"attributes\":{\"cnn\":{\"att_marketing_opt_in\":false,\"marketing_opt_in\":true,\"marketing_affiliate_opt_in\":true,\"registration_subscribe\":\"2023-02-01T22:21:03.067Z\",\"registration_source\":\"https://www.cnn.com/account/log-in\",\"registration_user_score\":1,\"registration_redirect\":\"https://www.cnn.com/\"}},\"address\":{\"country\":\"US\"},\"misc\":{\"request_origin\":\"https://www.cnn.com\"}}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "123Andy#!000",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "123Andy#!000",
+  "url": "https://audience.cnn.com/core/api/1/identity",
+  "GET": "",
+  "POST": "{\"identityRequests\":[{\"identityType\":\"EMAIL\",\"principal\":\"rogernadal322@gmail.com\",\"credential\":\"123Andy#!000\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "NjAyMD",
+  "url": "https://collector.cdp.cnn.com/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "{\"schema\":\"iglu:com.snowplowanalytics.snowplow/payload_data/jsonschema/1-0-4\",\"data\":[{\"e\":\"ue\",\"eid\":\"8a404677-1dd2-4b9d-bd1d-53caa71d5d23\",\"tv\":\"js-3.4.0\",\"tna\":\"zionSp\",\"aid\":\"cnn.com\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"2560x1440\",\"cd\":\"24\",\"dtm\":\"1675290021247\",\"vp\":\"2486x795\",\"ds\":\"2471x988\",\"vid\":\"1\",\"sid\":\"96e32e46-ece8-47f7-831f-57880369751e\",\"duid\":\"43fc4a84-b3d8-4292-996c-a3e6e699b9d4\",\"refr\":\"https://www.cnn.com/\",\"url\":\"https://www.cnn.com/account/log-in\",\"ue_px\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS5jbm4vUGFnZXZpZXcvanNvbnNjaGVtYS8xLTMtMSIsImRhdGEiOnsiX19jb250ZW50TW9kZWwiOnsidmVydGljYWwiOiJjbm4iLCJwYWdlVHlwZSI6InVzZXItbWFuYWdlbWVudCIsInRlbXBsYXRlVHlwZSI6InVzZXItbWFuYWdlbWVudCIsInNlY3Rpb24iOiJhY2NvdW50IiwiZWRpdGlvbiI6IkRvbWVzdGljIn0sIl9fZ2VvRGF0YSI6eyJjaXR5IjoiZXZhbnN0b24iLCJzdGF0ZSI6IklMIiwiemlwIjoiNjAyMDgiLCJjb3VudHJ5IjoiVVMiLCJjb250aW5lbnQiOiJOQSIsImdtdE9mZnNldCI6Ii02MDAiLCJjb25uZWN0aW9uU3BlZWQiOiJicm9hZGJhbmQiLCJkbWEiOiI2MDIifSwiX19sb2dpblN0YXRlIjoiZmFsc2UiLCJfX3Nlc3Npb25JZCI6IjM3NGNiMTgyLWQyZmUtNGQyZi1iMzFjLTg0M2E2ZjE4ZGI0YSIsIl9fdGVjaFBsYXRmb3JtIjoic3RlbGxhcjIuMCIsIl9fdmlld0lkIjoiMjFlNWQ2MjktNDhkZi00NjA3LWFkM2QtN2NmY2M4ZDIwYjFkIiwidmVyc2lvbnMiOnsiQlVJTEQiOiIzLjcuMSIsIkFOQUxZVElDUyI6IjMuNS4xIiwiTUVTU0FHRV9CVVMiOiIzLjAuMTUtMy1nYWUyZjYyMDMiLCJCUklER0UiOiIzLjEuMTQtMy1nYWUyZjYyMDMiLCJaSU9OX0NPUkUiOiIzLjUuMSIsIlpJT05fV0VCX0NMSUVOVCI6IjMuNy4xIiwiWklPTl9DT01NT04iOiIzLjcuMC0zLWdhZTJmNjIwMyJ9LCJjYW5vbmljYWxVcmwiOiJodHRwczovL3d3dy5jbm4uY29tL2FjY291bnQvbG9nLWluIiwidHJhaXRzIjp7ImV2ZW50X3NvdXJjZSI6InN0ZWxsYXIyLjAiLCJwYWdlX3ZhcmlhbnQiOiJ1c2VyLW1hbmFnZW1lbnQiLCJyYXdfdXJsIjoiaHR0cHM6Ly93d3cuY25uLmNvbS9hY2NvdW50L2xvZy1pbiIsImNtc19pZCI6ImNtcy5jbm4uY29tL19wYWdlcy91c2VyLWFjY291bnQtbG9naW5AcHVibGlzaGVkIiwicGFnZV90eXBlIjoidXNlci1tYW5hZ2VtZW50IiwiZWRpdGlvbiI6ZmFsc2UsInNlY3Rpb24iOiJhY2NvdW50Iiwic3Vic2VjdGlvbiI6ImxvZ2luIiwic2VjdGlvbl9sZXZlbF8zIjoiIiwiZXhwZXJpZW5jZV90eXBlIjoiY25uX2NvcmUifSwic291cmNlSWQiOiJsb2dfaW4ifX19\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJiNWY3ZDE4OC1iZGYxLTRjYjEtOWQ5ZC1jOTU2MDk4Y2UwYzAifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5jbm4vZ2xvYmFsX2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiX19zZXNzaW9uSWQiOiIzNzRjYjE4Mi1kMmZlLTRkMmYtYjMxYy04NDNhNmYxOGRiNGEiLCJfX3RlY2hQbGF0Zm9ybSI6InN0ZWxsYXIyLjAiLCJfX3ZpZXdJZCI6IjIxZTVkNjI5LTQ4ZGYtNDYwNy1hZDNkLTdjZmNjOGQyMGIxZCIsInZlcnNpb25zIjp7IkJVSUxEIjoiMy43LjEiLCJBTkFMWVRJQ1MiOiIzLjUuMSIsIk1FU1NBR0VfQlVTIjoiMy4wLjE1LTMtZ2FlMmY2MjAzIiwiQlJJREdFIjoiMy4xLjE0LTMtZ2FlMmY2MjAzIiwiWklPTl9DT1JFIjoiMy41LjEiLCJaSU9OX1dFQl9DTElFTlQiOiIzLjcuMSIsIlpJT05fQ09NTU9OIjoiMy43LjAtMy1nYWUyZjYyMDMifSwicGxhdGZvcm0iOiJ3ZWIiLCJhcHBfaWQiOiJjbm4uY29tIn19LHsic2NoZW1hIjoiaWdsdTpjb20uY25uL2dlb19jb250ZXh0L2pzb25zY2hlbWEvMS0wLTEiLCJkYXRhIjp7ImNpdHkiOiJldmFuc3RvbiIsInN0YXRlIjoiSUwiLCJ6aXAiOiI2MDIwOCIsImNvdW50cnkiOiJVUyIsImNvbnRpbmVudCI6Ik5BIiwiZ210T2Zmc2V0IjoiLTYwMCIsImNvbm5lY3Rpb25TcGVlZCI6ImJyb2FkYmFuZCIsImRtYSI6IjYwMiJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmNubi9jb250ZW50X2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMSIsImRhdGEiOnt9fV19\",\"stm\":\"1675290021250\"}]}",
+  "referer": "",
+  "cookie": ""
+}{
+  "str": "NjAyMD",
+  "url": "https://collector.cdp.cnn.com/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "{\"schema\":\"iglu:com.snowplowanalytics.snowplow/payload_data/jsonschema/1-0-4\",\"data\":[{\"e\":\"ue\",\"eid\":\"0df68ede-2da0-4c11-9956-91a54d002236\",\"tv\":\"js-3.4.0\",\"tna\":\"zionSp\",\"aid\":\"cnn.com\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"2560x1440\",\"cd\":\"24\",\"dtm\":\"1675290043869\",\"vp\":\"2486x795\",\"ds\":\"2471x1002\",\"vid\":\"1\",\"sid\":\"96e32e46-ece8-47f7-831f-57880369751e\",\"duid\":\"43fc4a84-b3d8-4292-996c-a3e6e699b9d4\",\"refr\":\"https://www.cnn.com/\",\"url\":\"https://www.cnn.com/account/log-in\",\"ue_px\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS5jbm4vR2VuZXJpY0xpbmtDbGljay9qc29uc2NoZW1hLzEtMy0xIiwiZGF0YSI6eyJfX2NvbnRlbnRNb2RlbCI6eyJ2ZXJ0aWNhbCI6ImNubiIsInBhZ2VUeXBlIjoidXNlci1tYW5hZ2VtZW50IiwidGVtcGxhdGVUeXBlIjoidXNlci1tYW5hZ2VtZW50Iiwic2VjdGlvbiI6ImFjY291bnQiLCJlZGl0aW9uIjoiRG9tZXN0aWMifSwiX19nZW9EYXRhIjp7ImNpdHkiOiJldmFuc3RvbiIsInN0YXRlIjoiSUwiLCJ6aXAiOiI2MDIwOCIsImNvdW50cnkiOiJVUyIsImNvbnRpbmVudCI6Ik5BIiwiZ210T2Zmc2V0IjoiLTYwMCIsImNvbm5lY3Rpb25TcGVlZCI6ImJyb2FkYmFuZCIsImRtYSI6IjYwMiJ9LCJfX2xvZ2luU3RhdGUiOiJmYWxzZSIsIl9fc2Vzc2lvbklkIjoiMzc0Y2IxODItZDJmZS00ZDJmLWIzMWMtODQzYTZmMThkYjRhIiwiX190ZWNoUGxhdGZvcm0iOiJzdGVsbGFyMi4wIiwiX192aWV3SWQiOiIyMWU1ZDYyOS00OGRmLTQ2MDctYWQzZC03Y2ZjYzhkMjBiMWQiLCJ2ZXJzaW9ucyI6eyJCVUlMRCI6IjMuNy4xIiwiQU5BTFlUSUNTIjoiMy41LjEiLCJNRVNTQUdFX0JVUyI6IjMuMC4xNS0zLWdhZTJmNjIwMyIsIkJSSURHRSI6IjMuMS4xNC0zLWdhZTJmNjIwMyIsIlpJT05fQ09SRSI6IjMuNS4xIiwiWklPTl9XRUJfQ0xJRU5UIjoiMy43LjEiLCJaSU9OX0NPTU1PTiI6IjMuNy4wLTMtZ2FlMmY2MjAzIn0sImN1c3RvbUF0dHJpYnV0ZXMiOnsiQ29tcG9uZW50X2lkIjoic2lnbnVwX2xpbmsiLCJTb3VyY2VfaWQiOiJsb2dfaW4ifSwiaHJlZiI6Imh0dHBzOi8vd3d3LmNubi5jb20vYWNjb3VudC9yZWdpc3Rlcj9yZWRpcmVjdD1odHRwczovL3d3dy5jbm4uY29tLyIsInR5cGUiOiJBIn19fQ\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJiNWY3ZDE4OC1iZGYxLTRjYjEtOWQ5ZC1jOTU2MDk4Y2UwYzAifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5jbm4vZ2xvYmFsX2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiX19zZXNzaW9uSWQiOiIzNzRjYjE4Mi1kMmZlLTRkMmYtYjMxYy04NDNhNmYxOGRiNGEiLCJfX3RlY2hQbGF0Zm9ybSI6InN0ZWxsYXIyLjAiLCJfX3ZpZXdJZCI6IjIxZTVkNjI5LTQ4ZGYtNDYwNy1hZDNkLTdjZmNjOGQyMGIxZCIsInZlcnNpb25zIjp7IkJVSUxEIjoiMy43LjEiLCJBTkFMWVRJQ1MiOiIzLjUuMSIsIk1FU1NBR0VfQlVTIjoiMy4wLjE1LTMtZ2FlMmY2MjAzIiwiQlJJREdFIjoiMy4xLjE0LTMtZ2FlMmY2MjAzIiwiWklPTl9DT1JFIjoiMy41LjEiLCJaSU9OX1dFQl9DTElFTlQiOiIzLjcuMSIsIlpJT05fQ09NTU9OIjoiMy43LjAtMy1nYWUyZjYyMDMifSwicGxhdGZvcm0iOiJ3ZWIiLCJhcHBfaWQiOiJjbm4uY29tIn19LHsic2NoZW1hIjoiaWdsdTpjb20uY25uL2dlb19jb250ZXh0L2pzb25zY2hlbWEvMS0wLTEiLCJkYXRhIjp7ImNpdHkiOiJldmFuc3RvbiIsInN0YXRlIjoiSUwiLCJ6aXAiOiI2MDIwOCIsImNvdW50cnkiOiJVUyIsImNvbnRpbmVudCI6Ik5BIiwiZ210T2Zmc2V0IjoiLTYwMCIsImNvbm5lY3Rpb25TcGVlZCI6ImJyb2FkYmFuZCIsImRtYSI6IjYwMiJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmNubi9jb250ZW50X2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMSIsImRhdGEiOnt9fV19\",\"stm\":\"1675290044278\"},{\"e\":\"ue\",\"eid\":\"178fa2ab-10ad-4d0c-aafc-6be697564108\",\"tv\":\"js-3.4.0\",\"tna\":\"zionSp\",\"aid\":\"cnn.com\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"2560x1440\",\"cd\":\"24\",\"dtm\":\"1675290043875\",\"vp\":\"2486x795\",\"ds\":\"2471x1002\",\"vid\":\"1\",\"sid\":\"96e32e46-ece8-47f7-831f-57880369751e\",\"duid\":\"43fc4a84-b3d8-4292-996c-a3e6e699b9d4\",\"refr\":\"https://www.cnn.com/\",\"url\":\"https://www.cnn.com/account/log-in\",\"ue_px\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS5jbm4vVGltZU9uUGFnZS9qc29uc2NoZW1hLzEtMy0xIiwiZGF0YSI6eyJfX2NvbnRlbnRNb2RlbCI6eyJ2ZXJ0aWNhbCI6ImNubiIsInBhZ2VUeXBlIjoidXNlci1tYW5hZ2VtZW50IiwidGVtcGxhdGVUeXBlIjoidXNlci1tYW5hZ2VtZW50Iiwic2VjdGlvbiI6ImFjY291bnQiLCJlZGl0aW9uIjoiRG9tZXN0aWMifSwiX19nZW9EYXRhIjp7ImNpdHkiOiJldmFuc3RvbiIsInN0YXRlIjoiSUwiLCJ6aXAiOiI2MDIwOCIsImNvdW50cnkiOiJVUyIsImNvbnRpbmVudCI6Ik5BIiwiZ210T2Zmc2V0IjoiLTYwMCIsImNvbm5lY3Rpb25TcGVlZCI6ImJyb2FkYmFuZCIsImRtYSI6IjYwMiJ9LCJfX2xvZ2luU3RhdGUiOiJmYWxzZSIsIl9fc2Vzc2lvbklkIjoiMzc0Y2IxODItZDJmZS00ZDJmLWIzMWMtODQzYTZmMThkYjRhIiwiX190ZWNoUGxhdGZvcm0iOiJzdGVsbGFyMi4wIiwiX192aWV3SWQiOiIyMWU1ZDYyOS00OGRmLTQ2MDctYWQzZC03Y2ZjYzhkMjBiMWQiLCJ2ZXJzaW9ucyI6eyJCVUlMRCI6IjMuNy4xIiwiQU5BTFlUSUNTIjoiMy41LjEiLCJNRVNTQUdFX0JVUyI6IjMuMC4xNS0zLWdhZTJmNjIwMyIsIkJSSURHRSI6IjMuMS4xNC0zLWdhZTJmNjIwMyIsIlpJT05fQ09SRSI6IjMuNS4xIiwiWklPTl9XRUJfQ0xJRU5UIjoiMy43LjEiLCJaSU9OX0NPTU1PTiI6IjMuNy4wLTMtZ2FlMmY2MjAzIn0sImR1cmF0aW9uIjoxMzk5MH19fQ\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJiNWY3ZDE4OC1iZGYxLTRjYjEtOWQ5ZC1jOTU2MDk4Y2UwYzAifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5jbm4vZ2xvYmFsX2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiX19zZXNzaW9uSWQiOiIzNzRjYjE4Mi1kMmZlLTRkMmYtYjMxYy04NDNhNmYxOGRiNGEiLCJfX3RlY2hQbGF0Zm9ybSI6InN0ZWxsYXIyLjAiLCJfX3ZpZXdJZCI6IjIxZTVkNjI5LTQ4ZGYtNDYwNy1hZDNkLTdjZmNjOGQyMGIxZCIsInZlcnNpb25zIjp7IkJVSUxEIjoiMy43LjEiLCJBTkFMWVRJQ1MiOiIzLjUuMSIsIk1FU1NBR0VfQlVTIjoiMy4wLjE1LTMtZ2FlMmY2MjAzIiwiQlJJREdFIjoiMy4xLjE0LTMtZ2FlMmY2MjAzIiwiWklPTl9DT1JFIjoiMy41LjEiLCJaSU9OX1dFQl9DTElFTlQiOiIzLjcuMSIsIlpJT05fQ09NTU9OIjoiMy43LjAtMy1nYWUyZjYyMDMifSwicGxhdGZvcm0iOiJ3ZWIiLCJhcHBfaWQiOiJjbm4uY29tIn19LHsic2NoZW1hIjoiaWdsdTpjb20uY25uL2dlb19jb250ZXh0L2pzb25zY2hlbWEvMS0wLTEiLCJkYXRhIjp7ImNpdHkiOiJldmFuc3RvbiIsInN0YXRlIjoiSUwiLCJ6aXAiOiI2MDIwOCIsImNvdW50cnkiOiJVUyIsImNvbnRpbmVudCI6Ik5BIiwiZ210T2Zmc2V0IjoiLTYwMCIsImNvbm5lY3Rpb25TcGVlZCI6ImJyb2FkYmFuZCIsImRtYSI6IjYwMiJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmNubi9jb250ZW50X2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMSIsImRhdGEiOnt9fV19\",\"stm\":\"1675290044278\"},{\"e\":\"ue\",\"eid\":\"b56577dc-79fc-428b-90e4-348c8433f688\",\"tv\":\"js-3.4.0\",\"tna\":\"zionSp\",\"aid\":\"cnn.com\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"2560x1440\",\"cd\":\"24\",\"dtm\":\"1675290044275\",\"vp\":\"2486x795\",\"ds\":\"2471x930\",\"vid\":\"1\",\"sid\":\"96e32e46-ece8-47f7-831f-57880369751e\",\"duid\":\"43fc4a84-b3d8-4292-996c-a3e6e699b9d4\",\"refr\":\"https://www.cnn.com/account/log-in\",\"url\":\"https://www.cnn.com/account/register?redirect=https://www.cnn.com/\",\"ue_px\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS5jbm4vUGFnZXZpZXcvanNvbnNjaGVtYS8xLTMtMSIsImRhdGEiOnsiX19jb250ZW50TW9kZWwiOnsidmVydGljYWwiOiJjbm4iLCJwYWdlVHlwZSI6InVzZXItbWFuYWdlbWVudCIsInRlbXBsYXRlVHlwZSI6InVzZXItbWFuYWdlbWVudCIsInNlY3Rpb24iOiJhY2NvdW50IiwiZWRpdGlvbiI6IkRvbWVzdGljIn0sIl9fZ2VvRGF0YSI6eyJjaXR5IjoiZXZhbnN0b24iLCJzdGF0ZSI6IklMIiwiemlwIjoiNjAyMDgiLCJjb3VudHJ5IjoiVVMiLCJjb250aW5lbnQiOiJOQSIsImdtdE9mZnNldCI6Ii02MDAiLCJjb25uZWN0aW9uU3BlZWQiOiJicm9hZGJhbmQiLCJkbWEiOiI2MDIifSwiX19sb2dpblN0YXRlIjoiZmFsc2UiLCJfX3Nlc3Npb25JZCI6IjM3NGNiMTgyLWQyZmUtNGQyZi1iMzFjLTg0M2E2ZjE4ZGI0YSIsIl9fdGVjaFBsYXRmb3JtIjoic3RlbGxhcjIuMCIsIl9fdmlld0lkIjoiNzg5OGY5MjktOTI3Yi00YTM5LWJjNGYtZWU3ZGE1NTZjM2ZmIiwidmVyc2lvbnMiOnsiQlVJTEQiOiIzLjcuMSIsIkFOQUxZVElDUyI6IjMuNS4xIiwiTUVTU0FHRV9CVVMiOiIzLjAuMTUtMy1nYWUyZjYyMDMiLCJCUklER0UiOiIzLjEuMTQtMy1nYWUyZjYyMDMiLCJaSU9OX0NPUkUiOiIzLjUuMSIsIlpJT05fV0VCX0NMSUVOVCI6IjMuNy4xIiwiWklPTl9DT01NT04iOiIzLjcuMC0zLWdhZTJmNjIwMyJ9LCJjYW5vbmljYWxVcmwiOiJodHRwczovL3d3dy5jbm4uY29tL2FjY291bnQvcmVnaXN0ZXIiLCJ0cmFpdHMiOnsiZXZlbnRfc291cmNlIjoic3RlbGxhcjIuMCIsInBhZ2VfdmFyaWFudCI6InVzZXItbWFuYWdlbWVudCIsInJhd191cmwiOiJodHRwczovL3d3dy5jbm4uY29tL2FjY291bnQvcmVnaXN0ZXI_cmVkaXJlY3Q9aHR0cHM6Ly93d3cuY25uLmNvbS8iLCJjbXNfaWQiOiJjbXMuY25uLmNvbS9fcGFnZXMvdXNlci1hY2NvdW50LXJlZ2lzdHJhdGlvbkBwdWJsaXNoZWQiLCJwYWdlX3R5cGUiOiJ1c2VyLW1hbmFnZW1lbnQiLCJlZGl0aW9uIjpmYWxzZSwic2VjdGlvbiI6ImFjY291bnQiLCJzdWJzZWN0aW9uIjoicmVnaXN0ZXIiLCJzZWN0aW9uX2xldmVsXzMiOiIiLCJleHBlcmllbmNlX3R5cGUiOiJjbm5fY29yZSJ9LCJzb3VyY2VJZCI6ImNyZWF0ZV9hY2NvdW50In19fQ\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiIwYjFkY2VmYi1iNDZhLTQ5ZDMtYWYzZi04Y2M1ZmM1MjE2YTAifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5jbm4vZ2xvYmFsX2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiX19zZXNzaW9uSWQiOiIzNzRjYjE4Mi1kMmZlLTRkMmYtYjMxYy04NDNhNmYxOGRiNGEiLCJfX3RlY2hQbGF0Zm9ybSI6InN0ZWxsYXIyLjAiLCJfX3ZpZXdJZCI6Ijc4OThmOTI5LTkyN2ItNGEzOS1iYzRmLWVlN2RhNTU2YzNmZiIsInZlcnNpb25zIjp7IkJVSUxEIjoiMy43LjEiLCJBTkFMWVRJQ1MiOiIzLjUuMSIsIk1FU1NBR0VfQlVTIjoiMy4wLjE1LTMtZ2FlMmY2MjAzIiwiQlJJREdFIjoiMy4xLjE0LTMtZ2FlMmY2MjAzIiwiWklPTl9DT1JFIjoiMy41LjEiLCJaSU9OX1dFQl9DTElFTlQiOiIzLjcuMSIsIlpJT05fQ09NTU9OIjoiMy43LjAtMy1nYWUyZjYyMDMifSwicGxhdGZvcm0iOiJ3ZWIiLCJhcHBfaWQiOiJjbm4uY29tIn19LHsic2NoZW1hIjoiaWdsdTpjb20uY25uL2dlb19jb250ZXh0L2pzb25zY2hlbWEvMS0wLTEiLCJkYXRhIjp7ImNpdHkiOiJldmFuc3RvbiIsInN0YXRlIjoiSUwiLCJ6aXAiOiI2MDIwOCIsImNvdW50cnkiOiJVUyIsImNvbnRpbmVudCI6Ik5BIiwiZ210T2Zmc2V0IjoiLTYwMCIsImNvbm5lY3Rpb25TcGVlZCI6ImJyb2FkYmFuZCIsImRtYSI6IjYwMiJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmNubi9jb250ZW50X2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMSIsImRhdGEiOnt9fV19\",\"stm\":\"1675290044278\"}]}",
+  "referer": "",
+  "cookie": ""
+}

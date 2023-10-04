@@ -1,0 +1,3612 @@
+[{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "GET": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "c.webengage.com",
+    "774f913e-production-weconv-abee-330827228.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "GET": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "c.webengage.com",
+    "774f913e-production-weconv-abee-330827228.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "GET": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "c.webengage.com",
+    "774f913e-production-weconv-abee-330827228.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "GET": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "c.webengage.com",
+    "774f913e-production-weconv-abee-330827228.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "GET": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "c.webengage.com",
+    "774f913e-production-weconv-abee-330827228.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "GET": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "c.webengage.com",
+    "774f913e-production-weconv-abee-330827228.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "GET": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "c.webengage.com",
+    "774f913e-production-weconv-abee-330827228.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "GET": "https://c.webengage.com/upf.js?licenseCode=~134105974&luid=c2caa30c0363716865a440ea5cd9a1d458bb8b8b&upfc=N4IgVglgJgziBcoAsAbATAcwIwA4MIG0QA%2FAZgFZSBDKAMwCMQBdAXxaAAA%3D&lp=https%3A%2F%2Fimages.livemint.com%2Fssoconnect%2Flogin.html%3Ftoken%3DRV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4%3D%3D%3D%26name%3Drogernadal322%26clientId%3D1677319080053&rf=https%3A%2F%2Faccounts.hindustantimes.com%2F&geo=y&jsonp=_we_jsonp_global_cb_1677319082822",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "c.webengage.com",
+    "774f913e-production-weconv-abee-330827228.us-east-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com!namerogernadal322",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://api.hindustantimes.com/subscription/get-user-subcription?usertoken=RV5YUXSM5WS5VDDC2HATGYC5W3CPQQKT5GH6JUZOP6GX6JXDNEP2ESZ6NBHW46OZYL2UKKWPHNHF4===",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!namerogernadal322",
+  "cNames": [
+    "api.hindustantimes.com",
+    "api.hindustantimes.com.edgesuite.net",
+    "a1991.dscr.akamai.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"referrer\":\"HT\",\"otpFor\":\"SIGN_UP\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "{\"type\":\"web\",\"os\":\"Linux\",\"otp\":\"514939\",\"referrer\":\"HT\",\"source\":\"E\",\"email\":\"rogernadal322@gmail.com\",\"name\":\"rogernadal322\",\"newsletterConsent\":false}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://dap.hindustantimes.com/ge",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://dap.hindustantimes.com/com.htdigital.streams/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "dap.hindustantimes.com",
+    "analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!__authInputStringrogernadal322@gmail.com",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/?htMoe=09b7c304-55fc-4426-a6e5-7d43e1a0a555",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/google-login-v7.js?v1.17",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/facebook-login-v5.js?v1.8",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/truecaller-login-v1.js?v1.4",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/domains/domains-prod.js?v1.0.5",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/images/icfb.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://datahash.livemint.com/tr?id=2442192816092061&ev=PageView&et=1677319048&es=https%3A%2F%2Faccounts.hindustantimes.com%2F%3FhtMoe%3D09b7c304-55fc-4426-a6e5-7d43e1a0a555&eid=88266077571362&ua=Mozilla%2F5.0%20(X11%3B%20Fedora%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F110.0.0.0%20Safari%2F537.36&fbp=fb.1.1677319018963.953719252&ud%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "GET": "https://datahash.livemint.com/tr?id=2442192816092061&ev=PageView&et=1677319048&es=https%3A%2F%2Faccounts.hindustantimes.com%2F%3FhtMoe%3D09b7c304-55fc-4426-a6e5-7d43e1a0a555&eid=88266077571362&ua=Mozilla%2F5.0%20(X11%3B%20Fedora%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F110.0.0.0%20Safari%2F537.36&fbp=fb.1.1677319018963.953719252&ud%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "datahash.livemint.com",
+    "d2oq5xu3goh09j.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/v4/email/home",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/v3/email/registration/verifyOtp",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/login_successful",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/ht/getuserpass",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/css/mobile/commonstyle.css?v=1.0.2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/css/mobile/style_ht.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/mobile/common.js?v=1.18",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/mobile/utility.js?v1.24",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/mobile/custom.js?v1.34",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/js/mobile/getpassword.js?v1.22",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/images/eye.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://datahash.livemint.com/tr?id=2442192816092061&ev=PageView&et=1677319091&es=https%3A%2F%2Faccounts.hindustantimes.com%2Fht%2Fgetuserpass&eid=41380870430505&ua=Mozilla%2F5.0%20(X11%3B%20Fedora%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F110.0.0.0%20Safari%2F537.36&fbp=fb.1.1677319018963.953719252&ud%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "GET": "https://datahash.livemint.com/tr?id=2442192816092061&ev=PageView&et=1677319091&es=https%3A%2F%2Faccounts.hindustantimes.com%2Fht%2Fgetuserpass&eid=41380870430505&ua=Mozilla%2F5.0%20(X11%3B%20Fedora%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F110.0.0.0%20Safari%2F537.36&fbp=fb.1.1677319018963.953719252&ud%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "POST": "",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "datahash.livemint.com",
+    "d2oq5xu3goh09j.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://accounts.hindustantimes.com/css/mobile/flags.css",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!th_capi_emeba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "{\"repeatPassword\":\"123Andy#!000\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://accounts.hindustantimes.com/v3/setPassword",
+  "GET": "",
+  "POST": "{\"repeatPassword\":\"123Andy#!000\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "accounts.hindustantimes.com",
+    "accounts.hindustantimes.com-v1.edgekey.net",
+    "e6195.dsca.akamaiedge.net"
+  ],
+  "done": true
+}]

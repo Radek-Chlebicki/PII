@@ -1,0 +1,286 @@
+[{
+  "str": "roger",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/authorize-email",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"enterEmail\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://myaccount.nytimes.com/svc/lire_ui/register",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"abraTests\":\"{\\\"AUTH_ssoGuardrailsFlow\\\":\\\"0_Control\\\"}\",\"password\":\"123Andy#!000\",\"mnl_consent\":\"on\",\"auth_token\":\"H4sIAAAAAAAAA31Qy2rDMBD8F0F6SmNLliXZEEoPDTjH0kJvQY91ImJbQlKShjT/XtXHUgp7mdndmWFuSMYICbVolDEdQBq0RHqwMCVrMnu2GRsb/SCvqO3lEGGJ4NPbABG1mPGaNBjXbIn8eX6oG6oFrhQhnEtDpAYKtWASY80pq/ssF7ILhO7nekYmi+m0OwWbmUNKPrZFcblcVtM12RHiSruxiCcVdbA+WTcVblJOBmOn/aPrewhPWo5e2v3UmTXfbrYfDy8f3dvu/bVbz3qL6nlBNnl+qWZmThC9myLs0tVDjqCdO1rIixSOqL391VCA7Bog5NDDP6HR/f6lcz9cQlNihomshSgJVpT2FBMwwHAvqGkYUZUygipOiOJaVHXVVGXDWGm+AZtMkTCiAQAA\",\"form_view\":\"register\",\"consents\":[{\"name\":\"mnl_consent\",\"accepted\":true,\"codes\":[\"MM\"]}]}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "myaccount.nytimes.com",
+    "nytimes.map.fastly.net"
+  ],
+  "done": true
+}]

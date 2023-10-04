@@ -1,0 +1,816 @@
+{
+  "str": "roger",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A13%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=sanfrancisco%20-%20are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge.&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&cc=USD&server=sanfrancisco&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=sanfrancisco%20-%20news%20-%20are-consumers-as-strong-as-wells-fargo-others-say&v6=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&v9=bizjournals.com&v10=%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2F&v16=san%20francisco%20business%20times&v17=article&v18=banking-and-financial-services&v20=sanfrancisco%20%3E%20news%20%3E%20banking-and-financial-services&v22=-&v25=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v27=2023-02-24&v28=mark%20calvey&v30=637&v35=%E2%80%9Cthe%20consumer%20may%20not%20be%20as%20strong%20as%20thought%2C%E2%80%9D%20said%20prominent%20banking%20analyst%20dick%20bove.&v37=0010aqj55etiripa13&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&v42=registered&v45=22212169&v49=1&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=sanfrancisco&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&v130=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v131=1151.85&v132=1.9448&v133=1068.87&v134=8.7027&v135=0.6114&v136=34.0002&v137=3&v147=true&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&lrt=32&AQE=1",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A13%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=sanfrancisco%20-%20are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge.&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&cc=USD&server=sanfrancisco&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=sanfrancisco%20-%20news%20-%20are-consumers-as-strong-as-wells-fargo-others-say&v6=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&v9=bizjournals.com&v10=%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2F&v16=san%20francisco%20business%20times&v17=article&v18=banking-and-financial-services&v20=sanfrancisco%20%3E%20news%20%3E%20banking-and-financial-services&v22=-&v25=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v27=2023-02-24&v28=mark%20calvey&v30=637&v35=%E2%80%9Cthe%20consumer%20may%20not%20be%20as%20strong%20as%20thought%2C%E2%80%9D%20said%20prominent%20banking%20analyst%20dick%20bove.&v37=0010aqj55etiripa13&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&v42=registered&v45=22212169&v49=1&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=sanfrancisco&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&v130=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v131=1151.85&v132=1.9448&v133=1068.87&v134=8.7027&v135=0.6114&v136=34.0002&v137=3&v147=true&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&lrt=32&AQE=1",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A13%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=sanfrancisco%20-%20are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge.&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&cc=USD&server=sanfrancisco&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=sanfrancisco%20-%20news%20-%20are-consumers-as-strong-as-wells-fargo-others-say&v6=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&v9=bizjournals.com&v10=%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2F&v16=san%20francisco%20business%20times&v17=article&v18=banking-and-financial-services&v20=sanfrancisco%20%3E%20news%20%3E%20banking-and-financial-services&v22=-&v25=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v27=2023-02-24&v28=mark%20calvey&v30=637&v35=%E2%80%9Cthe%20consumer%20may%20not%20be%20as%20strong%20as%20thought%2C%E2%80%9D%20said%20prominent%20banking%20analyst%20dick%20bove.&v37=0010aqj55etiripa13&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&v42=registered&v45=22212169&v49=1&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=sanfrancisco&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&v130=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v131=1151.85&v132=1.9448&v133=1068.87&v134=8.7027&v135=0.6114&v136=34.0002&v137=3&v147=true&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&lrt=32&AQE=1",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A13%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=sanfrancisco%20-%20are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge.&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&cc=USD&server=sanfrancisco&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=sanfrancisco%20-%20news%20-%20are-consumers-as-strong-as-wells-fargo-others-say&v6=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&v9=bizjournals.com&v10=%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2F&v16=san%20francisco%20business%20times&v17=article&v18=banking-and-financial-services&v20=sanfrancisco%20%3E%20news%20%3E%20banking-and-financial-services&v22=-&v25=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v27=2023-02-24&v28=mark%20calvey&v30=637&v35=%E2%80%9Cthe%20consumer%20may%20not%20be%20as%20strong%20as%20thought%2C%E2%80%9D%20said%20prominent%20banking%20analyst%20dick%20bove.&v37=0010aqj55etiripa13&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&v42=registered&v45=22212169&v49=1&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=sanfrancisco&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&v130=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v131=1151.85&v132=1.9448&v133=1068.87&v134=8.7027&v135=0.6114&v136=34.0002&v137=3&v147=true&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&lrt=32&AQE=1",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/css/bizjournals-mpp.min.css?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/lib/jquery-1.10.2.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/dist/js/gpt.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/vendor/iframe-resizer/4.3.2/iframeResizer.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/lib/img/ajax-loader.gif",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/logos/bizjournals-logo.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/logos/horizontal-black/bizjournals-logo.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/app/cxense.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/app/adobe.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/dist/js/homepage-v4.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/stripes-12px.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/context/user-state?v=1677313018189",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/the-national-observer.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/the-list-logo-sapphire.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/homepage-v3/artwork/icon-net-worth.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/homepage-v3/artwork/icon-gross-sales.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/homepage-v3/artwork/icon-college.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/homepage-v3/artwork/icon-management.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/api/content/promos?market=bizjournals",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/lib/img/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://li.bizjournals.com/baker?dtstmp=1677313020282",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/sanfrancisco/news/2023/02/24/are-consumers-as-strong-as-wells-fargo-others-say.html",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/css/audio-player.css?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/css/article-mpp.min.css?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/css/bizjournals-mpp.min.css?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/lib/jquery-3.6.0.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/dist/js/gpt.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/vendor/openplayer.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/lib/img/ajax-loader.gif",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/logos/sanfrancisco-logo.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/the-list-logo-ruby-small.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/logos/horizontal-black/sanfrancisco-logo.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/dist/js/vendor.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/dist/js/article-mpp.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/vendor/iframe-resizer/4.3.2/iframeResizer.min.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/app/cxense.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/js/app/adobe.js?v=1676991499",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/stripes-12px.png",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/56.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/42.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/53.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/49.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/51.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/55.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/64.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/39.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/46.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/44.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/api/market/sanfrancisco",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/63.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/58.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/api/content/promos?market=sanfrancisco",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/api/content/promos?market=sanfrancisco&channel=1",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/45.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://www.bizjournals.com/dist/js/67.min.js?v=1676989182832",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://track.bizjournals.com/user/pageview/pixel?adBlock=no&author=3571&channel=1&market=2551&page=22212169&uin=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&userState=2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/lib/img/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://assets.bizjournals.com/static/img/logos/sanfrancisco-logo.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://li.bizjournals.com/baker?dtstmp=1677313032685",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s67041922430653?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A12%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&r=https%3A%2F%2Fwww.bizjournals.com%2F&cc=USD&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&pid=bizjournals%20-%20business%20news&pidt=1&oid=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-othe&ot=A&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "bmFkYW",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!bizjYToxMjp7czoxMToiYXV0aFN0b3JhZ2UiO3M6MjM6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIjtzOjM6IlVJTiI7czozMDoidVBVdk9MQ0VOZ1dUbVlxZk9USGZKUTBlZThmNzg2IjtzOjU6ImVtYWlsIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czo5OiJmaXJzdE5hbWUiO047czo4OiJsYXN0TmFtZSI7TjtzOjg6ImdyZWV0aW5nIjtzOjIzOiJyb2dlcm5hZGFsMzIyQGdtYWlsLmNvbSI7czoxMDoicG9zdGFsQ29kZSI7czo1OiI2MDIwMSI7czoxMToiY291bnRyeUNvZGUiO047czo2OiJ1c2VySWQiO3M6ODoiNDQ5NTgxMzciO3M6OToibGFzdExvZ2luIjtpOjE2NzczMTMwMTY7czo4OiJwcm92aWRlciI7czoxMToiYml6am91cm5hbHMiO3M6NDoidHlwZSI7czo0OiJiaXpqIjt9|1677313016|642070d5e48996461ecc62c3a1cce122d754d478cd7eee380efc850e9dab0aaf"
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A13%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=sanfrancisco%20-%20are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge.&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&cc=USD&server=sanfrancisco&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=sanfrancisco%20-%20news%20-%20are-consumers-as-strong-as-wells-fargo-others-say&v6=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&v9=bizjournals.com&v10=%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2F&v16=san%20francisco%20business%20times&v17=article&v18=banking-and-financial-services&v20=sanfrancisco%20%3E%20news%20%3E%20banking-and-financial-services&v22=-&v25=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v27=2023-02-24&v28=mark%20calvey&v30=637&v35=%E2%80%9Cthe%20consumer%20may%20not%20be%20as%20strong%20as%20thought%2C%E2%80%9D%20said%20prominent%20banking%20analyst%20dick%20bove.&v37=0010aqj55etiripa13&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&v42=registered&v45=22212169&v49=1&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=sanfrancisco&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&v130=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v131=1151.85&v132=1.9448&v133=1068.87&v134=8.7027&v135=0.6114&v136=34.0002&v137=3&v147=true&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&lrt=32&AQE=1",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A13%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=sanfrancisco%20-%20are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge.&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&cc=USD&server=sanfrancisco&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=sanfrancisco%20-%20news%20-%20are-consumers-as-strong-as-wells-fargo-others-say&v6=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&v9=bizjournals.com&v10=%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2F&v16=san%20francisco%20business%20times&v17=article&v18=banking-and-financial-services&v20=sanfrancisco%20%3E%20news%20%3E%20banking-and-financial-services&v22=-&v25=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v27=2023-02-24&v28=mark%20calvey&v30=637&v35=%E2%80%9Cthe%20consumer%20may%20not%20be%20as%20strong%20as%20thought%2C%E2%80%9D%20said%20prominent%20banking%20analyst%20dick%20bove.&v37=0010aqj55etiripa13&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&v42=registered&v45=22212169&v49=1&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=sanfrancisco&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&v130=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v131=1151.85&v132=1.9448&v133=1068.87&v134=8.7027&v135=0.6114&v136=34.0002&v137=3&v147=true&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&lrt=32&AQE=1",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A13%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=sanfrancisco%20-%20are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge.&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&cc=USD&server=sanfrancisco&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=sanfrancisco%20-%20news%20-%20are-consumers-as-strong-as-wells-fargo-others-say&v6=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&v9=bizjournals.com&v10=%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2F&v16=san%20francisco%20business%20times&v17=article&v18=banking-and-financial-services&v20=sanfrancisco%20%3E%20news%20%3E%20banking-and-financial-services&v22=-&v25=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v27=2023-02-24&v28=mark%20calvey&v30=637&v35=%E2%80%9Cthe%20consumer%20may%20not%20be%20as%20strong%20as%20thought%2C%E2%80%9D%20said%20prominent%20banking%20analyst%20dick%20bove.&v37=0010aqj55etiripa13&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&v42=registered&v45=22212169&v49=1&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=sanfrancisco&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&v130=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v131=1151.85&v132=1.9448&v133=1068.87&v134=8.7027&v135=0.6114&v136=34.0002&v137=3&v147=true&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&lrt=32&AQE=1",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "GET": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s63882335174673?AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A1%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=bizjournals%20-%20business%20news&g=https%3A%2F%2Fwww.bizjournals.com%2F&r=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&cc=USD&server=bizjournals&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=bizjournals%20%7C%20home&v6=https%3A%2F%2Fwww.bizjournals.com%2F&v9=bizjournals.com&v10=bizjournals%20%7C%20home&v16=the%20business%20journals&v17=bizjournals%20%7C%20home&v18=bizjournals%20%7C%20home&v19=bizjournals%20%7C%20home&v20=bizjournals%20%7C%20home&v22=-&v25=bizjournals%20%7C%20home&v29=-&v30=0&v35=-&v37=0010aqj55etiripa13&v42=registered&v45=22206089&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=bizjournals&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&c.&a.&activitymap.&page=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&link=Start%20my%20membership&region=registrationform&.activitymap&.a&.c&pid=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&oid=Start%20my%20membership&oidt=3&ot=SUBMIT&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&AQE=1",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://metrics.bizjournals.com/b/ss/bizjournalsglobal/1/JS-2.23.0-LCXS/s66154048227085",
+  "GET": "",
+  "POST": "AQB=1&ndh=1&pf=1&t=25%2F1%2F2023%202%3A17%3A13%206%20360&mid=43187278628345985044137345279024622833&aamlh=7&ce=UTF-8&pageName=sanfrancisco%20-%20are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge.&g=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&cc=USD&server=sanfrancisco&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v3=sanfrancisco%20-%20news%20-%20are-consumers-as-strong-as-wells-fargo-others-say&v6=https%3A%2F%2Fwww.bizjournals.com%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2Fare-consumers-as-strong-as-wells-fargo-others-say.html&v9=bizjournals.com&v10=%2Fsanfrancisco%2Fnews%2F2023%2F02%2F24%2F&v16=san%20francisco%20business%20times&v17=article&v18=banking-and-financial-services&v20=sanfrancisco%20%3E%20news%20%3E%20banking-and-financial-services&v22=-&v25=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v27=2023-02-24&v28=mark%20calvey&v30=637&v35=%E2%80%9Cthe%20consumer%20may%20not%20be%20as%20strong%20as%20thought%2C%E2%80%9D%20said%20prominent%20banking%20analyst%20dick%20bove.&v37=0010aqj55etiripa13&v40=Promo%20Echo%20-%20%282067478%29%3A%20Promo%20Echo%20%7C%20Entrance%20%7C%20ROS%20%7C%20%2490%20Offer%20%7C%20Print%20%2B%20Digital%20Markets%20%7C%20Logged%20In%20Non-Subs%20%7C%20February%2023%20%7C%20Copy%20Test%20%7C%20Var%20A%20%282067479%29%20-%20Impression&v42=registered&v45=22212169&v49=1&v50=account&v53=rogernadal322%40gmail.com&v66=loggedin&v84=sanfrancisco&v95=false&v107=uPUvOLCENgWTmYqfOTHfJQ0ee8f786&v130=are%20consumers%20really%20as%20strong%20as%20wells%20fargo%20and%20other%20banks%20say%3F%20troubling%20signs%20emerge&v131=1151.85&v132=1.9448&v133=1068.87&v134=8.7027&v135=0.6114&v136=34.0002&v137=3&v147=true&s=1536x864&c=24&j=1.6&v=N&k=Y&bw=991&bh=484&mcorgid=653F60B351E568560A490D4D%40AdobeOrg&lrt=32&AQE=1",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://www.facebook.com/tr/",
+  "GET": "",
+  "POST": "id=217969081910086&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&rl=https%3A%2F%2Fwww.bizjournals.com%2F&if=false&ts=1677313013298&cd%5BbuttonFeatures%5D=%7B%22classList%22%3A%22btn+btn--primary+btn--large+btn--block+sapphire-button%22%2C%22destination%22%3A%22https%3A%2F%2Fwww.bizjournals.com%2Faccountajax%2Fregister.json%3F_method%3DREGISTER%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Start+my+membership%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd%5BbuttonText%5D=Start+my+membership&cd%5BformFeatures%5D=%5B%7B%22id%22%3A%22email%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22password%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22password%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22zip%22%2C%22name%22%3A%22zip%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22g-recaptcha-response%22%2C%22name%22%3A%22g-recaptcha-response%22%2C%22tag%22%3A%22textarea%22%7D%2C%7B%22id%22%3A%22natl_observer%22%2C%22name%22%3A%22natl_observer%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%2C%7B%22id%22%3A%22tno__higher_education%22%2C%22name%22%3A%22tno__higher_education%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%2C%7B%22id%22%3A%22tno_real_estate_edition%22%2C%22name%22%3A%22tno_real_estate_edition%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%5D&cd%5BpageFeatures%5D=%7B%22title%22%3A%22Register+for+a+New+Account+-+The+Business+Journals%22%7D&sw=1536&sh=864&udff%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff%5Bzp%5D=782ac1c84b633ab135deeb24874829ff415172797b9deb034ed95365e4eb1e2a&udff%5Bst%5D=b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09&v=2.9.97&r=stable&a=tmSimo-GTM-WebTemplate&ec=2&o=2078&cs_est=true&fbp=fb.1.1677312977907.365088844&it=1677312983578&coo=false&es=automatic&tm=3&rqm=formPOST",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=620844219&img=true",
+  "GET": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=620844219&img=true",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=701089101&img=true",
+  "GET": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=701089101&img=true",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=1447654622&img=true",
+  "GET": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=1447654622&img=true",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=620844219&img=true",
+  "GET": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=620844219&img=true",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://www.bizjournals.com/accountajax/register.json?_method=REGISTER",
+  "GET": "",
+  "POST": "------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nrogernadal322@gmail.com\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n123Andy#!000\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"zip\"\r\n\r\n60201\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"g-recaptcha-response\"\r\n\r\n03AFY_a8VnjywWykZx5yCzvykHCbI_Qr5MiXGdVqGTxITYmtKsTvSKnRyNNQEYmono4VWLaeU1dwmI1xWfWXKkK5a2QgTgRLJSgWb5hqi7seCLwiMgYRY2mfzSKADoWW5JaZyFw5AH4CMZ2UHqufVzyQwlBaufwY_J2sY5ULlDA4DWNj-ef6HMwLWSE3JFq11rGMhSlHXMHP-t-wxtb2ZD1otfJyAgKKrpvsTwQMi7b2UXxPT0LokHVz59_mDqc_9lV4hWLVBz81Be4lgLVskBLqZtbCLLgoZv2lbygmVvbLAg4a43fg7vxE0jtbp2NdPRkBEa8eAmH9gth4pGHeX-pVzEZSddRs4o4lzdI0buv26OG6eA-dKBmIFBWup1hn52FoyKZGduizjbv6xuf2WLgo6ciM5PjgwBDmSh_kPUwPxGxi02Zws2-aBPm8wOC0gpXGNMpLS1IublkL59yMceiUWn8WNxhFE5J_H3kwoeIMrdIgbtPYybVHeHRQbNiTckFOZ9s5Dz09Fbtoa2jfQFnGAt9fMZMvyJOA\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\n/\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"market\"\r\n\r\nbizjournals\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"qab\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"src\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"opId\"\r\n\r\nnull\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"token\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupName\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"typeId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"groupId\"\r\n\r\n\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno_real_estate_edition\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"tno__higher_education\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"natl_observer\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_morning\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_afternoon\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_breaking\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_people_and_companies\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innobeat\"\r\n\r\n1\r\n------WebKitFormBoundaryWemelE74XAGEvYzF\r\nContent-Disposition: form-data; name=\"email_optin_innoevent\"\r\n\r\n0\r\n------WebKitFormBoundaryWemelE74XAGEvYzF--\r\n",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=701089101&img=true",
+  "GET": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=701089101&img=true",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=1447654622&img=true",
+  "GET": "https://acxmetrics.usbank.com/1/d/c.gif?aqet=imp&adv=6219544&ca=28934707&cr=186220515&pl=353175193&sid=4577769&sg=0&puu=0&geo=ct=US&st=IL&city=13283&dma=87&zp=60201&bw=4&r=1447654622&img=true",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "782ac1c84b633ab135deeb24874829ff415172797b9deb034ed95365e4eb1e2a",
+  "url": "https://www.facebook.com/tr/",
+  "GET": "",
+  "POST": "id=217969081910086&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.bizjournals.com%2Fregister%2Fbizjournals%3Fr%3D%252F&rl=https%3A%2F%2Fwww.bizjournals.com%2F&if=false&ts=1677313013298&cd%5BbuttonFeatures%5D=%7B%22classList%22%3A%22btn+btn--primary+btn--large+btn--block+sapphire-button%22%2C%22destination%22%3A%22https%3A%2F%2Fwww.bizjournals.com%2Faccountajax%2Fregister.json%3F_method%3DREGISTER%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Start+my+membership%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd%5BbuttonText%5D=Start+my+membership&cd%5BformFeatures%5D=%5B%7B%22id%22%3A%22email%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22password%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22password%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22button%22%7D%2C%7B%22id%22%3A%22zip%22%2C%22name%22%3A%22zip%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22text%22%7D%2C%7B%22id%22%3A%22g-recaptcha-response%22%2C%22name%22%3A%22g-recaptcha-response%22%2C%22tag%22%3A%22textarea%22%7D%2C%7B%22id%22%3A%22natl_observer%22%2C%22name%22%3A%22natl_observer%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%2C%7B%22id%22%3A%22tno__higher_education%22%2C%22name%22%3A%22tno__higher_education%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%2C%7B%22id%22%3A%22tno_real_estate_edition%22%2C%22name%22%3A%22tno_real_estate_edition%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%5D&cd%5BpageFeatures%5D=%7B%22title%22%3A%22Register+for+a+New+Account+-+The+Business+Journals%22%7D&sw=1536&sh=864&udff%5Bem%5D=eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039&udff%5Bzp%5D=782ac1c84b633ab135deeb24874829ff415172797b9deb034ed95365e4eb1e2a&udff%5Bst%5D=b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09&v=2.9.97&r=stable&a=tmSimo-GTM-WebTemplate&ec=2&o=2078&cs_est=true&fbp=fb.1.1677312977907.365088844&it=1677312983578&coo=false&es=automatic&tm=3&rqm=formPOST",
+  "referer": "",
+  "cookie": ""
+}

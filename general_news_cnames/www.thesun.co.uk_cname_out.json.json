@@ -1,0 +1,1417 @@
+[{
+  "str": "roger",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "roger",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://account.thesun.co.uk/login/callback",
+  "GET": "",
+  "POST": "wa=wsignin1.0&wresult=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1c2VyX2lkIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbCI6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIiwibWV0YWRhdGEiOnsiZmxhZ3MiOnsiZm9yY2VQYXNzd29yZFJlc2V0IjpmYWxzZX0sImFjc190b2tlbnMiOnsidG9rZW4iOiI2YmMwZWIwYi01OTIwLTQ3MWYtODI4OC0xMzBiOTU4MWFmNjQiLCJzZWN1cmVfdG9rZW4iOiI2MmRjZjk3NC0yYjYzLTQ0OGEtOGFiYS0yMDBiYWZkYmI3ODUifX0sInNpZCI6InRwTFFaZDJGMTR1a2lONG5jTGozTzRWMUJPMkl0TGxrIiwiaWF0IjoxNjc3MzA5MjgzLCJleHAiOjE2NzczMDkzNDMsImF1ZCI6InVybjphdXRoMDpuZXdzdWstbmduOkFDUyIsImlzcyI6InVybjphdXRoMCJ9.mETzd8di_1DL6R7YAvzZMfRpFu0E8IiGTdIZ0oK6jQ29L3hCXMAlUE64TrTQ1qFNQ3AUTZ7sNvFupY_KtJodYye2V8dOHwrD3HVHsgN00tPWwHGjg78UWsj1lOK0lgUgYWIv0c_kUYSKF-U1uf1aRSvfPUQax8BaZ7VsUmxU4KI&wctx=%7B%22strategy%22%3A%22auth0%22%2C%22auth0Client%22%3A%22eyJuYW1lIjoibG9jay5qcy11bHAiLCJ2ZXJzaW9uIjoiMTEuMzAuNCIsImVudiI6eyJhdXRoMC5qcy11bHAiOiI5LjE2LjIifX0%3D%22%2C%22tenant%22%3A%22newsuk-ngn%22%2C%22connection%22%3A%22ACS%22%2C%22client_id%22%3A%22tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC%22%2C%22response_type%22%3A%22code%22%2C%22scope%22%3A%22openid+profile+email%22%2C%22protocol%22%3A%22oauth2%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Flogin.thesun.co.uk%2Foidc%2Frp%2Fcallback%22%2C%22state%22%3A%22hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw%22%2C%22prompt%22%3A%22login%22%2C%22sid%22%3A%22tpLQZd2F14ukiN4ncLj3O4V1BO2ItLlk%22%2C%22realm%22%3A%22ACS%22%7D",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/ccpa.338b6cd2f1013fb88e57.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/gdpr-tcf.4beb2afb0070f1a389db.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/ccpa.338b6cd2f1013fb88e57.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/gdpr-tcf.4beb2afb0070f1a389db.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/?_ga=2.207447123.1546133556.1677309240-879572085.1677309240",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/webpack-36d12a75f0098f30.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/framework-50116e63224baba2.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/main-6e8ed315a98e7d5d.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/pages/_app-ac5831bbb37c8710.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/986-de29eba62bcbe9f9.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/73-4036158e93e106b2.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/198-bb567077d8c19199.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/973-f5561d07d78b5e0d.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/444-8cfe7f39750adf8f.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/pages/index-9f247038a7b03aec.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/UB0KplaQRlDPh8IPj6P1C/_buildManifest.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/static/UB0KplaQRlDPh8IPj6P1C/_ssgManifest.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/fonts/TheSun-Bold.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/fonts/TheSun-Medium.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/assets/primary-navigation-logo-white.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/fonts/TheSun-Regular.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/image?url=%2FMyAccount%2Fsun-graphic.png&w=640&q=75",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/data/UB0KplaQRlDPh8IPj6P1C/index.json",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/image?url=%2FMyAccount%2Fsun-graphic.png&w=640&q=75",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/data/UB0KplaQRlDPh8IPj6P1C/index.json",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://home.thesun.co.uk/_next/image?url=%2FMyAccount%2Fsun-graphic.png&w=640&q=75",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/ccpa.338b6cd2f1013fb88e57.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/gdpr-tcf.4beb2afb0070f1a389db.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/ccpa.338b6cd2f1013fb88e57.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/gdpr-tcf.4beb2afb0070f1a389db.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZX",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "nadal",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://account.thesun.co.uk/login/callback",
+  "GET": "",
+  "POST": "wa=wsignin1.0&wresult=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1c2VyX2lkIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbCI6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIiwibWV0YWRhdGEiOnsiZmxhZ3MiOnsiZm9yY2VQYXNzd29yZFJlc2V0IjpmYWxzZX0sImFjc190b2tlbnMiOnsidG9rZW4iOiI2YmMwZWIwYi01OTIwLTQ3MWYtODI4OC0xMzBiOTU4MWFmNjQiLCJzZWN1cmVfdG9rZW4iOiI2MmRjZjk3NC0yYjYzLTQ0OGEtOGFiYS0yMDBiYWZkYmI3ODUifX0sInNpZCI6InRwTFFaZDJGMTR1a2lONG5jTGozTzRWMUJPMkl0TGxrIiwiaWF0IjoxNjc3MzA5MjgzLCJleHAiOjE2NzczMDkzNDMsImF1ZCI6InVybjphdXRoMDpuZXdzdWstbmduOkFDUyIsImlzcyI6InVybjphdXRoMCJ9.mETzd8di_1DL6R7YAvzZMfRpFu0E8IiGTdIZ0oK6jQ29L3hCXMAlUE64TrTQ1qFNQ3AUTZ7sNvFupY_KtJodYye2V8dOHwrD3HVHsgN00tPWwHGjg78UWsj1lOK0lgUgYWIv0c_kUYSKF-U1uf1aRSvfPUQax8BaZ7VsUmxU4KI&wctx=%7B%22strategy%22%3A%22auth0%22%2C%22auth0Client%22%3A%22eyJuYW1lIjoibG9jay5qcy11bHAiLCJ2ZXJzaW9uIjoiMTEuMzAuNCIsImVudiI6eyJhdXRoMC5qcy11bHAiOiI5LjE2LjIifX0%3D%22%2C%22tenant%22%3A%22newsuk-ngn%22%2C%22connection%22%3A%22ACS%22%2C%22client_id%22%3A%22tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC%22%2C%22response_type%22%3A%22code%22%2C%22scope%22%3A%22openid+profile+email%22%2C%22protocol%22%3A%22oauth2%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Flogin.thesun.co.uk%2Foidc%2Frp%2Fcallback%22%2C%22state%22%3A%22hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw%22%2C%22prompt%22%3A%22login%22%2C%22sid%22%3A%22tpLQZd2F14ukiN4ncLj3O4V1BO2ItLlk%22%2C%22realm%22%3A%22ACS%22%7D",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/ccpa.338b6cd2f1013fb88e57.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/gdpr-tcf.4beb2afb0070f1a389db.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/ccpa.338b6cd2f1013fb88e57.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/gdpr-tcf.4beb2afb0070f1a389db.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/?_ga=2.207447123.1546133556.1677309240-879572085.1677309240",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/webpack-36d12a75f0098f30.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/framework-50116e63224baba2.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/main-6e8ed315a98e7d5d.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/pages/_app-ac5831bbb37c8710.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/986-de29eba62bcbe9f9.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/73-4036158e93e106b2.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/198-bb567077d8c19199.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/973-f5561d07d78b5e0d.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/444-8cfe7f39750adf8f.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/chunks/pages/index-9f247038a7b03aec.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/UB0KplaQRlDPh8IPj6P1C/_buildManifest.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/static/UB0KplaQRlDPh8IPj6P1C/_ssgManifest.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/fonts/TheSun-Bold.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/fonts/TheSun-Medium.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/assets/primary-navigation-logo-white.svg",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/fonts/TheSun-Regular.woff2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/image?url=%2FMyAccount%2Fsun-graphic.png&w=640&q=75",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/data/UB0KplaQRlDPh8IPj6P1C/index.json",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/favicon.ico",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/image?url=%2FMyAccount%2Fsun-graphic.png&w=640&q=75",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/data/UB0KplaQRlDPh8IPj6P1C/index.json",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://home.thesun.co.uk/_next/image?url=%2FMyAccount%2Fsun-graphic.png&w=640&q=75",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "home.thesun.co.uk",
+    "dtktw7ryr9xom.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/ccpa.338b6cd2f1013fb88e57.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/gdpr-tcf.4beb2afb0070f1a389db.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/wrapperMessagingWithoutDetection.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/ccpa.338b6cd2f1013fb88e57.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://cmp.cdn.thesun.co.uk/unified/4.6.0/gdpr-tcf.4beb2afb0070f1a389db.bundle.js",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "cmp.cdn.thesun.co.uk",
+    "cdn-259.privacy-mgmt.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://sac.thesun.co.uk/com.snowplowanalytics.snowplow/tp2",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!acs_ngntid%3D6bc0eb0b-5920-471f-8288-130b9581af64%26eid%3DAAAA071641030%26e%3D1%26a%3Dcm9nZXIgbmFkYWw%3D%26u%3D3abde666-a47a-4791-a4df-eda0dfd00ec7%26t%3D1677309283%26h%3D82b958aa03b79069460586e1348bb15b",
+  "cNames": [
+    "sac.thesun.co.uk",
+    "v2.pixel.nukp.data.newscorp.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "cm9nZXJuYWRhbDMyMkBnbWFpbC5jb2",
+  "url": "https://account.thesun.co.uk/login/callback",
+  "GET": "",
+  "POST": "wa=wsignin1.0&wresult=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1c2VyX2lkIjoicm9nZXJuYWRhbDMyMkBnbWFpbC5jb20iLCJlbWFpbCI6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIiwibWV0YWRhdGEiOnsiZmxhZ3MiOnsiZm9yY2VQYXNzd29yZFJlc2V0IjpmYWxzZX0sImFjc190b2tlbnMiOnsidG9rZW4iOiI2YmMwZWIwYi01OTIwLTQ3MWYtODI4OC0xMzBiOTU4MWFmNjQiLCJzZWN1cmVfdG9rZW4iOiI2MmRjZjk3NC0yYjYzLTQ0OGEtOGFiYS0yMDBiYWZkYmI3ODUifX0sInNpZCI6InRwTFFaZDJGMTR1a2lONG5jTGozTzRWMUJPMkl0TGxrIiwiaWF0IjoxNjc3MzA5MjgzLCJleHAiOjE2NzczMDkzNDMsImF1ZCI6InVybjphdXRoMDpuZXdzdWstbmduOkFDUyIsImlzcyI6InVybjphdXRoMCJ9.mETzd8di_1DL6R7YAvzZMfRpFu0E8IiGTdIZ0oK6jQ29L3hCXMAlUE64TrTQ1qFNQ3AUTZ7sNvFupY_KtJodYye2V8dOHwrD3HVHsgN00tPWwHGjg78UWsj1lOK0lgUgYWIv0c_kUYSKF-U1uf1aRSvfPUQax8BaZ7VsUmxU4KI&wctx=%7B%22strategy%22%3A%22auth0%22%2C%22auth0Client%22%3A%22eyJuYW1lIjoibG9jay5qcy11bHAiLCJ2ZXJzaW9uIjoiMTEuMzAuNCIsImVudiI6eyJhdXRoMC5qcy11bHAiOiI5LjE2LjIifX0%3D%22%2C%22tenant%22%3A%22newsuk-ngn%22%2C%22connection%22%3A%22ACS%22%2C%22client_id%22%3A%22tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC%22%2C%22response_type%22%3A%22code%22%2C%22scope%22%3A%22openid+profile+email%22%2C%22protocol%22%3A%22oauth2%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Flogin.thesun.co.uk%2Foidc%2Frp%2Fcallback%22%2C%22state%22%3A%22hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw%22%2C%22prompt%22%3A%22login%22%2C%22sid%22%3A%22tpLQZd2F14ukiN4ncLj3O4V1BO2ItLlk%22%2C%22realm%22%3A%22ACS%22%7D",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://account.thesun.co.uk/dbconnections/signup",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"email\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"captcha\":\"03AFY_a8UmdmMktz-Vx5E3eIovQQO8TAJitQBv836ijnXDYZILpH2iwRQNWE-yk_oQ8O6SlV3yvIZST22DNaKqDb7MavCKoXE9nZ2q8uh9S-PZALXASvIvLCOoKvLeNl8p9ilvQG2iQ6Iu8-mNI4tcd-1o4oJTdj_2SXXtEaa7eGJMZ-zbdHofwU2A3l0d4X0RWoZimr_2uYw5sBw-WZU83VhzXxGozuO-f7TccNVT7lfe3tMtBRNYOYco6RYKfcpU5T2wWisj6YuRsUBZjKYM1ox7b-V42yzthAhj5Y8fRlio9qhXjRjo7sMJOWtyGECSo6aJrVKDhvijXDjloXGYtdJImzQyR3S3BUGV17ZbsRBB6ZhvqMA6Z6YSyUT_70o1TOccrwKW4hWyMBA7nKSFlrEZ1tRflrM_3zB1EIqJQgjH6vEAsOFLId6grXkWRlmSI5TmFgSsMMqZqUfGqQkZ1nV9Ft89bp3gMuZUQFmqwr0MHfKkDOBBG0GyO4x0S1kbYpG9Mm1xoQRK09lq2ZUfAPAcoKUMDzNwrA\",\"user_metadata\":{\"firstName\":\"roger\",\"lastName\":\"nadal\",\"nuPermissionsBase64Encoded\":\"W3siaSI6IjY3NmYxNmUwLTFkNmMtMTFlOC1iNDY3LTBlZDVmODlmNzE4YiIsIm4iOiJTdW5fTWFya2V0aW5nIiwidCI6IkhhcmQiLCJ2IjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIn1d\",\"productGroup\":\"Sun_Web\",\"Sun_Marketing\":\"false\"}}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}, 
+{
+  "str": "123Andy#!000",
+  "url": "https://account.thesun.co.uk/usernamepassword/login",
+  "GET": "",
+  "POST": "{\"client_id\":\"tNdgE31FdSOcPIcjr1MIfN87Dlpk1oyC\",\"redirect_uri\":\"https://login.thesun.co.uk/oidc/rp/callback\",\"tenant\":\"newsuk-ngn\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"state\":\"hKFo2SBQMldqRTl6aTJtbGc5WTFDcnpXSGFoVmtlLVMzZlNYZ6FupWxvZ2luo3RpZNkgQ3YxX2pOTHlDZzJIWk43aU1yRld1elNVUmxaQVB5WWGjY2lk2SB0TmRnRTMxRmRTT2NQSWNqcjFNSWZOODdEbHBrMW95Qw\",\"connection\":\"ACS\",\"username\":\"rogernadal322@gmail.com\",\"password\":\"123Andy#!000\",\"popup_options\":{},\"sso\":true,\"_intstate\":\"deprecated\",\"_csrf\":\"nuQ1i78Y-aGtBjcuOjLsgrkRD46mTaC9la2s\",\"prompt\":\"login\",\"nustate\":\"eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cudGhlc3VuLmNvLnVrP2xvZ2luXHUwMDNkdHJ1ZSIsInByb2R1Y3RHcm91cCI6IlN1bl9XZWIifQ==\",\"protocol\":\"oauth2\",\"nuperms\":\"eyJwZXJtaXNzaW9ucyI6W3siaWQiOiI2NzZmMTZlMC0xZDZjLTExZTgtYjQ2Ny0wZWQ1Zjg5ZjcxOGIiLCJjZCI6IlN1bl9NYXJrZXRpbmciLCJjcCI6Ildl4oCZbGwga2VlcCB5b3UgdXAgdG8gc3BlZWQgd2l0aCBleGNsdXNpdmUgb2ZmZXJzLCBwcm9tb3Rpb25zIGFuZCBwcm9kdWN0cyBmcm9tIFRoZSBTdW4gdGhhdCB3ZSB0aGluayB5b3XigJlsbCBsb3ZlLiBTb3VuZCBnb29kPyIsInR5IjoiSGFyZCIsInZlIjoiMjAxOC0wOS0yMFQxMjo1MDowNi4wMDBaIiwiY2giOlsiRW1haWwiLCJQb3N0IiwiUGhvbmUiLCJTTVMiXSwiY3QiOiJET05cdTAwMjdUIE1JU1MgT1VUIiwiY2EiOiJNVVRVQUxfRVgiLCJjYTEiOiJZZXMiLCJjYTIiOiJObyJ9XX0=\"}",
+  "referer": "",
+  "cookie": "",
+  "cNames": [
+    "account.thesun.co.uk",
+    "newsuk-ngn-cd-g9mv05nkbbiskxou.edge.tenants.eu.auth0.com"
+  ],
+  "done": true
+}]

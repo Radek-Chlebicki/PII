@@ -1,0 +1,42 @@
+[{
+  "str": "bmFkYW",
+  "url": "https://eulogin.repubblica.it/accounts.getAccountInfo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!blaize_jwteyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJFUTBNVVE1TjBOQ1JUSkVNemszTTBVMVJrTkRRMFUwUTBNMVJFRkJSamhETWpkRU5VRkJRZyJ9.eyJpc3MiOiJodHRwczovL2ZpZG0uZ2lneWEuY29tL2p3dC8zXzFMQTdjMVRnaDhUT3U4UnloUk5sdEU2bjZBdnM0cEVYajViaHlRTnBucEMzS0hKNjBtY2RKNnhPdWJZdDZpVUovIiwiYXBpS2V5IjoiM18xTEE3YzFUZ2g4VE91OFJ5aFJObHRFNm42QXZzNHBFWGo1Ymh5UU5wbnBDM0tISjYwbWNkSjZ4T3ViWXQ2aVVKIiwiaWF0IjoxNjc3MzE3MDA5LCJleHAiOjE2NzczMjQyMDksInN1YiI6IjU4ZDYzODJkMjBhMjQ4ZDhhMjcyODYyN2YzMDA2NGRlIiwicHJvZmlsZS5lbWFpbCI6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIiwicHJvZmlsZS5sYXN0TmFtZSI6Im5hZGFsIiwicHJvZmlsZS5maXJzdE5hbWUiOiJyb2dlciIsInByb2ZpbGUubmlja25hbWUiOiJyb2dlcm5hZGFsMzIyIiwiZGF0YS5zZWxlY3RlZCI6dHJ1ZX0.WZbaZ1KBuWznozOjLUj4Y5U2nCkIWju1vCIzJM83FfR7aMcOciVni0iD0leEGGmuKqnU8W0Z9xUbuq7iWiQC9MiTVbLqzDymt0NjxZhlrrIPypk0aMzLOa2qXNXT1sCOZZOSP24zC3rzei788ebNMP36kYI0xuk7Zu4Z-AjZYTQboCIuR-9ag32of8bTpeXmuhA2l7RCvW-IsD4xNwz1a5R4z4qfHKLhYWF3TVPfbVKXcRsKMyE9vPSlUpAVR2iGUJXCWEheZxcf4h_8pF8lwXHbfq3xWWMFgeK9BxM1prcruXwCNp9a8A714V5jEfKv9BVXwu6yGYLUJtpAYiQ-uQ",
+  "cNames": [
+    "eulogin.repubblica.it",
+    "598061811971.gigya-api.com",
+    "d1utn5aaswvtwy.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://eulogin.repubblica.it/accounts.getAccountInfo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!blaize_jwteyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJFUTBNVVE1TjBOQ1JUSkVNemszTTBVMVJrTkRRMFUwUTBNMVJFRkJSamhETWpkRU5VRkJRZyJ9.eyJpc3MiOiJodHRwczovL2ZpZG0uZ2lneWEuY29tL2p3dC8zXzFMQTdjMVRnaDhUT3U4UnloUk5sdEU2bjZBdnM0cEVYajViaHlRTnBucEMzS0hKNjBtY2RKNnhPdWJZdDZpVUovIiwiYXBpS2V5IjoiM18xTEE3YzFUZ2g4VE91OFJ5aFJObHRFNm42QXZzNHBFWGo1Ymh5UU5wbnBDM0tISjYwbWNkSjZ4T3ViWXQ2aVVKIiwiaWF0IjoxNjc3MzE3MDA5LCJleHAiOjE2NzczMjQyMDksInN1YiI6IjU4ZDYzODJkMjBhMjQ4ZDhhMjcyODYyN2YzMDA2NGRlIiwicHJvZmlsZS5lbWFpbCI6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIiwicHJvZmlsZS5sYXN0TmFtZSI6Im5hZGFsIiwicHJvZmlsZS5maXJzdE5hbWUiOiJyb2dlciIsInByb2ZpbGUubmlja25hbWUiOiJyb2dlcm5hZGFsMzIyIiwiZGF0YS5zZWxlY3RlZCI6dHJ1ZX0.WZbaZ1KBuWznozOjLUj4Y5U2nCkIWju1vCIzJM83FfR7aMcOciVni0iD0leEGGmuKqnU8W0Z9xUbuq7iWiQC9MiTVbLqzDymt0NjxZhlrrIPypk0aMzLOa2qXNXT1sCOZZOSP24zC3rzei788ebNMP36kYI0xuk7Zu4Z-AjZYTQboCIuR-9ag32of8bTpeXmuhA2l7RCvW-IsD4xNwz1a5R4z4qfHKLhYWF3TVPfbVKXcRsKMyE9vPSlUpAVR2iGUJXCWEheZxcf4h_8pF8lwXHbfq3xWWMFgeK9BxM1prcruXwCNp9a8A714V5jEfKv9BVXwu6yGYLUJtpAYiQ-uQ",
+  "cNames": [
+    "eulogin.repubblica.it",
+    "598061811971.gigya-api.com",
+    "d1utn5aaswvtwy.cloudfront.net"
+  ],
+  "done": true
+}, 
+{
+  "str": "bmFkYW",
+  "url": "https://eulogin.repubblica.it/accounts.getAccountInfo",
+  "GET": "",
+  "POST": "",
+  "referer": "",
+  "cookie": "!blaize_jwteyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJFUTBNVVE1TjBOQ1JUSkVNemszTTBVMVJrTkRRMFUwUTBNMVJFRkJSamhETWpkRU5VRkJRZyJ9.eyJpc3MiOiJodHRwczovL2ZpZG0uZ2lneWEuY29tL2p3dC8zXzFMQTdjMVRnaDhUT3U4UnloUk5sdEU2bjZBdnM0cEVYajViaHlRTnBucEMzS0hKNjBtY2RKNnhPdWJZdDZpVUovIiwiYXBpS2V5IjoiM18xTEE3YzFUZ2g4VE91OFJ5aFJObHRFNm42QXZzNHBFWGo1Ymh5UU5wbnBDM0tISjYwbWNkSjZ4T3ViWXQ2aVVKIiwiaWF0IjoxNjc3MzE3MDA5LCJleHAiOjE2NzczMjQyMDksInN1YiI6IjU4ZDYzODJkMjBhMjQ4ZDhhMjcyODYyN2YzMDA2NGRlIiwicHJvZmlsZS5lbWFpbCI6InJvZ2VybmFkYWwzMjJAZ21haWwuY29tIiwicHJvZmlsZS5sYXN0TmFtZSI6Im5hZGFsIiwicHJvZmlsZS5maXJzdE5hbWUiOiJyb2dlciIsInByb2ZpbGUubmlja25hbWUiOiJyb2dlcm5hZGFsMzIyIiwiZGF0YS5zZWxlY3RlZCI6dHJ1ZX0.WZbaZ1KBuWznozOjLUj4Y5U2nCkIWju1vCIzJM83FfR7aMcOciVni0iD0leEGGmuKqnU8W0Z9xUbuq7iWiQC9MiTVbLqzDymt0NjxZhlrrIPypk0aMzLOa2qXNXT1sCOZZOSP24zC3rzei788ebNMP36kYI0xuk7Zu4Z-AjZYTQboCIuR-9ag32of8bTpeXmuhA2l7RCvW-IsD4xNwz1a5R4z4qfHKLhYWF3TVPfbVKXcRsKMyE9vPSlUpAVR2iGUJXCWEheZxcf4h_8pF8lwXHbfq3xWWMFgeK9BxM1prcruXwCNp9a8A714V5jEfKv9BVXwu6yGYLUJtpAYiQ-uQ",
+  "cNames": [
+    "eulogin.repubblica.it",
+    "598061811971.gigya-api.com",
+    "d1utn5aaswvtwy.cloudfront.net"
+  ],
+  "done": true
+}]

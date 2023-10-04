@@ -1,0 +1,688 @@
+{
+  "str": "roger",
+  "url": "https://www.cbc.ca/membership/register_new_user",
+  "GET": "",
+  "POST": "body=%7B%22confirmpassword%22%3A%22123Andy%23%21000%22%2C%22Password%22%3A%22123Andy%23%21000%22%2C%22Gender%22%3A%22M%22%2C%22BirthDate%22%3A%221%2F1%2F2000%22%2C%22LastName%22%3A%22nadal%22%2C%22FirstName%22%3A%22roger%22%2C%22g-recaptcha-response%22%3A%2203AFY_a8VZP-bkDX2tBa2MCHq8cTxsQJro4K0dWXgf0YgES1hO6wjTd5ImOn_kZnz3pZ3yx2ePM2IK76e6WXYiujlYcqsOBhBDuQoYiriYP2QDIy27sSva0E1cjImEYZyr4QIfv-flMiQo2kVq9ILHIirajQZjH3uohXzrQ3I9dnU-_4XxTUC_YIOg-t9ZbNb5llBsbpEs67cf1jA482yN1TNXGroZrU8NpODoqG8OwRVntQLYu5_4MDpJY-1pm4rMxWLKmRtksI5F5ImnC6fPy2pQJsPNdIHNsLNRi1m5eZvom6vyd5KC8kTEZx875ggf5C-BbHPiZBbAw38HUs64xlpxMglDQFQOmn2AWk2Q2C8yx1olggxs3LKz8YfXzdLABDil-AidwpJ8XWL7PC4i6MZSzxCop-jz_U2G62c3iqjqefKqaJCXi99qmiMLsr6m_-7wYpp4UMgQVEx06AWMlmnssajSKBlTubpKr__gzd_aWTlhfcoJvrEtN52XLUvKQp0CJ6XwQjjTolmyBZJejr8egMQ5yrqb0GMPIOspUMT9fwmwxeq8VlYv86n2c2edyPm3aumI6LXOVZ98XEpgrnlkTQCyf3VB0b8hecdnBWFJgqMWcAfbLh8UyrLd2RtmP4dGlL0MvfLDJxz_sev5wL0WyD5FpxmbNC9Z2ysSJCLCHnJQWPLxcTZMs0Zsz4BbYjy3JH-8uK12BVGDrpswNVY8xsukIFzvC4-buVu-I36Qvx2ljiVoJ7TZsuJiuAG-w7GBxDkMauLgXgo44VHS4xcjPGxmm04X7xkQ3qvWVw9HXpKVxMP2ZU8BL_K0tz8O7H77zuRUS3zAuGYaD4Taly_Gmbg4QEI7pwi1kbC_pz7MAsegUvPn_kUjM1P8dJ3i0pZn3icibh15xYnDaeo45HT8hEuT43Irn3H_Z-scUFh7-HZsmu2LztOSqzSq5JE2jN24l7sFphJ5ZAjeJk89LSfrwoVxPVt1Ps135puvDvVLc8q8UcOplcJRP9RAUBAz3QI0Epmof_CVQy97L6S1HYrULbkyhT5PbcTYiPayyFwE5iY4D4Xe4Kb3F0vkeJoCA58o9HI1Bw2H0BfXqvDoltBfoPHWji-ZhKGhFC_hfB3-a6he54BNINTE0KOgcUg51G6fBKc5UmyqMXY2C35EzaFmUGyxkJNwCGM4l-XQHuBHbExxENZnzU74NPcyKjEtMiBxMzgHxmHNLIi4q1nhho5o61j8W71w0xDYQgBPLA6RZOKPgWJ3-bD7BXr1Tl_nVKQefgLz3Q_JiTVXYQuWor2bXo1I_frOhg%22%2C%22Email%22%3A%5B%7B%22Type%22%3A%22Primary%22%2C%22Value%22%3A%22rogernadal322%40gmail.com%22%7D%5D%2C%22Addresses%22%3A%5B%7B%22op%22%3A%22delete%22%7D%2C%7B%22PostalCode%22%3A%22%22%7D%5D%2C%22CustomFields%22%3A%7B%22GenderDescription%22%3A%22%22%7D%7D&sott=SWuTYTqc4SVdGJyQgwA%2BykRyDgc36olcpmzr7ltd4VpwtxODzqb6NeKg%2FSi21JwRrTPZwGH7irmvN5rfwFGTCUx7Czwdh%2FJ0mMjLLGAHWe4%3D%2A849cc83819dd839686f8f0ecd762d530&verificationUrl=https%3A%2F%2Fwww.cbc.ca%2F",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://i.viafoura.co/v3/www.cbc.ca/ingest",
+  "GET": "",
+  "POST": "{\"view\":{\"domain\":\"www.cbc.ca\",\"siteUuid\":\"00000000-0000-4000-8000-082f79d5b829\",\"pageViews\":4,\"sessionStart\":\"1677306570\",\"isRecirculation\":true,\"referrerStart\":\"1677306570\",\"refVisitCount\":\"1\",\"ref\":{\"medium\":\"direct\",\"source\":null,\"sharer_uuid\":null},\"uniqueId\":\"3eace284-c9a3-4c7e-a6ee-df2bb84d2aee\",\"firstVisit\":\"1677306570\",\"previousVisit\":\"1677306570\",\"currentVisit\":\"1677306570\",\"visitCount\":\"1\",\"isAdBlockEnabled\":false,\"isProd\":true},\"meta\":{\"domain\":\"www.cbc.ca\",\"site\":\"00000000-0000-4000-8000-082f79d5b829\",\"section\":\"00000000-0000-4000-8000-082f79d5b829\",\"ref\":{},\"vf\":false,\"url\":\"https://www.cbc.ca/account/login?returnto=https%3A%2F%2Fwww.cbc.ca%2F&referrer=https%3A%2F%2Fwww.cbc.ca%2F\",\"cleanUrl\":\"https://www.cbc.ca/account/login\",\"path\":\"/account/login\",\"user\":\"00000000-0000-4000-8000-047e40d3ffd3\",\"user_badges\":[],\"privilege\":\"user\",\"page_type\":\"section\",\"topics\":[],\"git\":\"adf62e1b14f7b5408aa9467bd605181b56a6b66f\",\"amp\":false,\"thirdparty_enabled\":false,\"isTranslated\":false,\"isActive\":true,\"referrer\":\"https://www.cbc.ca/\"},\"ua\":{\"nl\":\"en-US\",\"nu\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"sr\":\"1536x864\",\"sd\":24,\"so\":\"l\",\"vp\":\"1039x484\",\"de\":\"UTF-8\",\"dl\":\"en\"},\"rq\":\"2f74a30c-e7ae-4500-9a53-b908d06ea5fc\",\"rs\":0,\"ts\":\"2023-02-25T06:30:48.135Z\",\"ltz\":360,\"eid\":\"043c1c80-a726-484d-b71f-6949488ee7be\",\"w\":[\"vf-tray\",\"vf-tray-trigger\"],\"wStats\":[\"vf-tray: 1\",\"vf-tray-trigger: 1\"],\"user_data\":{\"email\":null,\"social_login_provider\":\"\",\"username_pending\":\"roger nadal\",\"username\":\"\"},\"event_type\":\"analytics.login_success\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.cbc.ca/membership/register_new_user",
+  "GET": "",
+  "POST": "body=%7B%22confirmpassword%22%3A%22123Andy%23%21000%22%2C%22Password%22%3A%22123Andy%23%21000%22%2C%22Gender%22%3A%22M%22%2C%22BirthDate%22%3A%221%2F1%2F2000%22%2C%22LastName%22%3A%22nadal%22%2C%22FirstName%22%3A%22roger%22%2C%22g-recaptcha-response%22%3A%2203AFY_a8VZP-bkDX2tBa2MCHq8cTxsQJro4K0dWXgf0YgES1hO6wjTd5ImOn_kZnz3pZ3yx2ePM2IK76e6WXYiujlYcqsOBhBDuQoYiriYP2QDIy27sSva0E1cjImEYZyr4QIfv-flMiQo2kVq9ILHIirajQZjH3uohXzrQ3I9dnU-_4XxTUC_YIOg-t9ZbNb5llBsbpEs67cf1jA482yN1TNXGroZrU8NpODoqG8OwRVntQLYu5_4MDpJY-1pm4rMxWLKmRtksI5F5ImnC6fPy2pQJsPNdIHNsLNRi1m5eZvom6vyd5KC8kTEZx875ggf5C-BbHPiZBbAw38HUs64xlpxMglDQFQOmn2AWk2Q2C8yx1olggxs3LKz8YfXzdLABDil-AidwpJ8XWL7PC4i6MZSzxCop-jz_U2G62c3iqjqefKqaJCXi99qmiMLsr6m_-7wYpp4UMgQVEx06AWMlmnssajSKBlTubpKr__gzd_aWTlhfcoJvrEtN52XLUvKQp0CJ6XwQjjTolmyBZJejr8egMQ5yrqb0GMPIOspUMT9fwmwxeq8VlYv86n2c2edyPm3aumI6LXOVZ98XEpgrnlkTQCyf3VB0b8hecdnBWFJgqMWcAfbLh8UyrLd2RtmP4dGlL0MvfLDJxz_sev5wL0WyD5FpxmbNC9Z2ysSJCLCHnJQWPLxcTZMs0Zsz4BbYjy3JH-8uK12BVGDrpswNVY8xsukIFzvC4-buVu-I36Qvx2ljiVoJ7TZsuJiuAG-w7GBxDkMauLgXgo44VHS4xcjPGxmm04X7xkQ3qvWVw9HXpKVxMP2ZU8BL_K0tz8O7H77zuRUS3zAuGYaD4Taly_Gmbg4QEI7pwi1kbC_pz7MAsegUvPn_kUjM1P8dJ3i0pZn3icibh15xYnDaeo45HT8hEuT43Irn3H_Z-scUFh7-HZsmu2LztOSqzSq5JE2jN24l7sFphJ5ZAjeJk89LSfrwoVxPVt1Ps135puvDvVLc8q8UcOplcJRP9RAUBAz3QI0Epmof_CVQy97L6S1HYrULbkyhT5PbcTYiPayyFwE5iY4D4Xe4Kb3F0vkeJoCA58o9HI1Bw2H0BfXqvDoltBfoPHWji-ZhKGhFC_hfB3-a6he54BNINTE0KOgcUg51G6fBKc5UmyqMXY2C35EzaFmUGyxkJNwCGM4l-XQHuBHbExxENZnzU74NPcyKjEtMiBxMzgHxmHNLIi4q1nhho5o61j8W71w0xDYQgBPLA6RZOKPgWJ3-bD7BXr1Tl_nVKQefgLz3Q_JiTVXYQuWor2bXo1I_frOhg%22%2C%22Email%22%3A%5B%7B%22Type%22%3A%22Primary%22%2C%22Value%22%3A%22rogernadal322%40gmail.com%22%7D%5D%2C%22Addresses%22%3A%5B%7B%22op%22%3A%22delete%22%7D%2C%7B%22PostalCode%22%3A%22%22%7D%5D%2C%22CustomFields%22%3A%7B%22GenderDescription%22%3A%22%22%7D%7D&sott=SWuTYTqc4SVdGJyQgwA%2BykRyDgc36olcpmzr7ltd4VpwtxODzqb6NeKg%2FSi21JwRrTPZwGH7irmvN5rfwFGTCUx7Czwdh%2FJ0mMjLLGAHWe4%3D%2A849cc83819dd839686f8f0ecd762d530&verificationUrl=https%3A%2F%2Fwww.cbc.ca%2F",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://i.viafoura.co/v3/www.cbc.ca/ingest",
+  "GET": "",
+  "POST": "{\"view\":{\"domain\":\"www.cbc.ca\",\"siteUuid\":\"00000000-0000-4000-8000-082f79d5b829\",\"pageViews\":4,\"sessionStart\":\"1677306570\",\"isRecirculation\":true,\"referrerStart\":\"1677306570\",\"refVisitCount\":\"1\",\"ref\":{\"medium\":\"direct\",\"source\":null,\"sharer_uuid\":null},\"uniqueId\":\"3eace284-c9a3-4c7e-a6ee-df2bb84d2aee\",\"firstVisit\":\"1677306570\",\"previousVisit\":\"1677306570\",\"currentVisit\":\"1677306570\",\"visitCount\":\"1\",\"isAdBlockEnabled\":false,\"isProd\":true},\"meta\":{\"domain\":\"www.cbc.ca\",\"site\":\"00000000-0000-4000-8000-082f79d5b829\",\"section\":\"00000000-0000-4000-8000-082f79d5b829\",\"ref\":{},\"vf\":false,\"url\":\"https://www.cbc.ca/account/login?returnto=https%3A%2F%2Fwww.cbc.ca%2F&referrer=https%3A%2F%2Fwww.cbc.ca%2F\",\"cleanUrl\":\"https://www.cbc.ca/account/login\",\"path\":\"/account/login\",\"user\":\"00000000-0000-4000-8000-047e40d3ffd3\",\"user_badges\":[],\"privilege\":\"user\",\"page_type\":\"section\",\"topics\":[],\"git\":\"adf62e1b14f7b5408aa9467bd605181b56a6b66f\",\"amp\":false,\"thirdparty_enabled\":false,\"isTranslated\":false,\"isActive\":true,\"referrer\":\"https://www.cbc.ca/\"},\"ua\":{\"nl\":\"en-US\",\"nu\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"sr\":\"1536x864\",\"sd\":24,\"so\":\"l\",\"vp\":\"1039x484\",\"de\":\"UTF-8\",\"dl\":\"en\"},\"rq\":\"2f74a30c-e7ae-4500-9a53-b908d06ea5fc\",\"rs\":0,\"ts\":\"2023-02-25T06:30:48.135Z\",\"ltz\":360,\"eid\":\"043c1c80-a726-484d-b71f-6949488ee7be\",\"w\":[\"vf-tray\",\"vf-tray-trigger\"],\"wStats\":[\"vf-tray: 1\",\"vf-tray-trigger: 1\"],\"user_data\":{\"email\":null,\"social_login_provider\":\"\",\"username_pending\":\"roger nadal\",\"username\":\"\"},\"event_type\":\"analytics.login_success\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.cbc.ca/membership/register_new_user",
+  "GET": "",
+  "POST": "body=%7B%22confirmpassword%22%3A%22123Andy%23%21000%22%2C%22Password%22%3A%22123Andy%23%21000%22%2C%22Gender%22%3A%22M%22%2C%22BirthDate%22%3A%221%2F1%2F2000%22%2C%22LastName%22%3A%22nadal%22%2C%22FirstName%22%3A%22roger%22%2C%22g-recaptcha-response%22%3A%2203AFY_a8VZP-bkDX2tBa2MCHq8cTxsQJro4K0dWXgf0YgES1hO6wjTd5ImOn_kZnz3pZ3yx2ePM2IK76e6WXYiujlYcqsOBhBDuQoYiriYP2QDIy27sSva0E1cjImEYZyr4QIfv-flMiQo2kVq9ILHIirajQZjH3uohXzrQ3I9dnU-_4XxTUC_YIOg-t9ZbNb5llBsbpEs67cf1jA482yN1TNXGroZrU8NpODoqG8OwRVntQLYu5_4MDpJY-1pm4rMxWLKmRtksI5F5ImnC6fPy2pQJsPNdIHNsLNRi1m5eZvom6vyd5KC8kTEZx875ggf5C-BbHPiZBbAw38HUs64xlpxMglDQFQOmn2AWk2Q2C8yx1olggxs3LKz8YfXzdLABDil-AidwpJ8XWL7PC4i6MZSzxCop-jz_U2G62c3iqjqefKqaJCXi99qmiMLsr6m_-7wYpp4UMgQVEx06AWMlmnssajSKBlTubpKr__gzd_aWTlhfcoJvrEtN52XLUvKQp0CJ6XwQjjTolmyBZJejr8egMQ5yrqb0GMPIOspUMT9fwmwxeq8VlYv86n2c2edyPm3aumI6LXOVZ98XEpgrnlkTQCyf3VB0b8hecdnBWFJgqMWcAfbLh8UyrLd2RtmP4dGlL0MvfLDJxz_sev5wL0WyD5FpxmbNC9Z2ysSJCLCHnJQWPLxcTZMs0Zsz4BbYjy3JH-8uK12BVGDrpswNVY8xsukIFzvC4-buVu-I36Qvx2ljiVoJ7TZsuJiuAG-w7GBxDkMauLgXgo44VHS4xcjPGxmm04X7xkQ3qvWVw9HXpKVxMP2ZU8BL_K0tz8O7H77zuRUS3zAuGYaD4Taly_Gmbg4QEI7pwi1kbC_pz7MAsegUvPn_kUjM1P8dJ3i0pZn3icibh15xYnDaeo45HT8hEuT43Irn3H_Z-scUFh7-HZsmu2LztOSqzSq5JE2jN24l7sFphJ5ZAjeJk89LSfrwoVxPVt1Ps135puvDvVLc8q8UcOplcJRP9RAUBAz3QI0Epmof_CVQy97L6S1HYrULbkyhT5PbcTYiPayyFwE5iY4D4Xe4Kb3F0vkeJoCA58o9HI1Bw2H0BfXqvDoltBfoPHWji-ZhKGhFC_hfB3-a6he54BNINTE0KOgcUg51G6fBKc5UmyqMXY2C35EzaFmUGyxkJNwCGM4l-XQHuBHbExxENZnzU74NPcyKjEtMiBxMzgHxmHNLIi4q1nhho5o61j8W71w0xDYQgBPLA6RZOKPgWJ3-bD7BXr1Tl_nVKQefgLz3Q_JiTVXYQuWor2bXo1I_frOhg%22%2C%22Email%22%3A%5B%7B%22Type%22%3A%22Primary%22%2C%22Value%22%3A%22rogernadal322%40gmail.com%22%7D%5D%2C%22Addresses%22%3A%5B%7B%22op%22%3A%22delete%22%7D%2C%7B%22PostalCode%22%3A%22%22%7D%5D%2C%22CustomFields%22%3A%7B%22GenderDescription%22%3A%22%22%7D%7D&sott=SWuTYTqc4SVdGJyQgwA%2BykRyDgc36olcpmzr7ltd4VpwtxODzqb6NeKg%2FSi21JwRrTPZwGH7irmvN5rfwFGTCUx7Czwdh%2FJ0mMjLLGAHWe4%3D%2A849cc83819dd839686f8f0ecd762d530&verificationUrl=https%3A%2F%2Fwww.cbc.ca%2F",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://i.viafoura.co/v3/www.cbc.ca/ingest",
+  "GET": "",
+  "POST": "{\"view\":{\"domain\":\"www.cbc.ca\",\"siteUuid\":\"00000000-0000-4000-8000-082f79d5b829\",\"pageViews\":4,\"sessionStart\":\"1677306570\",\"isRecirculation\":true,\"referrerStart\":\"1677306570\",\"refVisitCount\":\"1\",\"ref\":{\"medium\":\"direct\",\"source\":null,\"sharer_uuid\":null},\"uniqueId\":\"3eace284-c9a3-4c7e-a6ee-df2bb84d2aee\",\"firstVisit\":\"1677306570\",\"previousVisit\":\"1677306570\",\"currentVisit\":\"1677306570\",\"visitCount\":\"1\",\"isAdBlockEnabled\":false,\"isProd\":true},\"meta\":{\"domain\":\"www.cbc.ca\",\"site\":\"00000000-0000-4000-8000-082f79d5b829\",\"section\":\"00000000-0000-4000-8000-082f79d5b829\",\"ref\":{},\"vf\":false,\"url\":\"https://www.cbc.ca/account/login?returnto=https%3A%2F%2Fwww.cbc.ca%2F&referrer=https%3A%2F%2Fwww.cbc.ca%2F\",\"cleanUrl\":\"https://www.cbc.ca/account/login\",\"path\":\"/account/login\",\"user\":\"00000000-0000-4000-8000-047e40d3ffd3\",\"user_badges\":[],\"privilege\":\"user\",\"page_type\":\"section\",\"topics\":[],\"git\":\"adf62e1b14f7b5408aa9467bd605181b56a6b66f\",\"amp\":false,\"thirdparty_enabled\":false,\"isTranslated\":false,\"isActive\":true,\"referrer\":\"https://www.cbc.ca/\"},\"ua\":{\"nl\":\"en-US\",\"nu\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"sr\":\"1536x864\",\"sd\":24,\"so\":\"l\",\"vp\":\"1039x484\",\"de\":\"UTF-8\",\"dl\":\"en\"},\"rq\":\"2f74a30c-e7ae-4500-9a53-b908d06ea5fc\",\"rs\":0,\"ts\":\"2023-02-25T06:30:48.135Z\",\"ltz\":360,\"eid\":\"043c1c80-a726-484d-b71f-6949488ee7be\",\"w\":[\"vf-tray\",\"vf-tray-trigger\"],\"wStats\":[\"vf-tray: 1\",\"vf-tray-trigger: 1\"],\"user_data\":{\"email\":null,\"social_login_provider\":\"\",\"username_pending\":\"roger nadal\",\"username\":\"\"},\"event_type\":\"analytics.login_success\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.cbc.ca/membership/register_new_user",
+  "GET": "",
+  "POST": "body=%7B%22confirmpassword%22%3A%22123Andy%23%21000%22%2C%22Password%22%3A%22123Andy%23%21000%22%2C%22Gender%22%3A%22M%22%2C%22BirthDate%22%3A%221%2F1%2F2000%22%2C%22LastName%22%3A%22nadal%22%2C%22FirstName%22%3A%22roger%22%2C%22g-recaptcha-response%22%3A%2203AFY_a8VZP-bkDX2tBa2MCHq8cTxsQJro4K0dWXgf0YgES1hO6wjTd5ImOn_kZnz3pZ3yx2ePM2IK76e6WXYiujlYcqsOBhBDuQoYiriYP2QDIy27sSva0E1cjImEYZyr4QIfv-flMiQo2kVq9ILHIirajQZjH3uohXzrQ3I9dnU-_4XxTUC_YIOg-t9ZbNb5llBsbpEs67cf1jA482yN1TNXGroZrU8NpODoqG8OwRVntQLYu5_4MDpJY-1pm4rMxWLKmRtksI5F5ImnC6fPy2pQJsPNdIHNsLNRi1m5eZvom6vyd5KC8kTEZx875ggf5C-BbHPiZBbAw38HUs64xlpxMglDQFQOmn2AWk2Q2C8yx1olggxs3LKz8YfXzdLABDil-AidwpJ8XWL7PC4i6MZSzxCop-jz_U2G62c3iqjqefKqaJCXi99qmiMLsr6m_-7wYpp4UMgQVEx06AWMlmnssajSKBlTubpKr__gzd_aWTlhfcoJvrEtN52XLUvKQp0CJ6XwQjjTolmyBZJejr8egMQ5yrqb0GMPIOspUMT9fwmwxeq8VlYv86n2c2edyPm3aumI6LXOVZ98XEpgrnlkTQCyf3VB0b8hecdnBWFJgqMWcAfbLh8UyrLd2RtmP4dGlL0MvfLDJxz_sev5wL0WyD5FpxmbNC9Z2ysSJCLCHnJQWPLxcTZMs0Zsz4BbYjy3JH-8uK12BVGDrpswNVY8xsukIFzvC4-buVu-I36Qvx2ljiVoJ7TZsuJiuAG-w7GBxDkMauLgXgo44VHS4xcjPGxmm04X7xkQ3qvWVw9HXpKVxMP2ZU8BL_K0tz8O7H77zuRUS3zAuGYaD4Taly_Gmbg4QEI7pwi1kbC_pz7MAsegUvPn_kUjM1P8dJ3i0pZn3icibh15xYnDaeo45HT8hEuT43Irn3H_Z-scUFh7-HZsmu2LztOSqzSq5JE2jN24l7sFphJ5ZAjeJk89LSfrwoVxPVt1Ps135puvDvVLc8q8UcOplcJRP9RAUBAz3QI0Epmof_CVQy97L6S1HYrULbkyhT5PbcTYiPayyFwE5iY4D4Xe4Kb3F0vkeJoCA58o9HI1Bw2H0BfXqvDoltBfoPHWji-ZhKGhFC_hfB3-a6he54BNINTE0KOgcUg51G6fBKc5UmyqMXY2C35EzaFmUGyxkJNwCGM4l-XQHuBHbExxENZnzU74NPcyKjEtMiBxMzgHxmHNLIi4q1nhho5o61j8W71w0xDYQgBPLA6RZOKPgWJ3-bD7BXr1Tl_nVKQefgLz3Q_JiTVXYQuWor2bXo1I_frOhg%22%2C%22Email%22%3A%5B%7B%22Type%22%3A%22Primary%22%2C%22Value%22%3A%22rogernadal322%40gmail.com%22%7D%5D%2C%22Addresses%22%3A%5B%7B%22op%22%3A%22delete%22%7D%2C%7B%22PostalCode%22%3A%22%22%7D%5D%2C%22CustomFields%22%3A%7B%22GenderDescription%22%3A%22%22%7D%7D&sott=SWuTYTqc4SVdGJyQgwA%2BykRyDgc36olcpmzr7ltd4VpwtxODzqb6NeKg%2FSi21JwRrTPZwGH7irmvN5rfwFGTCUx7Czwdh%2FJ0mMjLLGAHWe4%3D%2A849cc83819dd839686f8f0ecd762d530&verificationUrl=https%3A%2F%2Fwww.cbc.ca%2F",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://i.viafoura.co/v3/www.cbc.ca/ingest",
+  "GET": "",
+  "POST": "{\"view\":{\"domain\":\"www.cbc.ca\",\"siteUuid\":\"00000000-0000-4000-8000-082f79d5b829\",\"pageViews\":4,\"sessionStart\":\"1677306570\",\"isRecirculation\":true,\"referrerStart\":\"1677306570\",\"refVisitCount\":\"1\",\"ref\":{\"medium\":\"direct\",\"source\":null,\"sharer_uuid\":null},\"uniqueId\":\"3eace284-c9a3-4c7e-a6ee-df2bb84d2aee\",\"firstVisit\":\"1677306570\",\"previousVisit\":\"1677306570\",\"currentVisit\":\"1677306570\",\"visitCount\":\"1\",\"isAdBlockEnabled\":false,\"isProd\":true},\"meta\":{\"domain\":\"www.cbc.ca\",\"site\":\"00000000-0000-4000-8000-082f79d5b829\",\"section\":\"00000000-0000-4000-8000-082f79d5b829\",\"ref\":{},\"vf\":false,\"url\":\"https://www.cbc.ca/account/login?returnto=https%3A%2F%2Fwww.cbc.ca%2F&referrer=https%3A%2F%2Fwww.cbc.ca%2F\",\"cleanUrl\":\"https://www.cbc.ca/account/login\",\"path\":\"/account/login\",\"user\":\"00000000-0000-4000-8000-047e40d3ffd3\",\"user_badges\":[],\"privilege\":\"user\",\"page_type\":\"section\",\"topics\":[],\"git\":\"adf62e1b14f7b5408aa9467bd605181b56a6b66f\",\"amp\":false,\"thirdparty_enabled\":false,\"isTranslated\":false,\"isActive\":true,\"referrer\":\"https://www.cbc.ca/\"},\"ua\":{\"nl\":\"en-US\",\"nu\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"sr\":\"1536x864\",\"sd\":24,\"so\":\"l\",\"vp\":\"1039x484\",\"de\":\"UTF-8\",\"dl\":\"en\"},\"rq\":\"2f74a30c-e7ae-4500-9a53-b908d06ea5fc\",\"rs\":0,\"ts\":\"2023-02-25T06:30:48.135Z\",\"ltz\":360,\"eid\":\"043c1c80-a726-484d-b71f-6949488ee7be\",\"w\":[\"vf-tray\",\"vf-tray-trigger\"],\"wStats\":[\"vf-tray: 1\",\"vf-tray-trigger: 1\"],\"user_data\":{\"email\":null,\"social_login_provider\":\"\",\"username_pending\":\"roger nadal\",\"username\":\"\"},\"event_type\":\"analytics.login_success\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.cbc.ca/membership/register_new_user",
+  "GET": "",
+  "POST": "body=%7B%22confirmpassword%22%3A%22123Andy%23%21000%22%2C%22Password%22%3A%22123Andy%23%21000%22%2C%22Gender%22%3A%22M%22%2C%22BirthDate%22%3A%221%2F1%2F2000%22%2C%22LastName%22%3A%22nadal%22%2C%22FirstName%22%3A%22roger%22%2C%22g-recaptcha-response%22%3A%2203AFY_a8VZP-bkDX2tBa2MCHq8cTxsQJro4K0dWXgf0YgES1hO6wjTd5ImOn_kZnz3pZ3yx2ePM2IK76e6WXYiujlYcqsOBhBDuQoYiriYP2QDIy27sSva0E1cjImEYZyr4QIfv-flMiQo2kVq9ILHIirajQZjH3uohXzrQ3I9dnU-_4XxTUC_YIOg-t9ZbNb5llBsbpEs67cf1jA482yN1TNXGroZrU8NpODoqG8OwRVntQLYu5_4MDpJY-1pm4rMxWLKmRtksI5F5ImnC6fPy2pQJsPNdIHNsLNRi1m5eZvom6vyd5KC8kTEZx875ggf5C-BbHPiZBbAw38HUs64xlpxMglDQFQOmn2AWk2Q2C8yx1olggxs3LKz8YfXzdLABDil-AidwpJ8XWL7PC4i6MZSzxCop-jz_U2G62c3iqjqefKqaJCXi99qmiMLsr6m_-7wYpp4UMgQVEx06AWMlmnssajSKBlTubpKr__gzd_aWTlhfcoJvrEtN52XLUvKQp0CJ6XwQjjTolmyBZJejr8egMQ5yrqb0GMPIOspUMT9fwmwxeq8VlYv86n2c2edyPm3aumI6LXOVZ98XEpgrnlkTQCyf3VB0b8hecdnBWFJgqMWcAfbLh8UyrLd2RtmP4dGlL0MvfLDJxz_sev5wL0WyD5FpxmbNC9Z2ysSJCLCHnJQWPLxcTZMs0Zsz4BbYjy3JH-8uK12BVGDrpswNVY8xsukIFzvC4-buVu-I36Qvx2ljiVoJ7TZsuJiuAG-w7GBxDkMauLgXgo44VHS4xcjPGxmm04X7xkQ3qvWVw9HXpKVxMP2ZU8BL_K0tz8O7H77zuRUS3zAuGYaD4Taly_Gmbg4QEI7pwi1kbC_pz7MAsegUvPn_kUjM1P8dJ3i0pZn3icibh15xYnDaeo45HT8hEuT43Irn3H_Z-scUFh7-HZsmu2LztOSqzSq5JE2jN24l7sFphJ5ZAjeJk89LSfrwoVxPVt1Ps135puvDvVLc8q8UcOplcJRP9RAUBAz3QI0Epmof_CVQy97L6S1HYrULbkyhT5PbcTYiPayyFwE5iY4D4Xe4Kb3F0vkeJoCA58o9HI1Bw2H0BfXqvDoltBfoPHWji-ZhKGhFC_hfB3-a6he54BNINTE0KOgcUg51G6fBKc5UmyqMXY2C35EzaFmUGyxkJNwCGM4l-XQHuBHbExxENZnzU74NPcyKjEtMiBxMzgHxmHNLIi4q1nhho5o61j8W71w0xDYQgBPLA6RZOKPgWJ3-bD7BXr1Tl_nVKQefgLz3Q_JiTVXYQuWor2bXo1I_frOhg%22%2C%22Email%22%3A%5B%7B%22Type%22%3A%22Primary%22%2C%22Value%22%3A%22rogernadal322%40gmail.com%22%7D%5D%2C%22Addresses%22%3A%5B%7B%22op%22%3A%22delete%22%7D%2C%7B%22PostalCode%22%3A%22%22%7D%5D%2C%22CustomFields%22%3A%7B%22GenderDescription%22%3A%22%22%7D%7D&sott=SWuTYTqc4SVdGJyQgwA%2BykRyDgc36olcpmzr7ltd4VpwtxODzqb6NeKg%2FSi21JwRrTPZwGH7irmvN5rfwFGTCUx7Czwdh%2FJ0mMjLLGAHWe4%3D%2A849cc83819dd839686f8f0ecd762d530&verificationUrl=https%3A%2F%2Fwww.cbc.ca%2F",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.cbc.ca/membership/register_new_user",
+  "GET": "",
+  "POST": "body=%7B%22confirmpassword%22%3A%22123Andy%23%21000%22%2C%22Password%22%3A%22123Andy%23%21000%22%2C%22Gender%22%3A%22M%22%2C%22BirthDate%22%3A%221%2F1%2F2000%22%2C%22LastName%22%3A%22nadal%22%2C%22FirstName%22%3A%22roger%22%2C%22g-recaptcha-response%22%3A%2203AFY_a8VZP-bkDX2tBa2MCHq8cTxsQJro4K0dWXgf0YgES1hO6wjTd5ImOn_kZnz3pZ3yx2ePM2IK76e6WXYiujlYcqsOBhBDuQoYiriYP2QDIy27sSva0E1cjImEYZyr4QIfv-flMiQo2kVq9ILHIirajQZjH3uohXzrQ3I9dnU-_4XxTUC_YIOg-t9ZbNb5llBsbpEs67cf1jA482yN1TNXGroZrU8NpODoqG8OwRVntQLYu5_4MDpJY-1pm4rMxWLKmRtksI5F5ImnC6fPy2pQJsPNdIHNsLNRi1m5eZvom6vyd5KC8kTEZx875ggf5C-BbHPiZBbAw38HUs64xlpxMglDQFQOmn2AWk2Q2C8yx1olggxs3LKz8YfXzdLABDil-AidwpJ8XWL7PC4i6MZSzxCop-jz_U2G62c3iqjqefKqaJCXi99qmiMLsr6m_-7wYpp4UMgQVEx06AWMlmnssajSKBlTubpKr__gzd_aWTlhfcoJvrEtN52XLUvKQp0CJ6XwQjjTolmyBZJejr8egMQ5yrqb0GMPIOspUMT9fwmwxeq8VlYv86n2c2edyPm3aumI6LXOVZ98XEpgrnlkTQCyf3VB0b8hecdnBWFJgqMWcAfbLh8UyrLd2RtmP4dGlL0MvfLDJxz_sev5wL0WyD5FpxmbNC9Z2ysSJCLCHnJQWPLxcTZMs0Zsz4BbYjy3JH-8uK12BVGDrpswNVY8xsukIFzvC4-buVu-I36Qvx2ljiVoJ7TZsuJiuAG-w7GBxDkMauLgXgo44VHS4xcjPGxmm04X7xkQ3qvWVw9HXpKVxMP2ZU8BL_K0tz8O7H77zuRUS3zAuGYaD4Taly_Gmbg4QEI7pwi1kbC_pz7MAsegUvPn_kUjM1P8dJ3i0pZn3icibh15xYnDaeo45HT8hEuT43Irn3H_Z-scUFh7-HZsmu2LztOSqzSq5JE2jN24l7sFphJ5ZAjeJk89LSfrwoVxPVt1Ps135puvDvVLc8q8UcOplcJRP9RAUBAz3QI0Epmof_CVQy97L6S1HYrULbkyhT5PbcTYiPayyFwE5iY4D4Xe4Kb3F0vkeJoCA58o9HI1Bw2H0BfXqvDoltBfoPHWji-ZhKGhFC_hfB3-a6he54BNINTE0KOgcUg51G6fBKc5UmyqMXY2C35EzaFmUGyxkJNwCGM4l-XQHuBHbExxENZnzU74NPcyKjEtMiBxMzgHxmHNLIi4q1nhho5o61j8W71w0xDYQgBPLA6RZOKPgWJ3-bD7BXr1Tl_nVKQefgLz3Q_JiTVXYQuWor2bXo1I_frOhg%22%2C%22Email%22%3A%5B%7B%22Type%22%3A%22Primary%22%2C%22Value%22%3A%22rogernadal322%40gmail.com%22%7D%5D%2C%22Addresses%22%3A%5B%7B%22op%22%3A%22delete%22%7D%2C%7B%22PostalCode%22%3A%22%22%7D%5D%2C%22CustomFields%22%3A%7B%22GenderDescription%22%3A%22%22%7D%7D&sott=SWuTYTqc4SVdGJyQgwA%2BykRyDgc36olcpmzr7ltd4VpwtxODzqb6NeKg%2FSi21JwRrTPZwGH7irmvN5rfwFGTCUx7Czwdh%2FJ0mMjLLGAHWe4%3D%2A849cc83819dd839686f8f0ecd762d530&verificationUrl=https%3A%2F%2Fwww.cbc.ca%2F",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.cbc.ca/membership/register_new_user",
+  "GET": "",
+  "POST": "body=%7B%22confirmpassword%22%3A%22123Andy%23%21000%22%2C%22Password%22%3A%22123Andy%23%21000%22%2C%22Gender%22%3A%22M%22%2C%22BirthDate%22%3A%221%2F1%2F2000%22%2C%22LastName%22%3A%22nadal%22%2C%22FirstName%22%3A%22roger%22%2C%22g-recaptcha-response%22%3A%2203AFY_a8VZP-bkDX2tBa2MCHq8cTxsQJro4K0dWXgf0YgES1hO6wjTd5ImOn_kZnz3pZ3yx2ePM2IK76e6WXYiujlYcqsOBhBDuQoYiriYP2QDIy27sSva0E1cjImEYZyr4QIfv-flMiQo2kVq9ILHIirajQZjH3uohXzrQ3I9dnU-_4XxTUC_YIOg-t9ZbNb5llBsbpEs67cf1jA482yN1TNXGroZrU8NpODoqG8OwRVntQLYu5_4MDpJY-1pm4rMxWLKmRtksI5F5ImnC6fPy2pQJsPNdIHNsLNRi1m5eZvom6vyd5KC8kTEZx875ggf5C-BbHPiZBbAw38HUs64xlpxMglDQFQOmn2AWk2Q2C8yx1olggxs3LKz8YfXzdLABDil-AidwpJ8XWL7PC4i6MZSzxCop-jz_U2G62c3iqjqefKqaJCXi99qmiMLsr6m_-7wYpp4UMgQVEx06AWMlmnssajSKBlTubpKr__gzd_aWTlhfcoJvrEtN52XLUvKQp0CJ6XwQjjTolmyBZJejr8egMQ5yrqb0GMPIOspUMT9fwmwxeq8VlYv86n2c2edyPm3aumI6LXOVZ98XEpgrnlkTQCyf3VB0b8hecdnBWFJgqMWcAfbLh8UyrLd2RtmP4dGlL0MvfLDJxz_sev5wL0WyD5FpxmbNC9Z2ysSJCLCHnJQWPLxcTZMs0Zsz4BbYjy3JH-8uK12BVGDrpswNVY8xsukIFzvC4-buVu-I36Qvx2ljiVoJ7TZsuJiuAG-w7GBxDkMauLgXgo44VHS4xcjPGxmm04X7xkQ3qvWVw9HXpKVxMP2ZU8BL_K0tz8O7H77zuRUS3zAuGYaD4Taly_Gmbg4QEI7pwi1kbC_pz7MAsegUvPn_kUjM1P8dJ3i0pZn3icibh15xYnDaeo45HT8hEuT43Irn3H_Z-scUFh7-HZsmu2LztOSqzSq5JE2jN24l7sFphJ5ZAjeJk89LSfrwoVxPVt1Ps135puvDvVLc8q8UcOplcJRP9RAUBAz3QI0Epmof_CVQy97L6S1HYrULbkyhT5PbcTYiPayyFwE5iY4D4Xe4Kb3F0vkeJoCA58o9HI1Bw2H0BfXqvDoltBfoPHWji-ZhKGhFC_hfB3-a6he54BNINTE0KOgcUg51G6fBKc5UmyqMXY2C35EzaFmUGyxkJNwCGM4l-XQHuBHbExxENZnzU74NPcyKjEtMiBxMzgHxmHNLIi4q1nhho5o61j8W71w0xDYQgBPLA6RZOKPgWJ3-bD7BXr1Tl_nVKQefgLz3Q_JiTVXYQuWor2bXo1I_frOhg%22%2C%22Email%22%3A%5B%7B%22Type%22%3A%22Primary%22%2C%22Value%22%3A%22rogernadal322%40gmail.com%22%7D%5D%2C%22Addresses%22%3A%5B%7B%22op%22%3A%22delete%22%7D%2C%7B%22PostalCode%22%3A%22%22%7D%5D%2C%22CustomFields%22%3A%7B%22GenderDescription%22%3A%22%22%7D%7D&sott=SWuTYTqc4SVdGJyQgwA%2BykRyDgc36olcpmzr7ltd4VpwtxODzqb6NeKg%2FSi21JwRrTPZwGH7irmvN5rfwFGTCUx7Czwdh%2FJ0mMjLLGAHWe4%3D%2A849cc83819dd839686f8f0ecd762d530&verificationUrl=https%3A%2F%2Fwww.cbc.ca%2F",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.cbc.ca/membership/register_new_user",
+  "GET": "",
+  "POST": "body=%7B%22confirmpassword%22%3A%22123Andy%23%21000%22%2C%22Password%22%3A%22123Andy%23%21000%22%2C%22Gender%22%3A%22M%22%2C%22BirthDate%22%3A%221%2F1%2F2000%22%2C%22LastName%22%3A%22nadal%22%2C%22FirstName%22%3A%22roger%22%2C%22g-recaptcha-response%22%3A%2203AFY_a8VZP-bkDX2tBa2MCHq8cTxsQJro4K0dWXgf0YgES1hO6wjTd5ImOn_kZnz3pZ3yx2ePM2IK76e6WXYiujlYcqsOBhBDuQoYiriYP2QDIy27sSva0E1cjImEYZyr4QIfv-flMiQo2kVq9ILHIirajQZjH3uohXzrQ3I9dnU-_4XxTUC_YIOg-t9ZbNb5llBsbpEs67cf1jA482yN1TNXGroZrU8NpODoqG8OwRVntQLYu5_4MDpJY-1pm4rMxWLKmRtksI5F5ImnC6fPy2pQJsPNdIHNsLNRi1m5eZvom6vyd5KC8kTEZx875ggf5C-BbHPiZBbAw38HUs64xlpxMglDQFQOmn2AWk2Q2C8yx1olggxs3LKz8YfXzdLABDil-AidwpJ8XWL7PC4i6MZSzxCop-jz_U2G62c3iqjqefKqaJCXi99qmiMLsr6m_-7wYpp4UMgQVEx06AWMlmnssajSKBlTubpKr__gzd_aWTlhfcoJvrEtN52XLUvKQp0CJ6XwQjjTolmyBZJejr8egMQ5yrqb0GMPIOspUMT9fwmwxeq8VlYv86n2c2edyPm3aumI6LXOVZ98XEpgrnlkTQCyf3VB0b8hecdnBWFJgqMWcAfbLh8UyrLd2RtmP4dGlL0MvfLDJxz_sev5wL0WyD5FpxmbNC9Z2ysSJCLCHnJQWPLxcTZMs0Zsz4BbYjy3JH-8uK12BVGDrpswNVY8xsukIFzvC4-buVu-I36Qvx2ljiVoJ7TZsuJiuAG-w7GBxDkMauLgXgo44VHS4xcjPGxmm04X7xkQ3qvWVw9HXpKVxMP2ZU8BL_K0tz8O7H77zuRUS3zAuGYaD4Taly_Gmbg4QEI7pwi1kbC_pz7MAsegUvPn_kUjM1P8dJ3i0pZn3icibh15xYnDaeo45HT8hEuT43Irn3H_Z-scUFh7-HZsmu2LztOSqzSq5JE2jN24l7sFphJ5ZAjeJk89LSfrwoVxPVt1Ps135puvDvVLc8q8UcOplcJRP9RAUBAz3QI0Epmof_CVQy97L6S1HYrULbkyhT5PbcTYiPayyFwE5iY4D4Xe4Kb3F0vkeJoCA58o9HI1Bw2H0BfXqvDoltBfoPHWji-ZhKGhFC_hfB3-a6he54BNINTE0KOgcUg51G6fBKc5UmyqMXY2C35EzaFmUGyxkJNwCGM4l-XQHuBHbExxENZnzU74NPcyKjEtMiBxMzgHxmHNLIi4q1nhho5o61j8W71w0xDYQgBPLA6RZOKPgWJ3-bD7BXr1Tl_nVKQefgLz3Q_JiTVXYQuWor2bXo1I_frOhg%22%2C%22Email%22%3A%5B%7B%22Type%22%3A%22Primary%22%2C%22Value%22%3A%22rogernadal322%40gmail.com%22%7D%5D%2C%22Addresses%22%3A%5B%7B%22op%22%3A%22delete%22%7D%2C%7B%22PostalCode%22%3A%22%22%7D%5D%2C%22CustomFields%22%3A%7B%22GenderDescription%22%3A%22%22%7D%7D&sott=SWuTYTqc4SVdGJyQgwA%2BykRyDgc36olcpmzr7ltd4VpwtxODzqb6NeKg%2FSi21JwRrTPZwGH7irmvN5rfwFGTCUx7Czwdh%2FJ0mMjLLGAHWe4%3D%2A849cc83819dd839686f8f0ecd762d530&verificationUrl=https%3A%2F%2Fwww.cbc.ca%2F",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.cbc.ca/membership/gettvsubscriptions",
+  "GET": "",
+  "POST": "email=rogernadal322%40gmail.com&token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "GET": "https://subscriptions.cbc.ca/api/user/subscriptions/rogernadal322@gmail.com?token=63f9ab16-f516-40f8-9af8-b04b0b5a020e",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://api.loginradius.com/identity/v2/auth/login?ApiKey=3f4beddd-2061-49b0-ae80-6f1f2ed65b37",
+  "GET": "",
+  "POST": "{\"email\":\"rogernadal322@gmail.com\",\"confirmpassword\":\"123Andy#!000\",\"Password\":\"123Andy#!000\",\"PostalCode\":null,\"Gender\":\"M\",\"dob_year\":\"2000\",\"BirthDate\":\"1/1/2000\",\"LastName\":\"nadal\",\"FirstName\":\"roger\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://bcp.crwdcntrl.net/6/data",
+  "GET": "",
+  "POST": "{\"r\":{\"rpr\":false,\"rpx\":false,\"rid\":false},\"m\":{\"ref\":\"https://www.cbc.ca/\",\"pv\":false,\"dcc\":10205,\"co\":false},\"d\":{\"bt\":{\"act\":[\"Start Web Session\",\"Timestamp : 00:00 : Page View\",\"Timestamp : Saturday : Page View\",\"Timestamp : 00:00 : Saturday : Page View\"],\"int\":[\"cbc.ca : Total Site Traffic\",\"cbc.ca : Site Section : homepage\"],\"geo\":[\"city : Evanston\",\"region code : IL\",\"country code : US\",\"fsa : 60201\"],\"seg\":[\"Unauthenticated User\"],\"dmn\":[\"#OpR#76586#cbc.ca : Referral Site : \"]}},\"c\":[{\"k\":\"_cc_id\",\"v\":\"8534b5df4a5088ddcd405bef2b84f99c\"},{\"k\":\"_cc_aud\",\"v\":\"ABR4XmNgYGBI%2FrnqJJCCACYG5pO%2FQEzmkz%2BBJABmbgZd\"},{\"k\":\"_cc_cc\",\"v\":\"ACZ4XmNQsDA1NkkyTUkzSTQ1sLBISUlOMTEwTUpNM0qyMEmztExmAILkn6tOvvv%2F%2Fz8%2FiAMGUutn3hVhvOvP8J%2BRkWHRhRMSMPa5OVuEYeyJrUd0Yez%2F3xpkYOyGWyfh6uffniYKE7%2F%2BHmHOuscrhGDiPz4ehpvz5lyjGEx8znF1GPPZ4jksMPbKP4VwE2ccYIKxzx09xAxjn0dS%2FmPjFLjWDw33BWBqGm49YoOxDyOpf%2FvREib8ZO1Tbrjy%2F5owZvfdLgO4ki4tGBMA26SB9A%3D%3D\"}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://bcp.crwdcntrl.net/6/data",
+  "GET": "",
+  "POST": "{\"r\":{\"rpr\":false,\"rpx\":false,\"rid\":false},\"m\":{\"ref\":\"https://gem.cbc.ca/media/push/s01\",\"pv\":false,\"dcc\":10205,\"co\":false},\"d\":{\"bt\":{\"int\":[\"gem.cbc.ca : Total Site Traffic\",\"gem.cbc.ca : Site Section : media\",\"gem.cbc.ca : Site Section : media : push\",\"gem.cbc.ca : Site Section : media : push : s01\",\"Referral : Campaign : gem_cbc.ca_homepage_shelfnew\"],\"act\":[\"Timestamp : 00:00 : Page View\",\"Timestamp : Saturday : Page View\",\"Timestamp : 00:00 : Saturday : Page View\",\"gem.cbc.ca : loaded : user tier : free\"],\"med\":[\"gem.cbc.ca : Landing Page : media : push : s01\"],\"geo\":[\"city : Evanston\",\"region code : IL\",\"country code : US\",\"fsa : 60201\"],\"dmn\":[\"#OpR#76586#cbc.ca : Referral Site : cbc.ca\"]}},\"c\":[{\"k\":\"_cc_id\",\"v\":\"8534b5df4a5088ddcd405bef2b84f99c\"},{\"k\":\"_cc_aud\",\"v\":\"ABR4XmNgYGBI%2FrnaCkhBABMD88lfICbzyZ9AEgBYkQXP\"},{\"k\":\"_cc_cc\",\"v\":\"ACZ4XmNQsDA1NkkyTUkzSTQ1sLBISUlOMTEwTUpNM0qyMEmztExmAILkn6ut%2Fv77%2F58fxAEDte2Xn8gy3vVn%2BM%2FIyLB%2B5l0RGPvlnC3CMPaiCyckYOyGWyfh7OvvEeLrHq8Qgql5c65RDMb%2B%2FP6wNIx9aN4zOPvq8RniMPH5t6eJwthHXyDMfLntPNyub%2FM%2BScLU3Hu5UhPI%2Fg8E%2FCB3T5y2UwuZv3b7PpA9cPn9N%2Feg8M9B%2FIbQ33pEF1n9%2F28NMsj8Hx8Po8jPOa4Oc8qzxXNYYOyVfwphzOszDjDB2OeOHmKGsc8jKf%2BxcQpc64eG%2BwIwNQ23HrHB2IeR1L%2F9aAkTfrL2KTdc%2BX9QWIDjr%2FtulwFcSRcoSMDCAJ1X2UQ%3D\"}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://bcp.crwdcntrl.net/6/data",
+  "GET": "",
+  "POST": "{\"r\":{\"rpr\":false,\"rpx\":false,\"rid\":false},\"m\":{\"ref\":\"https://www.cbc.ca/\",\"pv\":false,\"dcc\":10205,\"co\":false},\"d\":{\"bt\":{\"act\":[\"Start Web Session\",\"Timestamp : 00:00 : Page View\",\"Timestamp : Saturday : Page View\",\"Timestamp : 00:00 : Saturday : Page View\"],\"int\":[\"cbc.ca : Total Site Traffic\",\"cbc.ca : Site Section : homepage\"],\"geo\":[\"city : Evanston\",\"region code : IL\",\"country code : US\",\"fsa : 60201\"],\"seg\":[\"Unauthenticated User\"],\"dmn\":[\"#OpR#76586#cbc.ca : Referral Site : \"]}},\"c\":[{\"k\":\"_cc_id\",\"v\":\"8534b5df4a5088ddcd405bef2b84f99c\"},{\"k\":\"_cc_aud\",\"v\":\"ABR4XmNgYGBI%2FrnqJJCCACYG5pO%2FQEzmkz%2BBJABmbgZd\"},{\"k\":\"_cc_cc\",\"v\":\"ACZ4XmNQsDA1NkkyTUkzSTQ1sLBISUlOMTEwTUpNM0qyMEmztExmAILkn6tOvvv%2F%2Fz8%2FiAMGUutn3hVhvOvP8J%2BRkWHRhRMSMPa5OVuEYeyJrUd0Yez%2F3xpkYOyGWyfh6uffniYKE7%2F%2BHmHOuscrhGDiPz4ehpvz5lyjGEx8znF1GPPZ4jksMPbKP4VwE2ccYIKxzx09xAxjn0dS%2FmPjFLjWDw33BWBqGm49YoOxDyOpf%2FvREib8ZO1Tbrjy%2F5owZvfdLgO4ki4tGBMA26SB9A%3D%3D\"}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://bcp.crwdcntrl.net/6/data",
+  "GET": "",
+  "POST": "{\"r\":{\"rpr\":false,\"rpx\":false,\"rid\":false},\"m\":{\"ref\":\"https://gem.cbc.ca/media/push/s01\",\"pv\":false,\"dcc\":10205,\"co\":false},\"d\":{\"bt\":{\"int\":[\"gem.cbc.ca : Total Site Traffic\",\"gem.cbc.ca : Site Section : media\",\"gem.cbc.ca : Site Section : media : push\",\"gem.cbc.ca : Site Section : media : push : s01\",\"Referral : Campaign : gem_cbc.ca_homepage_shelfnew\"],\"act\":[\"Timestamp : 00:00 : Page View\",\"Timestamp : Saturday : Page View\",\"Timestamp : 00:00 : Saturday : Page View\",\"gem.cbc.ca : loaded : user tier : free\"],\"med\":[\"gem.cbc.ca : Landing Page : media : push : s01\"],\"geo\":[\"city : Evanston\",\"region code : IL\",\"country code : US\",\"fsa : 60201\"],\"dmn\":[\"#OpR#76586#cbc.ca : Referral Site : cbc.ca\"]}},\"c\":[{\"k\":\"_cc_id\",\"v\":\"8534b5df4a5088ddcd405bef2b84f99c\"},{\"k\":\"_cc_aud\",\"v\":\"ABR4XmNgYGBI%2FrnaCkhBABMD88lfICbzyZ9AEgBYkQXP\"},{\"k\":\"_cc_cc\",\"v\":\"ACZ4XmNQsDA1NkkyTUkzSTQ1sLBISUlOMTEwTUpNM0qyMEmztExmAILkn6ut%2Fv77%2F58fxAEDte2Xn8gy3vVn%2BM%2FIyLB%2B5l0RGPvlnC3CMPaiCyckYOyGWyfh7OvvEeLrHq8Qgql5c65RDMb%2B%2FP6wNIx9aN4zOPvq8RniMPH5t6eJwthHXyDMfLntPNyub%2FM%2BScLU3Hu5UhPI%2Fg8E%2FCB3T5y2UwuZv3b7PpA9cPn9N%2Feg8M9B%2FIbQ33pEF1n9%2F28NMsj8Hx8Po8jPOa4Oc8qzxXNYYOyVfwphzOszDjDB2OeOHmKGsc8jKf%2BxcQpc64eG%2BwIwNQ23HrHB2IeR1L%2F9aAkTfrL2KTdc%2BX9QWIDjr%2FtulwFcSRcoSMDCAJ1X2UQ%3D\"}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://bcp.crwdcntrl.net/6/data",
+  "GET": "",
+  "POST": "{\"r\":{\"rpr\":false,\"rpx\":false,\"rid\":false},\"m\":{\"ref\":\"https://www.cbc.ca/\",\"pv\":false,\"dcc\":10205,\"co\":false},\"d\":{\"bt\":{\"act\":[\"Start Web Session\",\"Timestamp : 00:00 : Page View\",\"Timestamp : Saturday : Page View\",\"Timestamp : 00:00 : Saturday : Page View\"],\"int\":[\"cbc.ca : Total Site Traffic\",\"cbc.ca : Site Section : homepage\"],\"geo\":[\"city : Evanston\",\"region code : IL\",\"country code : US\",\"fsa : 60201\"],\"seg\":[\"Unauthenticated User\"],\"dmn\":[\"#OpR#76586#cbc.ca : Referral Site : \"]}},\"c\":[{\"k\":\"_cc_id\",\"v\":\"8534b5df4a5088ddcd405bef2b84f99c\"},{\"k\":\"_cc_aud\",\"v\":\"ABR4XmNgYGBI%2FrnqJJCCACYG5pO%2FQEzmkz%2BBJABmbgZd\"},{\"k\":\"_cc_cc\",\"v\":\"ACZ4XmNQsDA1NkkyTUkzSTQ1sLBISUlOMTEwTUpNM0qyMEmztExmAILkn6tOvvv%2F%2Fz8%2FiAMGUutn3hVhvOvP8J%2BRkWHRhRMSMPa5OVuEYeyJrUd0Yez%2F3xpkYOyGWyfh6uffniYKE7%2F%2BHmHOuscrhGDiPz4ehpvz5lyjGEx8znF1GPPZ4jksMPbKP4VwE2ccYIKxzx09xAxjn0dS%2FmPjFLjWDw33BWBqGm49YoOxDyOpf%2FvREib8ZO1Tbrjy%2F5owZvfdLgO4ki4tGBMA26SB9A%3D%3D\"}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://bcp.crwdcntrl.net/6/data",
+  "GET": "",
+  "POST": "{\"r\":{\"rpr\":false,\"rpx\":false,\"rid\":false},\"m\":{\"ref\":\"https://gem.cbc.ca/media/push/s01\",\"pv\":false,\"dcc\":10205,\"co\":false},\"d\":{\"bt\":{\"int\":[\"gem.cbc.ca : Total Site Traffic\",\"gem.cbc.ca : Site Section : media\",\"gem.cbc.ca : Site Section : media : push\",\"gem.cbc.ca : Site Section : media : push : s01\",\"Referral : Campaign : gem_cbc.ca_homepage_shelfnew\"],\"act\":[\"Timestamp : 00:00 : Page View\",\"Timestamp : Saturday : Page View\",\"Timestamp : 00:00 : Saturday : Page View\",\"gem.cbc.ca : loaded : user tier : free\"],\"med\":[\"gem.cbc.ca : Landing Page : media : push : s01\"],\"geo\":[\"city : Evanston\",\"region code : IL\",\"country code : US\",\"fsa : 60201\"],\"dmn\":[\"#OpR#76586#cbc.ca : Referral Site : cbc.ca\"]}},\"c\":[{\"k\":\"_cc_id\",\"v\":\"8534b5df4a5088ddcd405bef2b84f99c\"},{\"k\":\"_cc_aud\",\"v\":\"ABR4XmNgYGBI%2FrnaCkhBABMD88lfICbzyZ9AEgBYkQXP\"},{\"k\":\"_cc_cc\",\"v\":\"ACZ4XmNQsDA1NkkyTUkzSTQ1sLBISUlOMTEwTUpNM0qyMEmztExmAILkn6ut%2Fv77%2F58fxAEDte2Xn8gy3vVn%2BM%2FIyLB%2B5l0RGPvlnC3CMPaiCyckYOyGWyfh7OvvEeLrHq8Qgql5c65RDMb%2B%2FP6wNIx9aN4zOPvq8RniMPH5t6eJwthHXyDMfLntPNyub%2FM%2BScLU3Hu5UhPI%2Fg8E%2FCB3T5y2UwuZv3b7PpA9cPn9N%2Feg8M9B%2FIbQ33pEF1n9%2F28NMsj8Hx8Po8jPOa4Oc8qzxXNYYOyVfwphzOszDjDB2OeOHmKGsc8jKf%2BxcQpc64eG%2BwIwNQ23HrHB2IeR1L%2F9aAkTfrL2KTdc%2BX9QWIDjr%2FtulwFcSRcoSMDCAJ1X2UQ%3D\"}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://bcp.crwdcntrl.net/6/data",
+  "GET": "",
+  "POST": "{\"r\":{\"rpr\":false,\"rpx\":false,\"rid\":false},\"m\":{\"ref\":\"https://www.cbc.ca/\",\"pv\":false,\"dcc\":10205,\"co\":false},\"d\":{\"bt\":{\"act\":[\"Start Web Session\",\"Timestamp : 00:00 : Page View\",\"Timestamp : Saturday : Page View\",\"Timestamp : 00:00 : Saturday : Page View\"],\"int\":[\"cbc.ca : Total Site Traffic\",\"cbc.ca : Site Section : homepage\"],\"geo\":[\"city : Evanston\",\"region code : IL\",\"country code : US\",\"fsa : 60201\"],\"seg\":[\"Unauthenticated User\"],\"dmn\":[\"#OpR#76586#cbc.ca : Referral Site : \"]}},\"c\":[{\"k\":\"_cc_id\",\"v\":\"8534b5df4a5088ddcd405bef2b84f99c\"},{\"k\":\"_cc_aud\",\"v\":\"ABR4XmNgYGBI%2FrnqJJCCACYG5pO%2FQEzmkz%2BBJABmbgZd\"},{\"k\":\"_cc_cc\",\"v\":\"ACZ4XmNQsDA1NkkyTUkzSTQ1sLBISUlOMTEwTUpNM0qyMEmztExmAILkn6tOvvv%2F%2Fz8%2FiAMGUutn3hVhvOvP8J%2BRkWHRhRMSMPa5OVuEYeyJrUd0Yez%2F3xpkYOyGWyfh6uffniYKE7%2F%2BHmHOuscrhGDiPz4ehpvz5lyjGEx8znF1GPPZ4jksMPbKP4VwE2ccYIKxzx09xAxjn0dS%2FmPjFLjWDw33BWBqGm49YoOxDyOpf%2FvREib8ZO1Tbrjy%2F5owZvfdLgO4ki4tGBMA26SB9A%3D%3D\"}]}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://bcp.crwdcntrl.net/6/data",
+  "GET": "",
+  "POST": "{\"r\":{\"rpr\":false,\"rpx\":false,\"rid\":false},\"m\":{\"ref\":\"https://gem.cbc.ca/media/push/s01\",\"pv\":false,\"dcc\":10205,\"co\":false},\"d\":{\"bt\":{\"int\":[\"gem.cbc.ca : Total Site Traffic\",\"gem.cbc.ca : Site Section : media\",\"gem.cbc.ca : Site Section : media : push\",\"gem.cbc.ca : Site Section : media : push : s01\",\"Referral : Campaign : gem_cbc.ca_homepage_shelfnew\"],\"act\":[\"Timestamp : 00:00 : Page View\",\"Timestamp : Saturday : Page View\",\"Timestamp : 00:00 : Saturday : Page View\",\"gem.cbc.ca : loaded : user tier : free\"],\"med\":[\"gem.cbc.ca : Landing Page : media : push : s01\"],\"geo\":[\"city : Evanston\",\"region code : IL\",\"country code : US\",\"fsa : 60201\"],\"dmn\":[\"#OpR#76586#cbc.ca : Referral Site : cbc.ca\"]}},\"c\":[{\"k\":\"_cc_id\",\"v\":\"8534b5df4a5088ddcd405bef2b84f99c\"},{\"k\":\"_cc_aud\",\"v\":\"ABR4XmNgYGBI%2FrnaCkhBABMD88lfICbzyZ9AEgBYkQXP\"},{\"k\":\"_cc_cc\",\"v\":\"ACZ4XmNQsDA1NkkyTUkzSTQ1sLBISUlOMTEwTUpNM0qyMEmztExmAILkn6ut%2Fv77%2F58fxAEDte2Xn8gy3vVn%2BM%2FIyLB%2B5l0RGPvlnC3CMPaiCyckYOyGWyfh7OvvEeLrHq8Qgql5c65RDMb%2B%2FP6wNIx9aN4zOPvq8RniMPH5t6eJwthHXyDMfLntPNyub%2FM%2BScLU3Hu5UhPI%2Fg8E%2FCB3T5y2UwuZv3b7PpA9cPn9N%2Feg8M9B%2FIbQ33pEF1n9%2F28NMsj8Hx8Po8jPOa4Oc8qzxXNYYOyVfwphzOszDjDB2OeOHmKGsc8jKf%2BxcQpc64eG%2BwIwNQ23HrHB2IeR1L%2F9aAkTfrL2KTdc%2BX9QWIDjr%2FtulwFcSRcoSMDCAJ1X2UQ%3D\"}]}",
+  "referer": "",
+  "cookie": ""
+}

@@ -1,0 +1,368 @@
+{
+  "str": "roger",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/referenceVerification",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"loyaltyCarrierCode\":\"DL\",\"loyaltyReference\":[{\"loyaltyReferenceId\":\"rogernadal322\",\"loyaltyReferenceTypeCode\":\"U\"}]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/referenceVerification",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"loyaltyCarrierCode\":\"DL\",\"loyaltyReference\":[{\"loyaltyReferenceId\":\"rogernadal322\",\"loyaltyReferenceTypeCode\":\"U\"}]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/referenceVerification",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"loyaltyCarrierCode\":\"DL\",\"loyaltyReference\":[{\"loyaltyReferenceId\":\"rogernadal322\",\"loyaltyReferenceTypeCode\":\"U\"}]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/referenceVerification",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"loyaltyCarrierCode\":\"DL\",\"loyaltyReference\":[{\"loyaltyReferenceId\":\"rogernadal322\",\"loyaltyReferenceTypeCode\":\"U\"}]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/referenceVerification",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"loyaltyCarrierCode\":\"DL\",\"loyaltyReference\":[{\"loyaltyReferenceId\":\"rogernadal322\",\"loyaltyReferenceTypeCode\":\"U\"}]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/referenceVerification",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"loyaltyCarrierCode\":\"DL\",\"loyaltyReference\":[{\"loyaltyReferenceId\":\"rogernadal322\",\"loyaltyReferenceTypeCode\":\"U\"}]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/referenceVerification",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"loyaltyCarrierCode\":\"DL\",\"loyaltyReference\":[{\"loyaltyReferenceId\":\"rogernadal322\",\"loyaltyReferenceTypeCode\":\"U\"}]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/referenceVerification",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"loyaltyCarrierCode\":\"DL\",\"loyaltyReference\":[{\"loyaltyReferenceId\":\"rogernadal322\",\"loyaltyReferenceTypeCode\":\"U\"}]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://signin.delta.com/pf-ws/authn/flows/GGBfr6kX3p",
+  "GET": "",
+  "POST": "{\"username\":\"9511119696\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://signin.delta.com/pf-ws/authn/flows/GGBfr6kX3p",
+  "GET": "",
+  "POST": "{\"username\":\"9511119696\",\"password\":\"123Andy#!000\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "60201",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "8729858970",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "8729858970",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "Evanston",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "1112 Davis Street",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "1112 Davis Street",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "1112 Davis Street",
+  "url": "https://www.delta.com/enrollment/cardOffer/getOffer",
+  "GET": "",
+  "POST": "{\"applicationType\":\"enrollment\",\"bannerTemplateId\":\"G\",\"browserAreaText\":\"1536x564\",\"customerRefId\":\"\",\"fromMobile\":false,\"ipDerivedPostalCode\":\"\",\"loyaltyMemberId\":\"\",\"pageId\":\"SKYMILES-ENROLLMENT\",\"partnerUuid\":\"51041431540627673482468893444136166018\",\"privateBrowsing\":false,\"referringUrlText\":\"\",\"screenResolutionText\":\"1536x864\",\"sessionId\":\"\",\"taxesAndFeesCost\":\"\",\"tripCost\":\"0\",\"tripMilesCost\":\"0\",\"basicInfo\":{\"birthDay\":\"31\",\"birthMonth\":\"03\",\"birthYear\":\"2000\",\"isAgeConsent\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"middleName\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"gender\":\"M\",\"canadianTravelerNbr\":\"\",\"knownTravelerNbr\":\"\",\"redressNbr\":\"\",\"preferredLanguage\":\"en\",\"preferredName\":\"\"},\"contactInfo\":{\"areaCode\":\"\",\"countryNumberCode\":\"1\",\"emailAddress\":{\"emailAddress\":\"rogernadal322@gmail.com\",\"isFareSaleSelected\":false,\"isPartnerOfferSelected\":false,\"isSMPromotionSelected\":false,\"isSMStatementSelected\":false,\"isTravelNewsSelected\":false,\"permissionToPartnerComms\":\"\"},\"isGDPRConsent\":false,\"mailingAddress\":{\"addressLine1\":\"1112 Davis Street\",\"addressLine2\":\"\",\"addressLine6\":\"\",\"addressTypeCode\":\"H\",\"areaTerritoryPrefecture\":\"\",\"businessName\":\"\",\"cityLocalityName\":\"Evanston\",\"districtTownName\":\"\",\"countryCode\":\"US\",\"countrySubdivisionCode\":\"IL\",\"postalCode\":\"60201\"},\"phoneNumber\":\"8729858970\"}}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "1112 Davis Street",
+  "url": "https://loyalty-api.delta.com/loyaltyMember/v1/enrollment",
+  "GET": "",
+  "POST": "{\"loyaltyMember\":{\"personName\":{\"firstName\":\"roger\",\"middleName\":null,\"lastName\":\"nadal\",\"namePrefixCode\":null,\"nameSuffixCode\":null},\"genderCode\":\"M\",\"birthDate\":\"2000-03-31\",\"preferredLanguageCode\":\"EN\",\"address\":{\"businessName\":\"\",\"addressLine1Text\":\"1112 Davis Street\",\"addressLine2Text\":\"\",\"cityLocalityName\":\"Evanston\",\"countrySubdivisionCode\":\"IL\",\"isoCountryCode\":\"US\",\"postalCode\":\"60201\",\"districtTownName\":\"\",\"prefectureLocationName\":\"\",\"addressAliasName\":null,\"contactPointCode\":\"H\"},\"emails\":[{\"emailAdr\":\"rogernadal322@gmail.com\"}],\"phones\":[{\"countryCallingCode\":\"1\",\"phoneAreaNum\":\"872\",\"phoneNum\":\"9858970\",\"phoneExtensionNum\":null,\"contactPointCode\":\"H\",\"phoneContactMethodCode\":\"C\"}],\"userSecurity\":{\"userName\":\"rogernadal322\",\"passwordText\":\"123Andy#!000\",\"securityQuestions\":[{\"questionNum\":\"2\",\"answerText\":\"Evanston\"},{\"questionNum\":\"1\",\"answerText\":\"Evanston1\"}]}},\"memberEnrollmentSource\":{\"enrollmentSourceCode\":\"DEL\",\"loyaltyEnrollmentSourceVehicleCode\":\"NET\"},\"memberNotification\":{\"marketingCommunicationCode\":\"N\",\"interestNotifications\":[],\"eventNotifications\":[]}}",
+  "referer": "",
+  "cookie": ""
+}

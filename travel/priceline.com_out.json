@@ -1,0 +1,432 @@
+{
+  "str": "roger",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "roger",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "nadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2467fe9a-7110-42b6-81ab-01f06045b77d\",\"originalTimestamp\":\"2023-02-26T07:06:48.188Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.196Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"37846306-c7ae-4653-9554-42d82200db62\",\"originalTimestamp\":\"2023-02-26T07:06:48.199Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":2},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.204Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"634fb831-a4b2-432d-8262-62c1281f3ae1\",\"originalTimestamp\":\"2023-02-26T07:06:48.209Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"impression\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":3},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:48.215Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "rogernadal322@gmail.com",
+  "url": "https://www.priceline.com/cust-events/v1/track",
+  "GET": "",
+  "POST": "{\"channel\":\"web\",\"context\":{\"app\":{\"name\":\"RudderLabs JavaScript SDK\",\"namespace\":\"com.rudderlabs.javascript\",\"version\":\"1.25.0\"},\"traits\":{},\"library\":{\"name\":\"RudderLabs JavaScript SDK\",\"version\":\"1.25.0\"},\"userAgent\":\"Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36\",\"locale\":\"en-US\",\"os\":{\"name\":\"\",\"version\":\"\"},\"screen\":{\"density\":1.25,\"width\":1536,\"height\":864,\"innerWidth\":1536,\"innerHeight\":564},\"sessionId\":1677395162285,\"campaign\":{},\"page\":{\"path\":\"/\",\"referrer\":\"https://www.priceline.com/?vrid=698e06de80759fbfac78ae2c0a9ec625\",\"referring_domain\":\"www.priceline.com\",\"search\":\"?vrid=c89f7655903ea9911e5a190d4209dffb\",\"title\":\"Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.\",\"url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"tab_url\":\"https://www.priceline.com/?vrid=c89f7655903ea9911e5a190d4209dffb\",\"initial_referrer\":\"$direct\",\"initial_referring_domain\":\"\"}},\"type\":\"track\",\"messageId\":\"2aec0b3d-a7ed-443d-8208-50f0e03d06a3\",\"originalTimestamp\":\"2023-02-26T07:06:52.585Z\",\"anonymousId\":\"c77d509b-2910-4129-9034-dcf638bcf4a0\",\"userId\":\"\",\"event\":\"cross_sell\",\"properties\":{\"rudderEvent\":true,\"type\":\"explicit\",\"subType\":\"cross_sell\",\"category\":\"click\",\"parentProduct\":\"FLY:STAY\",\"cguid\":\"32e936f259cfd6510cc70d94cd4d4840\",\"emailAddress\":\"rogernadal322@gmail.com\",\"source\":\"homepage\",\"label\":\"Flight + Hotel Deal\",\"position\":1},\"integrations\":{\"All\":true},\"sentAt\":\"2023-02-26T07:06:52.591Z\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://graph.facebook.com/v13.0/661553897238695/events",
+  "GET": "",
+  "POST": "access_token=EAAKsL9SIynIBAGZBaxZBpIlUY6J8OJI2Pa8gwcQZBap7b420sO6k8HxCkuWZA2EWxBZArIlGCPUlX4Jgxq72cfVR6q1jQlqEf4lAjMQZCgZAb5JfzFFp2x6Gqo6hZCiqFmQT3Me36ZCDJTCzEzzGOAoPitkMMQQNBnDE3Ax8R9gWcElG7WElYkuThcZAjhQRvSIPsZD&data=%5B%7B%22event_name%22%3A%22ViewContent%22%2C%22event_time%22%3A1677395211%2C%22action_source%22%3A%22website%22%2C%22user_data%22%3A%7B%22em%22%3A%5B%22eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%22%5D%2C%22client_ip_address%22%3A%22165.124.85.47%22%2C%22client_user_agent%22%3A%22Mozilla%2F5.0%20(X11%3B%20Fedora%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F110.0.0.0%20Safari%2F537.36%22%7D%2C%22custom_data%22%3A%7B%22content_name%22%3A%22homepage%22%2C%22content_category%22%3A%22landing%22%7D%7D%5D",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "eba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039",
+  "url": "https://sslwidget.criteo.com/event?a=%5Ban%253Dweb-hotel-priceline.com%2526cn%253Dus%2526ln%253Den%2Can%253Dcom.priceline.app.web%2526cn%253Dus%2526ln%253Den%5D&v=5.14.0&p0=e%3Dce%26m%3D%255Beba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%255D%26h%3Dsha256&p1=e%3Dce%26m%3D%255B%255D%26h%3Dmd5&p2=e%3Dexd%26site_type%3Dd%26ui_refid%3DDTDIRECT%26ui_mktg_rtg_test%3D%26cguid%3D32e936f259cfd6510cc70d94cd4d4840&p3=e%3Dvh&p4=e%3Ddis&adce=1&bundle=6u_wAV9KMmRKMFdWUnZxUVA2a3ZQcGxaaVdwVHJGdnZlU2lBN2FNN1JiQ21yQ1RtZ1BoWjZ3WEJqVEhUVjd2SVFHTUkzUXZjNERxZTBHaURsVHRoQkRXM2RaTXFMMUxuQTlDeVVGMjJ5VjROYng0ZTByZTR2JTJGanJIMXJoUyUyQld0MVlPRTE&tld=priceline.com&dy=1&fu=https%253A%252F%252Fwww.priceline.com%252F%253Fvrid%253Dc89f7655903ea9911e5a190d4209dffb&pu=https%253A%252F%252Fwww.priceline.com%252F%253Fvrid%253D698e06de80759fbfac78ae2c0a9ec625&dtycbr=62069",
+  "GET": "https://sslwidget.criteo.com/event?a=%5Ban%253Dweb-hotel-priceline.com%2526cn%253Dus%2526ln%253Den%2Can%253Dcom.priceline.app.web%2526cn%253Dus%2526ln%253Den%5D&v=5.14.0&p0=e%3Dce%26m%3D%255Beba23eb9253d668bc24763ce39c4a3b51c5cdd8fd25b1c680cbd0cf2294e8039%255D%26h%3Dsha256&p1=e%3Dce%26m%3D%255B%255D%26h%3Dmd5&p2=e%3Dexd%26site_type%3Dd%26ui_refid%3DDTDIRECT%26ui_mktg_rtg_test%3D%26cguid%3D32e936f259cfd6510cc70d94cd4d4840&p3=e%3Dvh&p4=e%3Ddis&adce=1&bundle=6u_wAV9KMmRKMFdWUnZxUVA2a3ZQcGxaaVdwVHJGdnZlU2lBN2FNN1JiQ21yQ1RtZ1BoWjZ3WEJqVEhUVjd2SVFHTUkzUXZjNERxZTBHaURsVHRoQkRXM2RaTXFMMUxuQTlDeVVGMjJ5VjROYng0ZTByZTR2JTJGanJIMXJoUyUyQld0MVlPRTE&tld=priceline.com&dy=1&fu=https%253A%252F%252Fwww.priceline.com%252F%253Fvrid%253Dc89f7655903ea9911e5a190d4209dffb&pu=https%253A%252F%252Fwww.priceline.com%252F%253Fvrid%253D698e06de80759fbfac78ae2c0a9ec625&dtycbr=62069",
+  "POST": "",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
+{
+  "str": "123Andy#!000",
+  "url": "https://ids.priceline.com/idp/idx/enroll/new",
+  "GET": "",
+  "POST": "{\"userProfile\":{\"desktopPromoFlagOnRegister\":false,\"mwebPromoFlagOnRegister\":false,\"firstName\":\"roger\",\"lastName\":\"nadal\",\"email\":\"rogernadal322@gmail.com\"},\"credentials\":{\"passcode\":\"123Andy#!000\"},\"stateHandle\":\"02.id.wr_-OP6Y5gSOAyzOQMu5XAR6UrWEfLJFkpJRoWaJ~drd\"}",
+  "referer": "",
+  "cookie": ""
+}
