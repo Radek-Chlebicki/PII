@@ -8,12 +8,13 @@ import urllib.parse
 from urllib.parse import unquote
 import multiprocessing
 import traceback
+from adblockparser import AdblockRules
 
 # import demjson3
 
 def main():
     parser = argparse.ArgumentParser(description="find leakages to third parties in the HAR")
-    
+
     parser.add_argument("harFolder", help="folder with hars, har file name is etld/hostname")
     parser.add_argument("hashCsv", help="csv with the hashes")
     parser.add_argument("outLeakCsvPath", help="output csv listing leaks")
@@ -129,6 +130,7 @@ def getLeakTemplate():
         "first_party" : "", 
         "pageref"     : "",
         "third_party" : "", 
+        "third_party_url" : "",
         "http_method" : "",
         "startedDateTime" : "",
         "leak_method" : "", # header, cookie, get, post
@@ -140,7 +142,7 @@ def getLeakTemplate():
         "value" : "", 
         "mimeType" : "", 
         "text" : "",
-        "index" : ""
+        "index" : "",
     }
 
 def entryToLeak(entry, hashDf, firstParty,pages):
@@ -153,6 +155,7 @@ def entryToLeak(entry, hashDf, firstParty,pages):
 
     http_method = entry["request"]["method"]
     first_party = firstParty
+    third_party_url = entry["request"]["url"]
     third_party = urllib.parse.urlparse(entry["request"]["url"]).hostname
     startedDateTime = entry["startedDateTime"]
     pageref = ""
@@ -187,6 +190,7 @@ def entryToLeak(entry, hashDf, firstParty,pages):
         leakInstance["first_party"] = first_party
         leakInstance["pageref"] = pageref
         leakInstance["third_party"] = third_party
+        leakInstance["third_party_url"] = third_party_url
         leakInstance["http_method"] = http_method
         leakInstance["startedDateTime"] = startedDateTime
         leakInstance["leak_method"] = aFind["method"]
@@ -200,7 +204,7 @@ def entryToLeak(entry, hashDf, firstParty,pages):
         leakInstance["text"] = aFind["text"]
         leaksList.append(leakInstance)    
 
-    return leaksList        
+    return leaksList
 
 
 def harToLeaks(aTup):
@@ -231,7 +235,8 @@ def harToLeaks(aTup):
     leaks.append(aLeak)
     
     for entry in thirdPartyEntries: 
-        leaks.extend(entryToLeak(entry, hashDf, firstParty, pages))
+        leaksList = entryToLeak(entry, hashDf, firstParty, pages)
+        leaks.extend(leaksList)
     
     return leaks
 
