@@ -17,14 +17,18 @@ def process(csvLeakFilePath, txtFilterRulesFilePath, outFilePath):
     df = pd.read_csv(csvLeakFilePath)
     print(df.index)
     print(df.columns)
-    columnName = os.path.basename(txtFilterRulesFilePath)
-    with open(file=txtFilterRulesFilePath, mode="r")as fp:
-        lines = fp.readlines()
-        lines = [line.rstrip('\n') for line in lines]
-    rules = AdblockRules(lines)
-    df.third_party_url.fillna(value="",inplace=True)
-    newCol = df.loc[:,"third_party_url"].map(lambda x: rules.should_block(x))
-    df.insert(loc=len(df.columns),column=columnName, value=newCol)
+
+    for filePath in ["blocklists/easyprivacy.txt","blocklists/combined_disguised_trackers.txt", "blocklists/combined_disguised_ads.txt"]:
+        columnName = os.path.basename(filePath)
+        with open(file=filePath, mode="r")as fp:
+            lines = fp.readlines()
+            lines = [line.rstrip('\n') for line in lines]
+        
+        rules = AdblockRules(lines)
+        df.third_party_url.fillna(value="",inplace=True)
+        newCol = df.loc[:,"third_party_url"].map(lambda x: rules.should_block(x))
+        df.insert(loc=len(df.columns),column=columnName, value=newCol)
+
     df.to_csv(outFilePath)
     
 if __name__ == "__main__":

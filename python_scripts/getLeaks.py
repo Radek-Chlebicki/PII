@@ -9,6 +9,7 @@ from urllib.parse import unquote
 import multiprocessing
 import traceback
 from adblockparser import AdblockRules
+import ast
 
 # import demjson3
 
@@ -77,7 +78,7 @@ def iterateTheHashesDictList(df : pd.DataFrame, dictList : list[dict[str,str]], 
             instances = searchDictListAHash(dictList, aHash, col)
             retlist += [{"where": where, "key": k, "value": v, "mimeType" : "", "text" : "", "index" : index ,"row": row, "col" : col, "hash" : aHash, "method" : method} for where, k, v, indexFinds in instances for index in indexFinds]
 
-        if col == "plaintext": 
+        if col == "plaintext" or col == "base16" or col == "base32" or col == "base64": 
             retlist.sort(key=lambda x : len(x["hash"]),reverse=True)
             # if len(retlist) > 0 : print(retlist)
             toRemove = []
@@ -110,7 +111,7 @@ def iterateTheHashesBody(df : pd.DataFrame, text : str, mimeType : str, method:s
             occuranceIndexes = searchBodyAHash(text, mimeType, aHash, col)
             retlist += [{"where": "body", "key" : "", "value": "", "mimeType": mimeType, "text": text, "index": index, "row": row, "col" : col, "hash" : aHash, "method" : method} for index in occuranceIndexes]
 
-        if col == "plaintext": 
+        if col == "plaintext" or col == "base16" or col == "base32" or col == "base64": 
             retlist.sort(key=lambda x : len(x["hash"]),reverse=True)
             # if len(retlist) > 0 : print(retlist)
             toRemove = []
@@ -143,7 +144,12 @@ def getLeakTemplate():
         "mimeType" : "", 
         "text" : "",
         "index" : "",
+        "cloaking" : "",
+        "cloak_list" : []        
     }
+def str_to_list(s):
+    print(s)
+    return ast.literal_eval(s)
 
 def entryToLeak(entry, hashDf, firstParty,pages):
     leak = getLeakTemplate()
@@ -152,11 +158,25 @@ def entryToLeak(entry, hashDf, firstParty,pages):
     # search in headers
     # search in queryString
     # search in body
+    cloaked = False 
+    try: 
+        cloaked = entry["request"]["cloaking"]
+    except KeyError as e: 
+        cloaked = False
 
+    cloakList = []
+    try: 
+        cloakList = entry["request"]["cnames"]
+    except KeyError as e: 
+        cloakList = False
     http_method = entry["request"]["method"]
     first_party = firstParty
     third_party_url = entry["request"]["url"]
-    third_party = urllib.parse.urlparse(entry["request"]["url"]).hostname
+    if not cloaked:
+        third_party = urllib.parse.urlparse(entry["request"]["url"]).hostname
+    else: 
+        lastCname = entry["request"]["cnames"][-1]
+        third_party = lastCname
     startedDateTime = entry["startedDateTime"]
     pageref = ""
     try:
@@ -174,7 +194,7 @@ def entryToLeak(entry, hashDf, firstParty,pages):
     
     queryLeaks = iterateTheHashesDictList(hashDf, entry["request"]["queryString"], "get")
 
-    cookieLeaks = iterateTheHashesDictList(hashDf, entry["request"]["cookies"], "cookie")
+    # cookieLeaks = iterateTheHashesDictList(hashDf, entry["request"]["cookies"], "cookie")
 
     headerLeaks  = iterateTheHashesDictList(hashDf, entry["request"]["headers"], "header")
 
@@ -185,7 +205,7 @@ def entryToLeak(entry, hashDf, firstParty,pages):
         pass
 
     leaksList = []
-    for aFind in queryLeaks + cookieLeaks + headerLeaks + bodyLeaks:
+    for aFind in queryLeaks + headerLeaks + bodyLeaks:
         leakInstance = getLeakTemplate()
         leakInstance["first_party"] = first_party
         leakInstance["pageref"] = pageref
@@ -202,10 +222,20 @@ def entryToLeak(entry, hashDf, firstParty,pages):
         leakInstance["value"] = aFind["value"]
         leakInstance["mimeType"] = aFind["mimeType"]
         leakInstance["text"] = aFind["text"]
+        leakInstance["cloaking"] = cloaked
+        leakInstance["cloak_list"] = cloakList
         leaksList.append(leakInstance)    
 
     return leaksList
 
+def thirdPartyTest(anEntry, firstParty):
+    openThirdParty = not (firstParty in urllib.parse.urlparse(anEntry["request"]["url"]).hostname)
+    try: 
+        cloaked = anEntry["request"]["cloaking"]
+    except KeyError as e: 
+        cloaked = False
+        print(e)
+    return openThirdParty or cloaked
 
 def harToLeaks(aTup):
     harPath = aTup[0]
@@ -226,8 +256,8 @@ def harToLeaks(aTup):
     allEntries = harJson["log"]["entries"]
     
     allEntriesWithRequests = list(filter(lambda anEntry : "request" in anEntry,allEntries))
-
-    thirdPartyEntries = list(filter(lambda anEntry: not firstParty in urllib.parse.urlparse(anEntry["request"]["url"]).hostname, allEntriesWithRequests))
+    
+    thirdPartyEntries = list(filter(lambda entry : thirdPartyTest(entry, firstParty), allEntriesWithRequests))
     
     leaks = []
     aLeak = getLeakTemplate()
