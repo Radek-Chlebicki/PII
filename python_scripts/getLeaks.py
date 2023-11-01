@@ -75,6 +75,7 @@ def iterateTheHashesDictList(df : pd.DataFrame, dictList : list[dict[str,str]], 
     for col in df.columns:
         for row in df.index:
             aHash = df.loc[row,col]
+            # if col=="sha1": print(f"body{row},{col},{aHash}.")
             instances = searchDictListAHash(dictList, aHash, col)
             retlist += [{"where": where, "key": k, "value": v, "mimeType" : "", "text" : "", "index" : index ,"row": row, "col" : col, "hash" : aHash, "method" : method} for where, k, v, indexFinds in instances for index in indexFinds]
 
@@ -107,6 +108,8 @@ def iterateTheHashesBody(df : pd.DataFrame, text : str, mimeType : str, method:s
     for col in df.columns:
         for row in df.index:
             aHash = df.loc[row,col]
+            # if col=="sha1": print(f"body{row},{col},{aHash}.")
+
             # if col == "plaintext" : print(aHash)
             occuranceIndexes = searchBodyAHash(text, mimeType, aHash, col)
             retlist += [{"where": "body", "key" : "", "value": "", "mimeType": mimeType, "text": text, "index": index, "row": row, "col" : col, "hash" : aHash, "method" : method} for index in occuranceIndexes]
@@ -194,7 +197,7 @@ def entryToLeak(entry, hashDf, firstParty,pages):
     
     queryLeaks = iterateTheHashesDictList(hashDf, entry["request"]["queryString"], "get")
 
-    # cookieLeaks = iterateTheHashesDictList(hashDf, entry["request"]["cookies"], "cookie")
+    cookieLeaks = iterateTheHashesDictList(hashDf, entry["request"]["cookies"], "cookie")
 
     headerLeaks  = iterateTheHashesDictList(hashDf, entry["request"]["headers"], "header")
 
@@ -205,7 +208,7 @@ def entryToLeak(entry, hashDf, firstParty,pages):
         pass
 
     leaksList = []
-    for aFind in queryLeaks + headerLeaks + bodyLeaks:
+    for aFind in queryLeaks + cookieLeaks + headerLeaks + bodyLeaks:
         leakInstance = getLeakTemplate()
         leakInstance["first_party"] = first_party
         leakInstance["pageref"] = pageref
