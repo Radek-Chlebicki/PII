@@ -99,7 +99,7 @@ def searchBodyAHash(text : str, mimeType : str, aHash : str, col : str):
     #     aHash = aHash[0:10]
     if mimeType == "application/x-www-form-urlencoded": 
         text = urllib.parse.unquote(urllib.parse.unquote(urllib.parse.unquote(text)))
-    indexList = findAll(text, aHash)
+    indexList = list(findAll(text, aHash))
     return indexList
 
 def iterateTheHashesBody(df : pd.DataFrame, text : str, mimeType : str, method:str):
@@ -156,11 +156,6 @@ def str_to_list(s):
 
 def entryToLeak(entry, hashDf, firstParty,pages):
     leak = getLeakTemplate()
-    # search for a hash in the entry request
-    # search in cookies
-    # search in headers
-    # search in queryString
-    # search in body
     cloaked = False 
     try: 
         cloaked = entry["request"]["cloaking"]
