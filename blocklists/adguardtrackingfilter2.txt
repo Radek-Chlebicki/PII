@@ -1,15 +1,11 @@
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
+! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
 !
 !-------------------------------------------------------------------------------!
 !------------------ General JS API ---------------------------------------------!
 !-------------------------------------------------------------------------------!
 ! JS API START
-
-
-
-
-
 !
 ! AG_removeCookie
 ! Examples: AG_removeCookie('/REGEX/') or AG_removeCookie('part of the cookie name')

@@ -5995,6 +5995,7 @@ _mongo_stats/
 ://top.*/count/cnt.php?
 ://top.*/hit/
 ! -----------------Third-party tracking domains-----------------!
+! Any domain known to serve tracking 
 ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
 ! Non-flagged (Generic blocks)
 ||00px.net^
@@ -11499,6 +11500,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gostats.vn^$third-party
 ! -----------------Third-party tracking services-----------------!
 ! *** easylist:easyprivacy/easyprivacy_thirdparty.txt ***
+! tracking seen as 
 -client-tracking.goodgamestudios.com/
 ||100widgets.com^$third-party
 ||105app.com/report/?
